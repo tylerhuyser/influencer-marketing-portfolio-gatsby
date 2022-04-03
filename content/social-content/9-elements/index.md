@@ -7,13 +7,6 @@ stats:
   - Thirty (30) Influencers (Rising Tier)
   - One Hundred Twenty (120) Pieces of Content (2 x Posts + 2 x Stories w/ Swipe Up)
   - Over 4 million impressions (paid + organic)
-influencerContent:
-  - post:
-    - livePostLink: https://www.instagram.com/p/BxzauaslhHZ/
-    - postFileLink: https://drive.google.com/thumbnail?id=1ckNAsHPztjLCAd4sJg1418cdwXX9mof_
-  - post:
-    - livePostLink: https://www.instagram.com/p/ByTqTwaAmfX/
-    - postFileLink: https://drive.google.com/thumbnail?id=1ckNAsHPztjLCAd4sJg1418cdwXX9mof_
 showInProjects: true
 ---
   

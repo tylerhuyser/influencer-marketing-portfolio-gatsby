@@ -11,8 +11,8 @@ export default function CampaignCard (props) {
 
   const data = useStaticQuery(graphql`
     query {
-      social: allMarkdownRemark(
-        filter: { fileAbsolutePath: { regex: "/social-content/" } }
+      content: allMarkdownRemark(
+        filter: { fileAbsolutePath: { regex: "/content/social-content/" } }
         sort: { fields: [frontmatter___client], order: ASC }
       ) {
         edges {
@@ -23,7 +23,7 @@ export default function CampaignCard (props) {
               heroImage 
               subImage
               stats
-              influencerContent
+              
             }
             html
           }
@@ -39,7 +39,7 @@ export default function CampaignCard (props) {
 
   console.log(data)
 
-  const campaigns = data.social.edges.filter(({ node }) => node);
+  const campaigns = data.content.edges.filter(({ node }) => node);
 
   return (
 
@@ -68,11 +68,11 @@ export default function CampaignCard (props) {
                 <div className="project-description" dangerouslySetInnerHTML={{ __html: html }} />
                 <img src={subImage} />
                 <p>INFLUENCER CONTENT</p>
-                <div className="influencer-content-container">
+                {/* <div className="influencer-content-container">
                   {influencerContent.map((content, i) => (
                     <img src={content.postFileLink} />
                   ))}
-                </div>
+                </div> */}
                 {/* {coverImage} */}
               </div>
             )

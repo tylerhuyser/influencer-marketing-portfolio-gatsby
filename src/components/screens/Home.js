@@ -11,7 +11,7 @@ export default function Home (props) {
 
     <>
       
-      <CampaignCards category={"social-content"} />
+      <CampaignCards category={"/content/social-content/"} />
 
     </>
   )
