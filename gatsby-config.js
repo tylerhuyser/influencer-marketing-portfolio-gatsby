@@ -26,24 +26,38 @@ module.exports = {
       },
     },
     {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        name: 'campaigns',
+        path: `./content/campaigns`,
+      },
+    },
+    {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        name: 'posts',
+        path: `./content/posts`,
+      },
+    },
+    {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `social`,
-        path: `./content/social-content`,
+        path: `./content/campaigns/social`,
       },
     },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `video`,
-        path: `./content/video-content`,
+        path: `./content/campaigns/video`,
       },
     },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `experiential`,
-        path: `./content/experiential-content`,
+        path: `./content/campaigns/experiential`,
       },
     }]
 };
