@@ -7,6 +7,9 @@ stats:
   - Thirty (30) Influencers (Rising Tier)
   - One Hundred Twenty (120) Pieces of Content (2 x Posts + 2 x Stories w/ Swipe Up)
   - Over 4 million impressions (paid + organic)
+posts:
+- 'https://drive.google.com/thumbnail?id=1SS7YR1TdC92uK2Iw_Iz2Garxo8888sPY'
+- 'https://drive.google.com/thumbnail?id=1ed54W60UXYK6Y0gNETNo3M79Wb0hjxBq'
 showInProjects: true
 ---
   

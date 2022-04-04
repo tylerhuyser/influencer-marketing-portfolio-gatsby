@@ -11,8 +11,8 @@ export default function CampaignCard (props) {
 
   const data = useStaticQuery(graphql`
     query {
-      content: allMarkdownRemark(
-        filter: { fileAbsolutePath: { regex: "/content/social-content/" } }
+      campaigns: allMarkdownRemark(
+        filter: { fileAbsolutePath: { regex: "/campaigns/social/" } }
         sort: { fields: [frontmatter___client], order: ASC }
       ) {
         edges {
@@ -23,7 +23,14 @@ export default function CampaignCard (props) {
               heroImage 
               subImage
               stats
-              
+              posts {
+                frontmatter {
+                  influencerName
+                  influencerHandle
+                  livePostLink
+                  postFileLink
+                }
+              }
             }
             html
           }
@@ -39,7 +46,7 @@ export default function CampaignCard (props) {
 
   console.log(data)
 
-  const campaigns = data.content.edges.filter(({ node }) => node);
+  const campaigns = data.campaigns.edges.filter(({ node }) => node);
 
   return (
 
@@ -49,7 +56,7 @@ export default function CampaignCard (props) {
         {campaigns &&
           campaigns.map(({ node }, i) => {
             const { frontmatter, html } = node;
-            const { client, coverImage, heroImage, subImage, stats, influencerContent } = frontmatter;
+            const { client, coverImage, heroImage, subImage, stats, posts } = frontmatter;
 
             
 
@@ -59,7 +66,6 @@ export default function CampaignCard (props) {
                 <p className="comapign-card-title" id={`${client} title`}>{client}</p>
                 <img src={coverImage} />
                 <img src={heroImage} />
-                <p className="camapign-stats" id={`${client} stats`}>{stats}</p>
                 <ul className="campaign-stats-list">
                       {stats.map((stat, i) => (
                         <li key={i}>{stat}</li>
@@ -68,11 +74,11 @@ export default function CampaignCard (props) {
                 <div className="project-description" dangerouslySetInnerHTML={{ __html: html }} />
                 <img src={subImage} />
                 <p>INFLUENCER CONTENT</p>
-                {/* <div className="influencer-content-container">
-                  {influencerContent.map((content, i) => (
-                    <img src={content.postFileLink} />
+                <div className="influencer-content-container">
+                  {posts.map((post, i) => (
+                    <img src={post.frontmatter.postFileLink} />
                   ))}
-                </div> */}
+                </div>
                 {/* {coverImage} */}
               </div>
             )

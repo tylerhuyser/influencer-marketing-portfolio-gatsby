@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `new`,
+    title: `Influencer Marketing Portfolio - Tyler Huyser`,
     siteUrl: `https://www.yourdomain.tld`
   },
   plugins: ["gatsby-plugin-image", "gatsby-plugin-mdx", "gatsby-transformer-remark", "gatsby-plugin-sharp", "gatsby-transformer-sharp", `gatsby-plugin-react-helmet`, {
@@ -59,5 +59,8 @@ module.exports = {
         name: `experiential`,
         path: `./content/campaigns/experiential`,
       },
-    }]
+    }],
+  mapping: {
+      "MarkdownRemark.frontmatter.posts": `MarkdownRemark.frontmatter.postFileLink`,
+    },
 };
