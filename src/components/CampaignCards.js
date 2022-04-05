@@ -64,7 +64,7 @@ export default function CampaignCard (props) {
 
             return (
 
-              <div className="campaign-card-container" id={client} onClick={handleCampaign}>
+              <div className="campaign-card-container" id={client}>
 
                 <img className='header-image' id="cover-image" src={coverImage} />
                 

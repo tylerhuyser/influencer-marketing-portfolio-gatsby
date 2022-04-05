@@ -1,0 +1,143 @@
+.campaign-detail-container {
+  width: 100%;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+
+  -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+  -moz-box-sizing: border-box; /* Firefox, other Gecko */
+  box-sizing: border-box;
+}
+
+.campaign-detail-title, .campaign-detail-section-header {
+  color: #555555;
+  font-family: "Benton Sans Bold", "Benton Sans Bold", sans-serif;
+  line-height: 1.4 !important;
+  font-size: 36px;
+  font-weight: bold;
+
+  width: 100%;
+
+  -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+  -moz-box-sizing: border-box; /* Firefox, other Gecko */
+  box-sizing: border-box;
+}
+
+.campaign-detail-title {
+  text-align: center;
+}
+
+#influencer-content-header {
+  padding-top: 36px;
+  padding-bottom: 36px;
+  /* padding-left: 2vw;
+  padding-right: 2vw; */
+}
+
+.campaign-detail-body-container {
+  width: 100%;
+  padding-top: 36px;
+  padding-bottom: 36px;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.campaign-detail-section-container {
+  width: 60%;
+  /* padding: 25px; */
+  padding-top: 36px;
+  padding-bottom: 36px;
+  padding-left: 2vw;
+  padding-right: 2vw;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+
+  -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+  -moz-box-sizing: border-box; /* Firefox, other Gecko */
+  box-sizing: border-box;
+}
+
+#overview-section, #stats-section {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+#stats-section {
+  width: 30%;
+}
+
+#influencer-content-section {
+  width: 100%;
+}
+
+.campaign-description, .campaign-stats-list, .influencer-name {
+  color: #555555;
+  font-family: "Benton Sans Bold", "Benton Sans Bold", sans-serif;
+  line-height: 1.7 !important;
+  font-size: 20px;
+  word-wrap: break-word;
+}
+
+.campaign-stats-list {
+  padding: 0px;
+}
+
+.campaign-stat {
+  margin-bottom: 36px;
+}
+
+.influencer-name {
+  font-size: 14px;
+}
+
+.header-image {
+  width: 100%;
+
+  padding-top: 36px;
+  padding-bottom: 36px;
+  padding-left: 2vw;
+  padding-right: 2vw;
+
+  height: auto;
+  object-fit: contain;
+
+  -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+  -moz-box-sizing: border-box; /* Firefox, other Gecko */
+  box-sizing: border-box;
+}
+
+.influencer-content-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: wrap;
+
+  -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+  -moz-box-sizing: border-box; /* Firefox, other Gecko */
+  box-sizing: border-box;
+}
+
+.influencer-content-link {
+
+  width: 250px;
+  height: 250px;
+
+
+  text-align: center;
+  text-decoration: underline;
+}
+
+.influencer-content-image {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}

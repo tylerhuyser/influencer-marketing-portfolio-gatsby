@@ -32,8 +32,8 @@
 #influencer-content-header {
   padding-top: 36px;
   padding-bottom: 36px;
-  padding-left: 2vw;
-  padding-right: 2vw;
+  /* padding-left: 2vw;
+  padding-right: 2vw; */
 }
 
 .campaign-card-body-container {
@@ -59,6 +59,10 @@
   flex-direction: column;
   justify-content: flex-start;
   align-items: center;
+
+  -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+  -moz-box-sizing: border-box; /* Firefox, other Gecko */
+  box-sizing: border-box;
 }
 
 #overview-section, #stats-section {
@@ -68,6 +72,10 @@
 
 #stats-section {
   width: 30%;
+}
+
+#influencer-content-section {
+  width: 100%;
 }
 
 .campaign-description, .campaign-stats-list, .influencer-name {
@@ -111,6 +119,7 @@
   flex-direction: row;
   justify-content: space-between;
   align-items: flex-start;
+  flex-wrap: wrap;
 
   -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
   -moz-box-sizing: border-box; /* Firefox, other Gecko */
@@ -128,8 +137,8 @@
 }
 
 .influencer-content-image {
-  width: 90%;
-  height: 90%;
+  width: 200px;
+  height: 200px;
   object-fit: cover;
 }
 
