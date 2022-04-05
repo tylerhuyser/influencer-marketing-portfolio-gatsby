@@ -7,14 +7,12 @@
   right: 0;
   width: 100%;
   height: 100%;
-  background-color: #2da18b;
+  background-color: gold;
   z-index: 99;
 
   display: flex;
   justify-content: center;
   align-items: center;
-
-  background-image: url('https://i.imgur.com/ROQb9lA.png');
 
   -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
   -moz-box-sizing: border-box; /* Firefox, other Gecko */
@@ -33,7 +31,7 @@
   transition: all 0.25s cubic-bezier(0.645, 0.045, 0.355, 1);
   scale: 10;
 
-  background-color: #2da18b;
+  background-color: gold;
   text-align: center;
   /* padding: 50px; */
 
@@ -50,7 +48,7 @@
   margin: 0 auto;
   user-select: none;
 
-  background-color: #2da18b;
+  background-color: gold;
 
   display: flex;
   align-items: center;
