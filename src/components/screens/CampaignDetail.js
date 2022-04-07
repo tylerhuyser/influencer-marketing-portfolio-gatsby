@@ -7,13 +7,15 @@ import "./CampaignDetail.css"
 export default function CampaignDetail (props) {
 
   const params = useParams()
+  const slug = params.slug
 
   console.log(params)
+  console.log(slug)
 
   const data = useStaticQuery(graphql`
-    query {
+    query ($slug: String) {
       campaigns: allMarkdownRemark(
-        filter: { fileAbsolutePath: { regex: "/campaigns/social/" } }
+        filter: { fileAbsolutePath: { regex: $slug } }
         sort: { fields: [frontmatter___client], order: ASC }
       ) {
         edges {
@@ -40,10 +42,10 @@ export default function CampaignDetail (props) {
     }
   `);
 
-  const handleCampaign = () => {
-    localStorage.setItem("currentCampaign", JSON.stringify(data.content.edge.filter()))
-    setTimeout(() => { navigate(`/campaigns/${data.content.edge.filter()}`) }, 1001)
-  }
+  // const handleCampaign = () => {
+  //   localStorage.setItem("currentCampaign", JSON.stringify(data.content.edge.filter()))
+  //   setTimeout(() => { navigate(`/campaigns/${data.content.edge.filter()}`) }, 1001)
+  // }
 
   console.log(data)
 
@@ -53,9 +55,9 @@ export default function CampaignDetail (props) {
 
   return (
 
-    <div className="campaign-detail-container" id={client}>
+    <div className="campaign-detail-container">
                 
-      <p className="campaign-detail-title" id={`${client} title`}>{client}</p>
+      {/* <p className="campaign-detail-title" id={`${client} title`}>{client}</p>
               
       <img className='header-image' id="hero-image" src={heroImage} />
 
@@ -93,7 +95,7 @@ export default function CampaignDetail (props) {
             ))}
           </div>
 
-        </div>
+        </div> */}
 
     </div>
   )

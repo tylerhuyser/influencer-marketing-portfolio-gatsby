@@ -42,8 +42,7 @@ export default function CampaignCard (props) {
   `);
 
   const handleCampaign = () => {
-    localStorage.setItem("currentCampaign", JSON.stringify(data.content.edge.filter()))
-    setTimeout(() => { navigate(`/campaigns/${data.content.edge.filter()}`) }, 1001)
+    setTimeout(() => { navigate(`/campaigns/9-elements`) }, 1001)
   }
 
   console.log(data)
@@ -66,7 +65,7 @@ export default function CampaignCard (props) {
 
               <div className="campaign-card-container" id={client}>
 
-                <img className='header-image' id="cover-image" src={coverImage} />
+                <img className='header-image' id="cover-image" src={coverImage} onClick={handleCampaign} />
                 
                 <p className="campaign-card-title" id={`${client} title`}>{client}</p>
               
