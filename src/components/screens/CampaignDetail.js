@@ -12,46 +12,46 @@ export default function CampaignDetail (props) {
   console.log(params)
   console.log(slug)
 
-  const data = useStaticQuery(graphql`
-    query ($slug: String) {
-      campaigns: allMarkdownRemark(
-        filter: { fileAbsolutePath: { regex: $slug } }
-        sort: { fields: [frontmatter___client], order: ASC }
-      ) {
-        edges {
-          node {
-            frontmatter {
-              client
-              coverImage
-              heroImage 
-              subImage
-              stats
-              posts {
-                frontmatter {
-                  influencerName
-                  influencerHandle
-                  livePostLink
-                  postFileLink
-                }
-              }
-            }
-            html
-          }
-        }
-      }
-    }
-  `);
+  // const data = useStaticQuery(graphql`
+  //   query ($path: String) {
+  //     campaigns: allMarkdownRemark(
+  //       filter: { fileAbsolutePath: { regex: $path } }
+  //       sort: { fields: [frontmatter___client], order: ASC }
+  //     ) {
+  //       edges {
+  //         node {
+  //           frontmatter {
+  //             client
+  //             coverImage
+  //             heroImage 
+  //             subImage
+  //             stats
+  //             posts {
+  //               frontmatter {
+  //                 influencerName
+  //                 influencerHandle
+  //                 livePostLink
+  //                 postFileLink
+  //               }
+  //             }
+  //           }
+  //           html
+  //         }
+  //       }
+  //     }
+  //   }
+  // `);
 
   // const handleCampaign = () => {
   //   localStorage.setItem("currentCampaign", JSON.stringify(data.content.edge.filter()))
   //   setTimeout(() => { navigate(`/campaigns/${data.content.edge.filter()}`) }, 1001)
   // }
 
-  console.log(data)
+  // console.log(data)
 
-  const campaign = data.campaigns.edges.filter(({ node }) => node);
+  // const campaign = data.campaigns.edges.filter(({ node }) => node);
 
-  console.log(campaign)
+  // console.log(campaign)
 
   return (
 

@@ -1,5 +1,6 @@
 ---
 client: '9 Elements'
+path: '/campaigns/9-elements'
 coverImage: 'https://drive.google.com/uc?export=view&id=1lV7jrwzVndbehqTEyBwsajc-Pg14Fekt'
 heroImage: 'https://drive.google.com/uc?export=view&id=1HukkYxnVelnTDMdI2WYk2R_k07lyZnqz'
 subImage: 'https://drive.google.com/uc?export=view&id=1ckNAsHPztjLCAd4sJg1418cdwXX9mof_'

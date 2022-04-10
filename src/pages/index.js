@@ -49,13 +49,13 @@ function App() {
                   element={<About />}
                 />
 
-                <Route path="/campaigns/:slug"
+                {/* <Route path="/campaigns/:slug"
                   element={<CampaignDetail />}
                 />
 
                 <Route path="/categories/:name"
                   element={<CampaignsByCategory/>}
-                  />
+                  /> */}
                   
               </Routes>
 

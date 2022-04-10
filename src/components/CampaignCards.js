@@ -1,5 +1,5 @@
 import React from 'react'
-import { useStaticQuery, graphql } from 'gatsby';
+import { useStaticQuery, graphql, Link } from 'gatsby';
 import { useNavigate } from "react-router-dom";
 
 import "./CampaignCards.css"
@@ -21,6 +21,7 @@ export default function CampaignCard (props) {
           node {
             frontmatter {
               client
+              path
               coverImage
               heroImage 
               subImage
@@ -41,9 +42,9 @@ export default function CampaignCard (props) {
     }
   `);
 
-  const handleCampaign = () => {
-    setTimeout(() => { navigate(`/campaigns/9-elements`) }, 1001)
-  }
+  // const handleCampaign = () => {
+  //   setTimeout(() => { navigate(`/campaigns/9-elements`) }, 1001)
+  // }
 
   console.log(data)
 
@@ -57,7 +58,7 @@ export default function CampaignCard (props) {
         {campaigns &&
           campaigns.map(({ node }, i) => {
             const { frontmatter, html } = node;
-            const { client, coverImage, heroImage, subImage, stats, posts } = frontmatter;
+            const { client, path, coverImage, heroImage, subImage, stats, posts } = frontmatter;
 
             
 
@@ -65,9 +66,13 @@ export default function CampaignCard (props) {
 
               <div className="campaign-card-container" id={client}>
 
-                <img className='header-image' id="cover-image" src={coverImage} onClick={handleCampaign} />
+                <Link to={`${path}`} >
+
+                  <img className='header-image' id="cover-image" src={coverImage} />
                 
-                <p className="campaign-card-title" id={`${client} title`}>{client}</p>
+                  <p className="campaign-card-title" id={`${client} title`}>{client}</p>
+                  
+                </Link>
               
                 <img className='header-image' id="hero-image" src={heroImage} />
 
