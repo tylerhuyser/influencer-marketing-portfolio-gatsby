@@ -14,7 +14,7 @@ export default function CampaignCard (props) {
   const data = useStaticQuery(graphql`
     query {
       campaigns: allMarkdownRemark(
-        filter: { fileAbsolutePath: { regex: "/campaigns/social/" } }
+        filter: { fileAbsolutePath: { regex: "/campaigns/" } }
         sort: { fields: [frontmatter___client], order: ASC }
       ) {
         edges {
@@ -22,6 +22,7 @@ export default function CampaignCard (props) {
             frontmatter {
               client
               path
+              category
               coverImage
               heroImage 
               subImage
@@ -48,7 +49,7 @@ export default function CampaignCard (props) {
 
   console.log(data)
 
-  const campaigns = data.campaigns.edges.filter(({ node }) => node);
+  const campaigns = data.campaigns.edges.filter(({ node }) => node.frontmatter.category === category);
 
   return (
 
