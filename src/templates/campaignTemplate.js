@@ -5,7 +5,7 @@ import { BrowserRouter as Router } from 'react-router-dom';
 import Layout from "../components/shared/Layout"
 import Loader from '../components/shared/Loader'
 
-import "../styles/CampaignTemplate.css"
+import "../styles/campaignTemplate.css"
 
 export default function CampaignTemplate({ data }) {
 

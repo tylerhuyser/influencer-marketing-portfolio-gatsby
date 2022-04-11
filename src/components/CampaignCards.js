@@ -2,7 +2,7 @@ import React from 'react'
 import { useStaticQuery, graphql, Link } from 'gatsby';
 import { useNavigate } from "react-router-dom";
 
-import "./CampaignCards.css"
+import "../styles/campaignCards.css"
 
 export default function CampaignCard (props) {
 

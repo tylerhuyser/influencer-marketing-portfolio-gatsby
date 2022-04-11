@@ -12,7 +12,7 @@ import {  faXmark,
 
 // import IconLogo from './IconLogo'
 
-import './Header.css'
+import "../../styles/header.css"
 
 
 export default function Header(props) {
