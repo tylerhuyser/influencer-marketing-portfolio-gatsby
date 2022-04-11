@@ -4,7 +4,6 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
   const { createPage } = actions
 
   const campaignTemplate = path.resolve(`src/templates/campaignTemplate.js`)
-  // const authorTemplate = path.resolve(`src/templates/authorTemplate.js`)
 
   const result = await graphql(`
     {
