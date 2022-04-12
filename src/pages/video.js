@@ -1,29 +1,25 @@
-import React, {useState} from 'react'
+import React from 'react'
 import { BrowserRouter as Router } from 'react-router-dom';
 
 import Layout from '../components/shared/Layout'
 import CampaignCards from '../components/CampaignCards'
 
-export default function Video (props) {
-
-  const [loaded, setLoaded] = useState(true)
-  const [isMounted, setIsMounted] = useState(true)
+export default function Video () {
 
   const location = window.location
-
   const isHome = location.pathname === '/';
 
   return (
       
-      <Router>
+    <Router>
 
-        <Layout location={location} loaded={loaded} isMounted={isMounted} isHome={isHome}>
+      <Layout location={location} loaded={true} isMounted={true} isHome={isHome}>
       
-          <CampaignCards category={"video"} />
+        <CampaignCards category={"video"} />
           
-        </Layout>
+      </Layout>
 
-      </Router>
+    </Router>
 
   )
 }
