@@ -4,7 +4,8 @@ path: '/campaigns/appaman'
 category: 'social'
 coverImage: 'https://drive.google.com/uc?export=view&id=1IqhoD0XqiwNdu7G2Vq-sj-pPkBfJSqQM'
 heroImage: 'https://drive.google.com/uc?export=view&id='
-subImage: 'https://drive.google.com/uc?export=view&id=1qWkfob8eaRBV7HJhkgsKQ8ld1JLZ6Byx'
+sub: 'https://drive.google.com/uc?export=view&id=1qWkfob8eaRBV7HJhkgsKQ8ld1JLZ6Byx'
+subType: 'image'
 stats:
   - Two (2) x Macro Influencers
   - Four (4) Pieces of Content (1 x Post + 1 x Story)
@@ -12,6 +13,8 @@ stats:
 posts:
 - 'https://drive.google.com/uc?export=view&id=1O_OclNG38Uf_zsTRapeKOdcp8SqyBgjW'
 - 'https://drive.google.com/uc?export=view&id=1_dqvMok8XWDIgQa7t26y0C0nhrAe__uT'
+press:
+- 
 showInProjects: true
 ---
   

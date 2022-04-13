@@ -4,7 +4,8 @@ path: '/campaigns/9-elements'
 category: 'social'
 coverImage: 'https://drive.google.com/uc?export=view&id=1lV7jrwzVndbehqTEyBwsajc-Pg14Fekt'
 heroImage: 'https://drive.google.com/uc?export=view&id=1HukkYxnVelnTDMdI2WYk2R_k07lyZnqz'
-subImage: 'https://drive.google.com/uc?export=view&id=1ckNAsHPztjLCAd4sJg1418cdwXX9mof_'
+sub: 'https://drive.google.com/uc?export=view&id=1ckNAsHPztjLCAd4sJg1418cdwXX9mof_'
+subType: 'image'
 stats:
   - Thirty (30) Influencers (Rising Tier)
   - One Hundred Twenty (120) Pieces of Content (2 x Posts + 2 x Stories w/ Swipe Up)
@@ -12,6 +13,8 @@ stats:
 posts:
 - 'https://drive.google.com/uc?export=view&id=1SS7YR1TdC92uK2Iw_Iz2Garxo8888sPY'
 - 'https://drive.google.com/uc?export=view&id=1ed54W60UXYK6Y0gNETNo3M79Wb0hjxBq'
+press:
+- 
 showInProjects: true
 ---
   

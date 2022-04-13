@@ -28,6 +28,13 @@ module.exports = {
     {
       resolve: 'gatsby-source-filesystem',
       options: {
+        name: 'press',
+        path: `./content/press/`,
+      },
+    },
+    {
+      resolve: 'gatsby-source-filesystem',
+      options: {
         name: 'campaigns',
         path: `./content/campaigns`,
       },
@@ -61,6 +68,7 @@ module.exports = {
       },
     }],
   mapping: {
-      "MarkdownRemark.frontmatter.posts": `MarkdownRemark.frontmatter.postFileLink`,
+    "MarkdownRemark.frontmatter.posts": `MarkdownRemark.frontmatter.postFileLink`,
+    "MarkdownRemark.frontmatter.press": `MarkdownRemark.frontmatter.pressLink`
     },
 };

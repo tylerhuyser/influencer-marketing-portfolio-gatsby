@@ -17,7 +17,7 @@ export default function CampaignTemplate({ data }) {
 
   const { markdownRemark } = data
   const { frontmatter, html } = markdownRemark
-  const { client, heroImage, subImage, stats, posts } = frontmatter;
+  const { client, heroImage, sub, subType, stats, press, posts } = frontmatter;
 
   console.log(frontmatter)
 
@@ -48,7 +48,15 @@ export default function CampaignTemplate({ data }) {
             </div>
           </div>
               
-          <img className='header-image' id="sub-image" src={subImage} />
+          {subType === "image" ?
+            
+            <img className='header-image' id="sub-image" src={sub} />
+            
+            :
+          
+            <iframe className="header-image" id="sub-video" src={sub} />
+            
+          }
               
           <div className="campaign-detail-section-container" id="influencer-content-section">
             <p className='campaign-detail-section-header' id="influencer-content-header">Select Influencer Content</p>
@@ -59,10 +67,26 @@ export default function CampaignTemplate({ data }) {
                   <p className='influencer-name'>{post.frontmatter.influencerName} ({post.frontmatter.influencerHandle})</p>                  
                 </a>
               ))}
-            </div>
-              
+            </div> 
           </div>
-              
+
+          { press && press.length > 0 && press[0] !== null ?
+
+            <div className="campaign-detail-section-container" id="press-section">
+              <p className='campaign-detail-section-header' id="press-header">Press</p>
+              {press.map((article, i) => (
+                <a href={article.frontmatter.pressLink} className="press-link">
+                  <img className="publisher-image" key={i} src={article.frontmatter.publisherImage} />
+                  <p className='publisher-name'>{article.frontmatter.publisherName} // ({article.frontmatter.blockQuote})</p>
+                </a>
+              ))}
+            </div>
+          
+            :
+
+            <></>
+          }
+            
         </div>
               
       </Layout>
@@ -79,7 +103,8 @@ query ($path: String!) {
       frontmatter {
         client
         heroImage 
-        subImage
+        sub
+        subType
         stats
         posts {
           frontmatter {
@@ -87,6 +112,14 @@ query ($path: String!) {
             influencerHandle
             livePostLink
             postFileLink
+          }
+        }
+        press {
+          frontmatter {
+            publisherName
+            publisherImage
+            pressLink
+            blockQuote
           }
         }
       }
