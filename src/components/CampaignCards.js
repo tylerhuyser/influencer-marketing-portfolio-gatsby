@@ -46,7 +46,7 @@ export default function CampaignCard (props) {
 
         {campaigns &&
           campaigns.map(({ node }, i) => {
-            const { frontmatter, html } = node;
+            const { frontmatter } = node;
             const { client, path, category, coverImage } = frontmatter;
 
             return (
