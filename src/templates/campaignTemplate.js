@@ -74,12 +74,14 @@ export default function CampaignTemplate({ data }) {
 
             <div className="campaign-detail-section-container" id="press-section">
               <p className='campaign-detail-section-header' id="press-header">Press</p>
-              {press.map((article, i) => (
-                <a href={article.frontmatter.pressLink} className="press-link">
-                  <img className="publisher-image" key={i} src={article.frontmatter.publisherImage} />
-                  <p className='publisher-name'>{article.frontmatter.publisherName} // ({article.frontmatter.blockQuote})</p>
-                </a>
-              ))}
+              <div className="press-article-container">
+                {press.map((article, i) => (
+                  <a href={article.frontmatter.pressLink} className="press-link">
+                    <img className="publisher-image" key={i} src={article.frontmatter.publisherImage} />
+                    <p className='publisher-name'>{article.frontmatter.publisherName} // ({article.frontmatter.blockQuote})</p>
+                  </a>
+                ))}
+              </div>
             </div>
           
             :

@@ -94,7 +94,7 @@
   margin-bottom: 36px;
 }
 
-.influencer-name {
+.influencer-name, .publisher-name {
   font-size: 14px;
 }
 
@@ -114,7 +114,7 @@
   box-sizing: border-box;
 }
 
-.influencer-content-container {
+.influencer-content-container, .press-article-container {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -126,7 +126,7 @@
   box-sizing: border-box;
 }
 
-.influencer-content-link {
+.influencer-content-link, .press-link {
 
   width: 250px;
   height: 250px;
@@ -136,7 +136,7 @@
   text-decoration: underline;
 }
 
-.influencer-content-image {
+.influencer-content-image, .publisher-image {
   width: 200px;
   height: 200px;
   object-fit: cover;
