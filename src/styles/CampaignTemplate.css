@@ -74,11 +74,11 @@
   width: 30%;
 }
 
-#influencer-content-section {
+#influencer-content-section, #press-section {
   width: 100%;
 }
 
-.campaign-description, .campaign-stats-list, .influencer-name {
+.campaign-description, .campaign-stats-list, .influencer-name, .publisher-name {
   color: #555555;
   font-family: "Benton Sans Bold", "Benton Sans Bold", sans-serif;
   line-height: 1.7 !important;
@@ -98,6 +98,10 @@
   font-size: 14px;
 }
 
+.publisher-name {
+  text-align: left;
+}
+
 .header-image {
   width: 100%;
 
@@ -114,12 +118,14 @@
   box-sizing: border-box;
 }
 
-.influencer-content-container, .press-article-container {
+.influencer-content-container, .press-articles-container {
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
+  justify-content: flex-start;
   align-items: flex-start;
   flex-wrap: wrap;
+
+  width: 100%;
 
   -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
   -moz-box-sizing: border-box; /* Firefox, other Gecko */
@@ -128,13 +134,22 @@
 
 .influencer-content-link, .press-link {
 
-  width: 250px;
-  height: 250px;
+  width: 200px;
+  /* height: auto; */
+  margin-right: calc(calc(100% - 800px) / 3);
 
 
   text-align: center;
   text-decoration: underline;
+
+  -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+  -moz-box-sizing: border-box; /* Firefox, other Gecko */
+  box-sizing: border-box;
 }
+
+.influencer-content-link:nth-child(4n), .press-article-link:nth-child(4n) {
+  margin-right: 0px;
+ }
 
 .influencer-content-image, .publisher-image {
   width: 200px;
