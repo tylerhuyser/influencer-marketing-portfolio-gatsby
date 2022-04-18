@@ -13,6 +13,24 @@ stats:
 posts:
 - 'https://drive.google.com/uc?export=view&id=1SS7YR1TdC92uK2Iw_Iz2Garxo8888sPY'
 - 'https://drive.google.com/uc?export=view&id=1ed54W60UXYK6Y0gNETNo3M79Wb0hjxBq'
+- 'https://drive.google.com/uc?export=view&id=15J28LhHk3OBll4RiW1j9W3R9qlK8jqWK'
+- 'https://drive.google.com/uc?export=view&id=1ghjiGSIh_rjMtHOwhpB5m57yvSFG_il7'
+- 'https://drive.google.com/uc?export=view&id=1q8icu8SZv_XP_JQwalFfxifVQAuPQgjT'
+- 'https://drive.google.com/uc?export=view&id=1sDgX-QNw__EynQ2pQ22czVs5O2AL2m_Q'
+- 'https://drive.google.com/uc?export=view&id=1Ku6SmDimpgeLyL2AQJq5GqCqpaqR8-jv'
+- 'https://drive.google.com/uc?export=view&id=1BrDKJUCqmQ90azn2-IBeR-0cMcHswOJO'
+- 'https://drive.google.com/uc?export=view&id=1lxwjj5GNiT9sdMwDn2Soe4JQCtKcGF54'
+- 'https://drive.google.com/uc?export=view&id=1uVibH2rRoZJ-D4cx9JUQpfyiuI0g-lCL'
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
 press:
 - 
 showInProjects: true
