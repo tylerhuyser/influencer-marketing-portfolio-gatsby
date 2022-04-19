@@ -80,6 +80,7 @@
 
 .campaign-description, .campaign-stats-list, .influencer-name, .publisher-name {
   color: #555555;
+  text-decoration-color: #555555;
   font-family: "Benton Sans Bold", "Benton Sans Bold", sans-serif;
   line-height: 1.7 !important;
   font-size: 20px;
@@ -118,6 +119,10 @@
   box-sizing: border-box;
 }
 
+#sub-video {
+  height: 760px;
+}
+
 .influencer-content-container, .press-articles-container {
   display: flex;
   flex-direction: row;
@@ -141,6 +146,7 @@
 
   text-align: center;
   text-decoration: underline;
+  text-decoration-color: #555555;
 
   -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
   -moz-box-sizing: border-box; /* Firefox, other Gecko */
