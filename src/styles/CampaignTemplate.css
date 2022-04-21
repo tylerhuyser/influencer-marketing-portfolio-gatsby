@@ -152,7 +152,7 @@
   -moz-box-sizing: border-box; /* Firefox, other Gecko */
   box-sizing: border-box;
 }
- 
+
 .influencer-content-link:nth-child(4n), .press-article-link:nth-child(4n) {
   margin-right: 0px;
  }
