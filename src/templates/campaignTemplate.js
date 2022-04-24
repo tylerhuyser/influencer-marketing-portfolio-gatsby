@@ -47,7 +47,7 @@ export default function CampaignTemplate({ data }) {
               </ul>
             </div>
           </div>
-              
+            
           {subType === "image" ?
             
             <img className='header-image' id="sub-image" src={sub} />
