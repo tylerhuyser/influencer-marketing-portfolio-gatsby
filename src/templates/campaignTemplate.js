@@ -57,7 +57,7 @@ export default function CampaignTemplate({ data }) {
             <iframe className="header-image" id="sub-video" src={sub} />
             
           }
-              
+            
           <div className="campaign-detail-section-container" id="influencer-content-section">
             <p className='campaign-detail-section-header' id="influencer-content-header">Select Influencer Content</p>
             <div className="influencer-content-container">
