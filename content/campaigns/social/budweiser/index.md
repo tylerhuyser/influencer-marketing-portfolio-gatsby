@@ -61,6 +61,20 @@ posts:
 - 'https://drive.google.com/uc?export=view&id=17lSON-y9XqDmhisZ8kICi7pR-ZW_aP7y'
 - 'https://drive.google.com/uc?export=view&id=115X_httxEJsdNWdSt3i-0Yo9LxDyHyDS'
 - 'https://drive.google.com/uc?export=view&id=1_teBMRMowVI9z-L69ShkrM9uRFgO4TP7'
+- 'https://drive.google.com/uc?export=view&id=1uBGUiOJ7Sc4gV5m1lZUFutT3fGXkKyG_'
+- 'https://drive.google.com/uc?export=view&id=1jUDeZBnzwtv2WYEL05Zk9TaTnTWffJ90'
+- 'https://drive.google.com/uc?export=view&id=19_XxYQvTfTL_9imqa4lG9mtKsYYAoAm8'
+- 'https://drive.google.com/uc?export=view&id=1IRL8EvesBuG3qEaPgD7siHPKlirq0SM_'
+- 'https://drive.google.com/uc?export=view&id=1RQ7I1C5PBktgHi5NeA6Ywrj38MZIK-F4'
+- 'https://drive.google.com/uc?export=view&id=1nIQUTX4W1Qjm7RwwyXqkY6PI1Px7P78n'
+- 'https://drive.google.com/uc?export=view&id=1r_BlybflhvEsF1tjiWbMWMLdVBWyb_Bk'
+- 'https://drive.google.com/uc?export=view&id=1TzoKs1cbM3I7MlMbFWluyZMHDzx1GuzZ'
+- 'https://drive.google.com/uc?export=view&id=1ive7Mw9IKuz0NZRHUJIaPkv2YLlqQVxr'
+- 'https://drive.google.com/uc?export=view&id=18svYE2Uw_xeqADZTwuUX7KBot_I3BUD3'
+- 'https://drive.google.com/uc?export=view&id=1hydCvlObhi8cbSI1GTM9eXNmBVdrEkFo'
+- 'https://drive.google.com/uc?export=view&id=1bfhwmcSIsv-jexWL-0CUGov602iPS_wS'
+- 'https://drive.google.com/uc?export=view&id=1d988YvpGvfiLFQ55-sTjoUDIT3a5woTR'
+- 'https://drive.google.com/uc?export=view&id=1IhE5bn-H039kj8l-dQX1EEvJkRBXzsMz'
 press:
 -
 showInProjects: true
