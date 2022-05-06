@@ -11,7 +11,7 @@ stats:
   - Twenty-Five (25) Pieces of Content (Video)
   - Over 250,000 Organic Impressions
 posts:
-- 'https://drive.google.com/uc?export=view&id=https://drive.google.com/uc?export=view&id=1V84ZANLTn5e4RaB0aIBeuuN2KCNMLGUX'
+- 'https://drive.google.com/uc?export=view&id=1V84ZANLTn5e4RaB0aIBeuuN2KCNMLGUX'
 - 'https://drive.google.com/uc?export=view&id=1hZx8ds77Xs93jm-7gSNGtNCPvncXC8nx'
 - 'https://drive.google.com/uc?export=view&id=1eOGDaeSS7wjmXuPX8AagthYdKj_EsqBT'
 - 'https://drive.google.com/uc?export=view&id=1UpgnvPjBICr46wyYUH9c-w6Rl9gEsbS2'

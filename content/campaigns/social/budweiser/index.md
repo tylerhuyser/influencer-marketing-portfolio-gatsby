@@ -1,5 +1,5 @@
 ---
-client: 'budweiser'
+client: 'Budweiser'
 path: '/campaigns/budweiser'
 category: 'social'
 coverImage: 'https://drive.google.com/uc?export=view&id=175i1x524AGHTKqtJGpcDZ3Khhv3EDR2w'
