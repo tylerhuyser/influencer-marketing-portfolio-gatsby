@@ -14,6 +14,15 @@ stats:
 posts:
 - 'https://drive.google.com/uc?export=view&id=1YNz3vMOcGyQbRVXqhkL6nzIhulshFt7_'
 - 'https://drive.google.com/uc?export=view&id=1dVPtIJzzyT6GU8H2pFsNrzGkWny1_7JF'
+- 'https://drive.google.com/uc?export=view&id=1wWrO3LvE5JFSX_Hwx0qTJ0V9twJ7UsTy'
+- 'https://drive.google.com/uc?export=view&id=1FVfkfJzH7o1kwIWFiULeVzsQmv0-C-xT'
+- 'https://drive.google.com/uc?export=view&id=1IZxLi7rgG8vj3TFsi83kF5vMcTyMs63q'
+- 'https://drive.google.com/uc?export=view&id=1_lLzToO_0LSDWuPhrSz_17rVGPfb3Cg_'
+- 'https://drive.google.com/uc?export=view&id=1ZmetpcUBGMSW8jAr4Dy09gXqVcgq1De1'
+- 'https://drive.google.com/uc?export=view&id=1nosXk-ZP2tvYtkvoi7emRLJdhedoM3Q5'
+- 'https://drive.google.com/uc?export=view&id=1wrDGgDClWEcThLmjE-BBHyuxLDS-CplM'
+- 'https://drive.google.com/uc?export=view&id=1AkQff9t3lTzZrvrVMBkEXEW3eXi4cS3e'
+- 'https://drive.google.com/uc?export=view&id=1SScpCuNvhA9OOOpv_e7f1YW7T61JZYxT'
 press:
 - 'https://www.one37pm.com/style/calvin-klein-miguel-andujar-suiting-ideas'
 - 'https://www.one37pm.com/style/what-to-buy/calvin-klein-dennis-smith-jr-suits'
