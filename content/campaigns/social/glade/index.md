@@ -11,8 +11,12 @@ stats:
   - Twenty (20) Influencers
   - Sixty (60) x Pieces of Influencer Content
 posts:
-- 'https://drive.google.com/uc?export=view&id='
-- 'https://drive.google.com/uc?export=view&id='
+- 'https://drive.google.com/uc?export=view&id=1dykquTpDxrSXnY_Epf2dYMmrr3FC-mXe'
+- 'https://drive.google.com/uc?export=view&id=1rvN74Yk57u-F7byEdBqEVVxyDS9Y8xBe'
+- 'https://drive.google.com/uc?export=view&id=15KhqNQPa-tvz0hSbJ6-RJ00AnA3Mrhxc'
+- 'https://drive.google.com/uc?export=view&id=1YSNF_bKoGzdGqDEiPwV-KQVAiiItPPlH'
+- 'https://drive.google.com/uc?export=view&id=130ospwkdDsf6t12_PHJputwhgqTBp_Vf'
+- 'https://drive.google.com/uc?export=view&id=1xuQGe3gH15ctxWV8bhVfxOzlE2AvjFvM'
 press:
 - 
 showInProjects: true
