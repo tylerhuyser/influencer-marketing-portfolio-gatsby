@@ -4,7 +4,7 @@ path: '/campaigns/purewow-hamptons'
 category: 'experiential'
 coverImage: 'https://drive.google.com/uc?export=view&id=1HDe9O7TL5kAQJNh9eaWTPyq3iphIR-9D'
 heroImage: 'https://drive.google.com/uc?export=view&id=1sTJw-hZgSALPgDZ7JKbZnp_uKcalC1X-'
-sub: 'https://drive.google.com/uc?export=view&id='
+sub: 'https://www.youtube.com/embed/U9su0ViO-nU'
 subType: 'video'
 stats:
   - Over fifty (50+) Influencers in attendance

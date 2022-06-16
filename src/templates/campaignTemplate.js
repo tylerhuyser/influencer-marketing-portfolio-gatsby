@@ -74,12 +74,30 @@ export default function CampaignTemplate({ data }) {
           <div className="campaign-detail-section-container" id="influencer-content-section">
             <p className='campaign-detail-section-header' id="influencer-content-header">Select Influencer Content</p>
             <div className="influencer-content-container">
+
               {posts.map((post, i) => (
-                <a href={post.frontmatter.livePostLink} className="influencer-content-link">
-                  <img className="influencer-content-image" key={i} src={post.frontmatter.postFileLink} />
-                  <p className='influencer-name'>{post.frontmatter.influencerName} ({post.frontmatter.influencerHandle})</p>                  
-                </a>
+
+                <>
+                  
+                  {post.frontmatter.livePostLink === "N/A" ? 
+                    
+                    <div className="influencer-content-link">
+                      <img className="influencer-content-image" key={i} src={post.frontmatter.postFileLink} />
+                      <p className='influencer-name'>{post.frontmatter.influencerName} {post.frontmatter.influencerHandle}</p>                  
+                    </div>
+                
+                  :
+                    
+                    <a href={post.frontmatter.livePostLink} className="influencer-content-link">
+                      <img className="influencer-content-image" key={i} src={post.frontmatter.postFileLink} />
+                      <p className='influencer-name'>{post.frontmatter.influencerName} ({post.frontmatter.influencerHandle})</p>                  
+                    </a>
+              
+                  }
+
+                </>
               ))}
+
             </div> 
           </div>
 
