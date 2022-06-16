@@ -54,7 +54,20 @@ export default function CampaignTemplate({ data }) {
             
             :
           
-            <iframe className="header-image" id="sub-video" src={sub} />
+            <>
+
+            { subType === "video" ?
+              
+              <iframe className="header-image" id="sub-video" src={sub} />
+              
+              :
+
+              <>
+              </>
+          
+            }
+          
+            </>
             
           }
             

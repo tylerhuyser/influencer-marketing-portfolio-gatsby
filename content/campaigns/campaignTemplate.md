@@ -9,7 +9,7 @@ subType: 'image/video'
 stats:
   - Stat_01
   - Stat_02
-  - StatA_03
+  - Stat_03
 posts:
 - 'https://drive.google.com/uc?export=view&id='
 - 'https://drive.google.com/uc?export=view&id='

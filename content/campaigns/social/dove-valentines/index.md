@@ -5,7 +5,7 @@ category: 'social'
 coverImage: 'https://drive.google.com/uc?export=view&id=1XjOZmKopf1ahqT62UNcUQ9b0suzEED0U'
 heroImage: 'https://drive.google.com/uc?export=view&id=1cP-baCyhHkZ0ARxNz_cYEd7_9EKSRkTs'
 sub: 'https://drive.google.com/uc?export=view&id=1IfB0xGY9q_4h_7M8Y-DQxcbv3cqzJoxj'
-subType: 'image'
+subType: 'none'
 stats:
   - Six (6) Influencers (Rising Tier)
   - Twelve (12) pieces of content (1 Post + 1 Story w/ Swipe Up)
