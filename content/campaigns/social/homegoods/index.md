@@ -1,6 +1,6 @@
 ---
 client: 'HomeGoods'
-path: '/campaigns/HomeGoods'
+path: '/campaigns/homegoods'
 category: 'social'
 coverImage: 'https://drive.google.com/uc?export=view&id=1uf4xDLkhXrNb9J7vM9j1nANBv-Rr5GQm'
 heroImage: 'https://drive.google.com/uc?export=view&id=1teBrGfY5jUG0BaGyd7jLytpNX2_c78qJ'
