@@ -4,7 +4,7 @@ path: '/campaigns/herbal-essences'
 category: 'social'
 coverImage: 'https://drive.google.com/uc?export=view&id=18Ho_gY1g1H9h1SEgW3J9sPQNWy-dJnC1'
 heroImage: 'https://drive.google.com/uc?export=view&id=1RwRluQrD0J7zN4ByWPhu3ln8sO7hFIPq'
-sub: 'https://youtu.be/JShAyES0Jpc'
+sub: 'https://www.youtube.com/embed/JShAyES0Jpc'
 subType: 'video'
 stats:
   - Ten (10) Influencers (across the Celebrity, Macro, and Rising Tiers)
