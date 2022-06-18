@@ -11,13 +11,13 @@ stats:
   - Forty-Two (42) Pieces of Content (1 x Post + 2 x Stories w/ Swipe Up)
   - Over 450,000 organic impressions
 posts:
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
+- 'https://drive.google.com/uc?export=view&id=1AvARKvE7WkfjslsXx1HXKmI9ZhCBBJ5a'
+- 'https://drive.google.com/uc?export=view&id=1iAC6eWqx7DpPS8w6wVcKV8stNxfR7vPe'
+- 'https://drive.google.com/uc?export=view&id=1Pzlx8mKIBhWSInXsDT0G-buxvdXkRcMc'
+- 'https://drive.google.com/uc?export=view&id=1b4sY6KR8ktUd9xlhooUbA_J7tREKtitv'
+- 'https://drive.google.com/uc?export=view&id=114wAYLyGqC99KDz1f3infTIjVWNoZQ6B'
+- 'https://drive.google.com/uc?export=view&id=1uTtRgs-Eb1ZbcWcumSHf3OCzDRBTwoNC'
+- 'https://drive.google.com/uc?export=view&id=1R4FfQCAwX7lX1YbfWZmjxxE3RxSpQhqV'
 - ''
 - ''
 - ''
