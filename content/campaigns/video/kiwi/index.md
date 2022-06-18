@@ -14,7 +14,7 @@ stats:
 posts:
 - 'https://drive.google.com/uc?export=view&id=19clrnXkLULlcfrht_PM2sNJ-R_I0fd-o'
 - 'https://drive.google.com/uc?export=view&id=1BxROFoqzb-5Ft1OnHI3rJWIdW6etlOBO'
-- 'https://drive.google.com/uc?export=view&id=1QyvYRGQXSGNB9hFHREEz5SqqttoG8Ah'
+- 'https://drive.google.com/uc?export=view&id=1QyvYRGQXSGNB9hFHREEz5SqqttoG8Ahp'
 press:
 - 'https://www.purewow.com/fashion/how-to-take-care-of-leather-bags-and-boots'
 - 'https://www.purewow.com/fashion/how-to-make-your-fashion-investment-pieces-last'
