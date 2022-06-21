@@ -4,7 +4,7 @@ path: '/campaigns/valspar'
 category: 'video'
 coverImage: 'https://drive.google.com/uc?export=view&id=1jGBooyzWr8QKTwLODgJ1bYqR3hd9EW4Y'
 heroImage: 'https://drive.google.com/uc?export=view&id=1s0KBG6H9hZe26m84I075h8UIXBA8-KHe'
-sub: 'https://vimeo.com/307375910'
+sub: 'https://player.vimeo.com/video/307375910?h=7df52e1b22&title=0&byline=0&portrait=0'
 subType: 'video'
 stats:
   - Three (3) Influencers
