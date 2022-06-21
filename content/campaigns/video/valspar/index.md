@@ -1,0 +1,26 @@
+---
+client: 'Valspar'
+path: '/campaigns/valspar'
+category: 'video'
+coverImage: 'https://drive.google.com/uc?export=view&id=1jGBooyzWr8QKTwLODgJ1bYqR3hd9EW4Y'
+heroImage: 'https://drive.google.com/uc?export=view&id=1s0KBG6H9hZe26m84I075h8UIXBA8-KHe'
+sub: 'https://vimeo.com/307375910'
+subType: 'video'
+stats:
+  - Three (3) Influencers
+  - Six (6) piece of content
+  - Inclusion in a custom destination on PureWow.com
+posts:
+- 'https://drive.google.com/uc?export=view&id=18lb1gQVzLnoIq4FhFpWD-zxsLot1y-nU'
+- 'https://drive.google.com/uc?export=view&id=1htNceVegT4fgjeBVpIs3mIafhA1iS5he'
+- 'https://drive.google.com/uc?export=view&id=1rTrkFE8I2q3Scq9bsxpe2yhBktZQpcuG'
+press:
+- 
+showInProjects: true
+---
+
+Valspar sought the creation of a content series in order to celebrate their 2019 "Colors of the Year" palette.
+
+Inviting home decor influencers as guest designers, we created tutorials illustrating the multitude of ways customers can reinvigorate their homes using Valspar's paint products.
+
+Content was featured in a custom destination on PureWow.com and received further syndication on influencers' handles.
