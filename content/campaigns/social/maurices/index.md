@@ -1,5 +1,5 @@
 ---
-client: 'maurice's'
+client: 'maurices'
 path: '/campaigns/maurices'
 category: 'social'
 coverImage: 'https://drive.google.com/uc?export=view&id=1s0phNe247ossG4lqAx1yfoYQwKm_MCAo'
