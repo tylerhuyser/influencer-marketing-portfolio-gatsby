@@ -9,7 +9,7 @@ subType: 'video'
 stats:
   - Three (3) Influencers
   - Six (6) piece of content
-  - Inclusion in a custom destination on PureWow.com
+  - Inclusion in a custom destination on PureWow.com 
 posts:
 - 'https://drive.google.com/uc?export=view&id=18lb1gQVzLnoIq4FhFpWD-zxsLot1y-nU'
 - 'https://drive.google.com/uc?export=view&id=1htNceVegT4fgjeBVpIs3mIafhA1iS5he'
