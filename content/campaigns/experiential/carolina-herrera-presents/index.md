@@ -11,8 +11,11 @@ stats:
   - Five (5) Pieces of Content
   - Over 65,000 Organic Impressions
 posts:
-- 'https://drive.google.com/uc?export=view&id='
-- 'https://drive.google.com/uc?export=view&id='
+- 'https://drive.google.com/uc?export=view&id=1r3d_TAk0lDW1HU1xiXDUWeEUHh64j6RG'
+- 'https://drive.google.com/uc?export=view&id=1CnCNqSOL2sOovHC-fIOtKztXBMvqLWLp'
+- 'https://drive.google.com/uc?export=view&id=1K6bUibsrlWGwzheDwq_Op0Fqv0ZmdVaP'
+- 'https://drive.google.com/uc?export=view&id=1Pq-QqebSbcTPLHTzKdyXA17Nfh5d8GaK'
+- 'https://drive.google.com/uc?export=view&id=1r8zaVNZNKvHTVvLjhUMPReDiH_OZAtqW'
 press:
 - 'https://www.purewow.com/event/carolina-herrera-good-to-be-bad-2019'
 showInProjects: true
