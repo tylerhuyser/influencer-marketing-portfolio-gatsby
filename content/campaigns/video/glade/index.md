@@ -1,7 +1,7 @@
 ---
 client: 'Glade'
 path: '/campaigns/glade'
-category: 'social'
+category: 'video'
 coverImage: 'https://drive.google.com/uc?export=view&id=19EhStLaCuxXVsVY-aAnYyhv_YcfxuyzQ'
 heroImage: 'https://drive.google.com/uc?export=view&id=1JhADwXyCTLZXoXWY0BO1zCcVsKfufoZp'
 sub: 'https://drive.google.com/uc?export=view&id=1VYw_0-MT9mifR6nygptJ2FfbPGWMDowP'
