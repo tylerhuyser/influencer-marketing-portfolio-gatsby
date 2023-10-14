@@ -39,4 +39,21 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
       context: {}
     })
   })
+
+  const campaignsByCategoryTemplate = path.resolve('src/templates/campaignsByCategoryTemplate.js')
+
+  const campaignCategoryTypes = ["social", "video", "experiential"]
+
+  campaignCategoryTypes.forEach((category) => {
+
+    console.log(category)
+
+    createPage({
+      path: `/${category}`,
+      component: campaignsByCategoryTemplate,
+      context: {
+        campaignCategory: category
+      }
+    })
+  })
 }

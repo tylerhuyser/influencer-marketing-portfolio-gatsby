@@ -47,6 +47,13 @@ module.exports = {
       },
     },
     {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        name: 'clients',
+        path: `./content/clients`,
+      },
+    },
+    {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `social`,

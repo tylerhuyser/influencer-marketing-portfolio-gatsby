@@ -8,6 +8,9 @@ import {Helmet} from "react-helmet";
 import Layout from '../components/shared/Layout'
 import Loader from '../components/shared/Loader'
 
+import generateCaseStudyCardsJSX from "../hooks/generateCaseStudyCardsJSX";
+import ClientsCarousel from "../components/ClientsCarousel";
+
 // import Home from '../components/screens/Home'
 // import About from '../components/screens/About'
 // import CampaignDetail from '../components/screens/CampaignDetail';
@@ -33,6 +36,8 @@ function App() {
   //   }
   // }, [])
 
+  const caseStudyCardsJSX = generateCaseStudyCardsJSX(3)
+
   return (
 
       <Router>
@@ -46,38 +51,37 @@ function App() {
                 
                 <div className="home-hero-container">
                   
-              </div>
-              
-              <h2 className="case-studies-category-cards-title">Case Studies</h2>
-                
-              <div className="case-studies-category-cards-container">
-                
-                  <Link className="case-study-category-card" id='social-case-study-category-card' to={`/social`} >
-                    
-                    <img className="case-study-category-card-image" id="social-case-study-category-card-image" src="https://drive.google.com/uc?export=view&id=175i1x524AGHTKqtJGpcDZ3Khhv3EDR2w" />
-                    
-                    <p className="case-study-category-card-title" id="social-case-study-category-card-title">Social</p>
-  
-                  </Link>
-                  
-                  <Link className="case-study-category-card" id='video-case-study-category-card' to={`/video`} >
-                    
-                    <img className="case-study-category-card-image" id="video-case-study-category-card-image" src="https://drive.google.com/uc?export=view&id=19EhStLaCuxXVsVY-aAnYyhv_YcfxuyzQ" />
-                    
-                    <p className="case-study-category-card-title" id="video-case-study-category-card-title">Video</p>
-
-                  </Link>
-                  
-                  <Link className="case-study-category-card" id='experiential-case-study-category-card' to={`/experiential`} >
-
-                    <img className="case-study-category-card-image" id="experiential-case-study-category-card-image" src="https://drive.google.com/uc?export=view&id=1DMCoEWrSaZT9ntYqhrHO8TmoFpQfxaYi" />
-                    
-                    <p className="case-study-category-card-title" id="experiential-case-study-category-card-title">Experiential</p>
-                    
-                  </Link>
-
                 </div>
+              
+                <h2 className="home-page-title" id="case-studies-title">Case Studies</h2>
                 
+                <div className="case-studies-category-cards-container">
+                
+                  {caseStudyCardsJSX}
+              
+                </div>
+              
+                <h2 className="home-page-title" id="clients-studies-title">Select Clients</h2>
+                
+                <div className="clients-contaier">
+                
+                  <ClientsCarousel />
+                
+                </div>
+              
+                <h2 className="home-page-title" id="influencer-content-title">Select Influencer Content</h2>
+                
+                <div className="select-influencer-content-container">
+                
+                </div>
+              
+                <h2 className="home-page-title" id="contact-form-title">Let's Work.</h2>
+                
+                <div className="contact-form-container">
+                
+                </div>
+
+              
               </div>
             
             </Layout>

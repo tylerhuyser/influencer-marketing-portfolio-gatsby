@@ -1,13 +1,15 @@
-import React from 'react'
+import React from "react"
 import { BrowserRouter as Router } from 'react-router-dom';
 
 import Layout from '../components/shared/Layout'
 import CampaignCards from '../components/CampaignCards'
 
-export default function Social () {
+export default function CampaignByCategoryTemplate({ pageContext }) { 
 
   const location = window.location
   const isHome = location.pathname === '/';
+
+  console.log(pageContext)
 
   return (
       
@@ -15,7 +17,7 @@ export default function Social () {
 
       <Layout location={location} loaded={true} isMounted={true} isHome={isHome}>
       
-        <CampaignCards category={"social"} />
+        <CampaignCards category={`${pageContext.campaignCategory}`} />
           
       </Layout>
 
