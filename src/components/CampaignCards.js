@@ -51,7 +51,7 @@ export default function CampaignCard (props) {
 
             return (
 
-              <Link className="campaign-card-container" id={client} to={`${path}`} >
+              <Link className="campaign-card-container" id={client} to={`${path}`} key={i} >
 
                 <img className='campaign-card-image' id="cover-image" src={coverImage} />
                 

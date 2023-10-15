@@ -1,6 +1,8 @@
 import React from "react";
 import { Link } from 'gatsby';
 
+import "../styles/CaseStudyCard.css"
+
 export default function CaseStudyCard(props) {
 
   const { index } = props
