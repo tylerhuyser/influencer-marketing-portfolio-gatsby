@@ -1,18 +1,38 @@
-import React, { useState } from 'react'
-import { useStaticQuery, graphql, Link } from 'gatsby';
+import React, { useEffect, useState } from 'react';
+import { useStaticQuery, graphql } from 'gatsby';
 
 import "../styles/clientsCarousel.css"
 
 export default function ClientsCarousel() {
 
   const [xPosition, setXPosition] = useState(0)
+  const [animationDirection, setAnimationDirection] = useState("")
 
-  if (xPosition > 1600 || xPosition < -1600) {
-    setXPosition(0)
+  useEffect(() => {
+    if (animationDirection !== "") {
+      const timeout = setTimeout(() => {
+        setAnimationDirection("")
+      }, 201);
+      return () => {
+        clearTimeout(timeout)
+      }
+    }
+  }, [animationDirection])
+
+  if (xPosition > 1600) {
+    setXPosition(100)
+  }
+  if (xPosition < -1600) {
+    setXPosition(-100)
+  }
+
+  const changeXPosition = (direction) => {
+    (direction === "left") ? setXPosition(prevState => prevState + 100) : setXPosition(prevState => prevState - 100)
   }
 
   const onClick = (direction) => {
-    (direction === "left") ? setXPosition(prevState => prevState + 100) : setXPosition(prevState => prevState - 100)
+    changeXPosition(direction)
+    setAnimationDirection(direction)
   }
   
   const data = useStaticQuery(graphql`
@@ -33,16 +53,7 @@ export default function ClientsCarousel() {
     }
   `);
 
-  
-  console.log(data)
-
   const clients = data.clients.edges
-
-  console.log(clients)
-
-  let style = {
-    transform: `translateX(calc(${xPosition}% - (100% * ${clients.length})))`
-  }
 
   return (
     <div className='clients-carousel-container'>
@@ -58,7 +69,11 @@ export default function ClientsCarousel() {
 
               return (
 
-                <div className='client-logo-container' id={`A${i}-${client}-logo-container`} key={`A${i}`} style={style}>
+                <div className={`client-logo-container ${animationDirection}`} id={`A${i}-${client}-logo-container`} key={`A${i}`} style={{
+                  '--reference-position':`calc(${xPosition}% - (100% * ${clients.length}))`,
+                  '--right-original-position': `calc(${xPosition + 100}% - (100% * ${clients.length}))`,
+                  '--left-original-position': `calc(${xPosition - 100}% - (100% * ${clients.length}))`,
+                }} >
                   <img className='client-logo' id={`${client}-logo`} alt={`${client}-logo`} src={logo} />
                 </div>
               )
@@ -71,7 +86,11 @@ export default function ClientsCarousel() {
 
               return (
 
-                <div className='client-logo-container' id={`B${i}-${client}-logo-container`} key={`B${i}`} style={style}>
+                <div className={`client-logo-container  ${animationDirection}`} id={`B${i}-${client}-logo-container`} key={`B${i}`} style={{
+                  '--reference-position':`calc(${xPosition}% - (100% * ${clients.length}))`,
+                  '--right-original-position': `calc(${xPosition + 100}% - (100% * ${clients.length}))`,
+                  '--left-original-position': `calc(${xPosition - 100}% - (100% * ${clients.length}))`,
+                }} >
                   <img className='client-logo' id={`${client}-logo`} alt={`${client}-logo`} src={logo} />
                 </div>
               )
@@ -84,7 +103,11 @@ export default function ClientsCarousel() {
 
               return (
 
-                <div className='client-logo-container' id={`C${i}-${client}-logo-container`} key={`C${i}`} style={style}>
+                <div className={`client-logo-container  ${animationDirection}`} id={`C${i}-${client}-logo-container`} key={`C${i}`} style={{
+                  '--reference-position':`calc(${xPosition}% - (100% * ${clients.length}))`,
+                  '--right-original-position': `calc(${xPosition + 100}% - (100% * ${clients.length}))`,
+                  '--left-original-position': `calc(${xPosition - 100}% - (100% * ${clients.length}))`,
+                }} >
                   <img className='client-logo' id={`${client}-logo`} alt={`${client}-logo`} src={logo} />
                 </div>
               )

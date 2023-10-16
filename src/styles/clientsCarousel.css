@@ -23,17 +23,6 @@
   overflow: hidden;
 }
 
-.carousel-slide-cluser {
-  width: 100%;
-  height: 100%;
-
-  display: flex;
-  flex-wrap: nowrap;
-    /* flex: 0 0 auto;  */
-
-  overflow: hidden;
-}
-
 .client-logo-container {
   width: 100%;
   height: 100%;
@@ -43,6 +32,8 @@
   justify-content: flex-start;
   align-items: center;
   flex: 0 0 auto; 
+
+  transform: translateX(var(--reference-position))
 }
 
 .client-logo {
@@ -99,4 +90,36 @@
     width: 33%;
   }
 
+}
+
+@keyframes rightKeyFrames {
+  from {
+    -webkit-transform: translateX(var(--right-original-position));
+    transform: translateX(var(--right-original-position));
+  }
+  to {
+    -webkit-transform: translateX(var(--reference-position));
+    transform: translateX(var(--reference-position));
+  }
+}
+
+@keyframes leftKeyFrames {
+  0% {
+    -webkit-transform: translateX(var(--left-original-position));
+    transform: translateX(var(--left-original-position));
+  }
+  100% {
+    -webkit-transform: translateX(var(--reference-position));
+    transform: translateX(var(--reference-position));
+  }
+}
+
+.left {
+  -webkit-animation: leftKeyFrames 0.2s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+  animation: leftKeyFrames 0.2s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+}
+
+.right {
+  -webkit-animation: rightKeyFrames 0.2s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+  animation: rightKeyFrames 0.2s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
 }
