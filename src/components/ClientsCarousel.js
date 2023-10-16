@@ -9,7 +9,30 @@ export default function ClientsCarousel() {
   const [animationDirection, setAnimationDirection] = useState("")
 
   useEffect(() => {
-    if (animationDirection !== "") {
+    if (animationDirection.length === 0) {
+      const timeout =  setTimeout(() => {
+        setXPosition(prevState => prevState - 100)
+        setAnimationDirection("rightAuto")
+      }, 5000);
+      return () => {
+        clearTimeout(timeout)
+      }
+    }
+  }, [animationDirection])
+
+  useEffect(() => {
+    if (animationDirection === "rightAuto") {
+      const timeout = setTimeout(() => {
+        setAnimationDirection("")
+      }, 201);
+      return () => {
+        clearTimeout(timeout)
+      }
+    }
+  }, [animationDirection])
+
+  useEffect(() => {
+    if (animationDirection === "left" || animationDirection === "right") {
       const timeout = setTimeout(() => {
         setAnimationDirection("")
       }, 201);
