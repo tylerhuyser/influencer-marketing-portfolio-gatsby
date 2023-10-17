@@ -26,11 +26,11 @@ export default function CaseStudyCard(props) {
 
     <>
       
-      <Link className="case-study-category-card" id={`${data[index].title.toLocaleLowerCase()}-case-study-category-card`} key={`${data[index].title}`} to={`/${data[index].title.toLocaleLowerCase()}`} >
+      <Link className="case-study-category-card" id={`${data[index].title.toLocaleLowerCase()}-case-study-category-card`} key={`${data[index].title}-link`} to={`/${data[index].title.toLocaleLowerCase()}`} >
 
-        <img className="case-study-category-card-image" id={`${data[index].title.toLocaleLowerCase()}-case-study-category-card-image`} src={`${data[index].image}`} />
+        <img className="case-study-category-card-image" id={`${data[index].title.toLocaleLowerCase()}-case-study-category-card-image`} key={`${data[index].title}-image`} src={`${data[index].image}`} />
 
-        <p className="case-study-category-card-title" id={`${data[index].title.toLocaleLowerCase()}-case-study-category-card-title`}>{`${data[index].title}`}</p>
+        <p className="case-study-category-card-title" id={`${data[index].title.toLocaleLowerCase()}-case-study-category-card-title`} key={`${data[index].title}-title`}>{`${data[index].title}`}</p>
 
       </Link>
     

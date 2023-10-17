@@ -10,6 +10,7 @@ import Loader from '../components/shared/Loader'
 
 import generateCaseStudyCardsJSX from "../hooks/generateCaseStudyCardsJSX";
 import ClientsCarousel from "../components/ClientsCarousel";
+import SelectInfluencerContent from "../components/SelectInfluencerContent";
 
 // import Home from '../components/screens/Home'
 // import About from '../components/screens/About'
@@ -63,18 +64,12 @@ function App() {
               
                 <h2 className="home-page-title" id="clients-studies-title">Select Clients</h2>
                 
-                <div className="clients-contaier">
-                
-                  <ClientsCarousel />
-                
-                </div>
-              
+                <ClientsCarousel />
+                             
                 <h2 className="home-page-title" id="influencer-content-title">Select Influencer Content</h2>
                 
-                <div className="select-influencer-content-container">
+                <SelectInfluencerContent />
                 
-                </div>
-              
                 <h2 className="home-page-title" id="contact-form-title">Let's Work.</h2>
                 
                 <div className="contact-form-container">
