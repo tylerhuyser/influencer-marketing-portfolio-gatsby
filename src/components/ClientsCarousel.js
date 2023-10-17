@@ -61,7 +61,7 @@ export default function ClientsCarousel() {
   const data = useStaticQuery(graphql`
     query {
       clients: allMarkdownRemark(
-        filter: { fileAbsolutePath: { regex: "/clients/" } }
+        filter: { fileAbsolutePath: { regex: "/clients/" } } 
         sort: { fields: [frontmatter___client], order: ASC }
       ) {
         edges {
