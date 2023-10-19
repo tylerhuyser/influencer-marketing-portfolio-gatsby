@@ -17,6 +17,16 @@
   text-align: center;
 }
 
+.hero-container {
+  width: 100vw;
+  width: calc(100% + 50px);
+  height: 90vh;
+  background-color: #383f51;
+
+  position: relative;
+  top: - 10px;
+}
+
 @media only screen and (min-width: 481px) {
 
 }

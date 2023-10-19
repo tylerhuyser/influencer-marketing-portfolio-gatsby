@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import anime from 'animejs';
 
-import "../../styles/loader.css"
+import "../../styles/Loader.css"
 
 
 export default function Loader(props) {

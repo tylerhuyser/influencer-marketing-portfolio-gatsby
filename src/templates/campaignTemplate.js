@@ -7,7 +7,7 @@ import Loader from '../components/shared/Loader'
 
 import { isBrowser } from "../hooks";
 
-import "../styles/campaignTemplate.css"
+import "../styles/CampaignTemplate.css"
 
 export default function CampaignTemplate({ data }) {
 
@@ -77,7 +77,7 @@ export default function CampaignTemplate({ data }) {
             <p className='campaign-detail-section-header' id="influencer-content-header">Select Influencer Content</p>
             <div className="influencer-content-container">
 
-              {posts.map((post, i) => (
+              {posts && posts.map((post, i) => (
 
                 <>
                   

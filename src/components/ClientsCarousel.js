@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { useStaticQuery, graphql } from 'gatsby';
 
-import "../styles/clientsCarousel.css"
+import "../styles/ClientsCarousel.css"
 
 export default function ClientsCarousel() {
 

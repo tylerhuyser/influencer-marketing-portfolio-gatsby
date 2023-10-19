@@ -3,7 +3,7 @@ import React, { useEffect } from 'react'
 import Header from '../shared/Header'
 import Footer from './Footer'
 
-import "../../styles/layout.css"
+import "../../styles/Layout.css"
 
 
 export default function Layout (props) {

@@ -26,7 +26,7 @@ export default function CaseStudyCard(props) {
 
     <>
       
-      <Link className="case-study-category-card" id={`${data[index].title.toLocaleLowerCase()}-case-study-category-card`} key={`${data[index].title}-link`} to={`/${data[index].title.toLocaleLowerCase()}`} >
+      <Link className="case-study-category-card" id={`${data[index].title.toLocaleLowerCase()}-case-study-category-card`} key={`${data[index].title}-link`} to={`/${data[index].title.toLowerCase()}`} >
 
         <img className="case-study-category-card-image" id={`${data[index].title.toLocaleLowerCase()}-case-study-category-card-image`} key={`${data[index].title}-image`} src={`${data[index].image}`} />
 

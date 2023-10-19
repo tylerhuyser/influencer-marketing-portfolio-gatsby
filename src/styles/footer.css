@@ -1,22 +1,31 @@
 .footer-container {
-  /* position: fixed;
-  top: 0; */
-  background-color: white;
-
-  width: 100vw;
-  height: 125px;
-  z-index: 5;
-
-  /* margin-top: 125px; */
+  width: calc(100vw - 50px);
+  height: calc(75px - 20px);
   padding: 0px 50px;
+
+  background-color: white;
   
   display: flex;
   align-items: center;
   justify-content: center;
 
+  font-family: helvetica;
+  font-size: 20px;
   color: black;
+}
 
-  -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
-  -moz-box-sizing: border-box; /* Firefox, other Gecko */
-  box-sizing: border-box;
+@media only screen and (min-width: 481px) {
+
+}
+
+@media only screen and (min-width: 768px) {
+
+}
+
+@media only screen and (min-width: 1024px) {
+
+  .footer-container {
+    height: calc(100px - 20px);
+  }
+
 }

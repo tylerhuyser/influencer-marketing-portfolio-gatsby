@@ -8,17 +8,14 @@ import {Helmet} from "react-helmet";
 import Layout from '../components/shared/Layout'
 import Loader from '../components/shared/Loader'
 
+import About from "../components/About";
 import generateCaseStudyCardsJSX from "../hooks/generateCaseStudyCardsJSX";
 import ClientsCarousel from "../components/ClientsCarousel";
 import SelectInfluencerContent from "../components/SelectInfluencerContent";
+import ContactForm from "../components/ContactForm";
 
-// import Home from '../components/screens/Home'
-// import About from '../components/screens/About'
-// import CampaignDetail from '../components/screens/CampaignDetail';
-// import CampaignsByCategory from './social';
-
-import "../styles/app.css"
-import "../styles/home.css"
+import "../styles/App.css"
+import "../styles/Home.css"
 
 function App() {
 
@@ -48,11 +45,21 @@ function App() {
                 
             <Layout location={location} loaded={loaded} isMounted={isMounted} isHome={isHome} setCampaignCategory={setCampaignCategory} >
               
-              <div className="home-container">
+            <div className="home-container">
+              
+                <div className="hero-container">
                 
-                <div className="home-hero-container">
-                  
+                <p className="home-container-copy">
+                  Hi, my name is Tyler.
+                </p>
+
+                <p className="home-container-copy">
+
+                </p>
+                
                 </div>
+                
+                <About />
               
                 <h2 className="home-page-title" id="case-studies-title">Case Studies</h2>
                 
@@ -72,10 +79,7 @@ function App() {
                 
                 <h2 className="home-page-title" id="contact-form-title">Let's Work.</h2>
                 
-                <div className="contact-form-container">
-                
-                </div>
-
+                <ContactForm />
               
               </div>
             
