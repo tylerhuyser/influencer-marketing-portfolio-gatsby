@@ -18,10 +18,11 @@
 }
 
 .hero-container {
-  width: 100vw;
-  width: calc(100% + 50px);
-  height: 90vh;
-  background-color: #383f51;
+  width: 100%;
+  /* width: calc(100% + 50px); */
+  height: 50vh;
+  background-color: white;
+  margin-bottom: 50px;
 
   position: relative;
   top: - 10px;

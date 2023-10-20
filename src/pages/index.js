@@ -43,7 +43,7 @@ function App() {
 
           {loaded && isMounted ?
                 
-            <Layout location={location} loaded={loaded} isMounted={isMounted} isHome={isHome} setCampaignCategory={setCampaignCategory} >
+            <Layout loaded={loaded} isMounted={isMounted} isHome={isHome} setCampaignCategory={setCampaignCategory} >
               
             <div className="home-container">
               

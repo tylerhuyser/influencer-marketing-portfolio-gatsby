@@ -8,7 +8,7 @@ import "../../styles/Layout.css"
 
 export default function Layout (props) {
 
-  const { isMounted, isHome } = props
+  const { isHome, isMounted  } = props
 
     // Sets target="_blank" rel="noopener noreferrer" on external links
     const handleExternalLinks = () => {

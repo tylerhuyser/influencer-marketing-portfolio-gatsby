@@ -5,7 +5,7 @@ import "../styles/About.css"
 export default function About() {
   
   return (
-    <div className="about-container">
+    <div className="about-container" id="about-section">
 
       <img className="about-headshot" alt="about-section-image" src='https://drive.google.com/uc?export=view&id=1ZHH1tsOlWbTDICNWINhoo0Hj29Mu-x-z' />
 

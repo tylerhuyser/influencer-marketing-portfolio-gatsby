@@ -1,5 +1,5 @@
-import React, { useState, useEffect } from 'react'
-import { Link } from 'react-router-dom';
+import React, { useState, useEffect, useRef } from 'react'
+import { Link } from 'gatsby';
 import { CSSTransition, TransitionGroup } from 'react-transition-group';
 import { loaderDelay } from "../../utils"
 import { useScrollDirection } from '../../hooks'
@@ -21,9 +21,9 @@ export default function Header(props) {
   const { isHome } = props
 
   const [menuVisibility, setMenuVisibility] = useState(false);
-  const [caseStudyCategoryVisibility, setCaseStudyCategoryVisibility] = useState(false)
+  const [caseStudyVisibility, setCaseStudyVisibility] = useState(false)
 
-  const [isMounted, setIsMounted] = useState(!isHome);
+  const [headerMounted, setHeaderMounted] = useState(!isHome);
   const scrollDirection = useScrollDirection('down');
   const [scrolledToTop, setScrolledToTop] = useState(true);
 
@@ -33,7 +33,7 @@ export default function Header(props) {
 
   useEffect(() => {
     const timeout = setTimeout(() => {
-      setIsMounted(true);
+      setHeaderMounted(true);
     }, 100);
 
     window.addEventListener('scroll', handleScroll);
@@ -48,19 +48,19 @@ export default function Header(props) {
   const fadeClass = isHome ? 'fade' : '';
   const fadeDownClass = isHome ? 'fadedown' : '';
 
-  const changeMenuVisibility = (e) => {
+  const toggleMenuVisibility = (e) => {
     e.preventDefault();
     setMenuVisibility(!menuVisibility);
   };
 
-  const changeCaseStudyVisibility = (e) => {
-    e.preventDefault();
-    setCaseStudyCategoryVisibility(!caseStudyCategoryVisibility);
+  const toggleCaseStudyVisibility = () => {
+    // e.preventDefault();
+    setCaseStudyVisibility(!caseStudyVisibility);
   };
 
-  const changeMenuAndCaseStudyVisibility = () => {
+  const toggleCombinedVisibility = () => {
     setMenuVisibility(false);
-    setCaseStudyCategoryVisibility(false);
+    setCaseStudyVisibility(false);
   }
 
   let windowSize = useWindowSize()
@@ -98,9 +98,9 @@ export default function Header(props) {
               { transform: 'none' }
         }> 
           
-        {isMounted && (
+        {headerMounted && (
 
-            <Link to="/" className="header-logo-container">
+          <Link to="/" className="header-logo-container" onClick={() => toggleCombinedVisibility()} >
 
               <IconLogo />
 
@@ -112,33 +112,33 @@ export default function Header(props) {
 
       <div className="desktop-nav-links-container">
               
-          {isMounted && (
+          {headerMounted && (
 
-              <Link to="/" className="desktop-nav-link" style={{ transitionDelay: `${isHome ? 1 * 100 : 0}ms` }}>HOME</Link>
-
-        )}
-                          
-        {isMounted && (
-
-            <Link to="/about" className="desktop-nav-link" style={{ transitionDelay: `${isHome ? 2 * 100 : 0}ms` }}>ABOUT</Link>
+              <Link to={`/`} className="desktop-nav-link" style={{ transitionDelay: `${isHome ? 1 * 100 : 0}ms` }}>HOME</Link>
 
         )}
                           
-        {isMounted && (
+        {headerMounted && (
+
+            <a className="desktop-nav-link" href="#about-section" style={{ transitionDelay: `${isHome ? 2 * 100 : 0}ms` }}>ABOUT</a>
+
+        )}
+                          
+        {headerMounted && (
               
-            <p className="desktop-nav-switch" id="desktop-case-studies-switch" style={{ transitionDelay: `${isHome ? 3 * 100 : 0}ms` }} onClick={(e) => changeCaseStudyVisibility(e)}>CASE STUDIES</p>
+            <p className="desktop-nav-switch" id="desktop-case-studies-switch" style={{ transitionDelay: `${isHome ? 3 * 100 : 0}ms` }} onClick={() => toggleCaseStudyVisibility()}>CASE STUDIES</p>
 
           )}
 
-          <div className={`desktop-case-study-categories-container ${caseStudyCategoryVisibility}`}>
+          <div className={`desktop-case-study-categories-container ${caseStudyVisibility}`}>
 
-            <Link to="/social" className='desktop-case-studies-link' onClick={() => setCaseStudyCategoryVisibility(false)}>SOCIAL</Link>
-            <Link to="/video" className='desktop-case-studies-link' onClick={() => setCaseStudyCategoryVisibility(false)}>VIDEO</Link>
-            <Link to="/experiential" className='desktop-case-studies-link' onClick={() => setCaseStudyCategoryVisibility(false)}>EXPERIENTIAL</Link>
+            <Link to={`/social`} className='desktop-case-studies-link' onClick={() => setCaseStudyVisibility(false)}>SOCIAL</Link>
+            <Link to={`/video`} className='desktop-case-studies-link' onClick={() => setCaseStudyVisibility(false)}>VIDEO</Link>
+            <Link to={`/experiential`} className='desktop-case-studies-link' onClick={() => setCaseStudyVisibility(false)}>EXPERIENTIAL</Link>
 
           </div>
           
-          {isMounted && (
+          {headerMounted && (
               
               <a className="desktop-nav-link" href="#contact-form" id="live-scores-link" style={{ transitionDelay: `${isHome ? 3 * 100 : 0}ms` }}>CONTACT</a>
   
@@ -150,11 +150,11 @@ export default function Header(props) {
 
       {menuVisibility ?
         
-        <FontAwesomeIcon icon={faXmark} className='mobile-icon' onClick={(e) => changeMenuVisibility(e)} />
+        <FontAwesomeIcon icon={faXmark} className='mobile-icon' onClick={(e) => toggleMenuVisibility(e)} />
           
         :
 
-        <FontAwesomeIcon icon={faBars} className='mobile-icon' onClick={(e) => changeMenuVisibility(e)} />
+        <FontAwesomeIcon icon={faBars} className='mobile-icon' onClick={(e) => toggleMenuVisibility(e)} />
 
       }
 
@@ -164,17 +164,17 @@ export default function Header(props) {
 
       <div className={menuVisibility ? "mobile-menu mobile-menu-visible" : "mobile-menu mobile-menu-hidden"}>
 
-        <Link className="mobile-nav-link" to="/" onClick={() => setMenuVisibility(false)}>HOME</Link>
-        <Link className="mobile-nav-link" to="/about" onClick={() => setMenuVisibility(false)}>ABOUT</Link>
-        <p className="mobile-nav-switch" id="mobile-case-studies-switch" onClick={(e) => changeCaseStudyVisibility(e)}>CASE STUDIES</p>
+        <Link className="mobile-nav-link" to={`/`} onClick={() => setMenuVisibility(false)}>HOME</Link>
+        <a className="mobile-nav-link" href="#about-section"  onClick={() => setMenuVisibility(false)}>ABOUT</a>
+        <p className="mobile-nav-switch" id="mobile-case-studies-switch" onClick={(e) => toggleCaseStudyVisibility(e)}>CASE STUDIES</p>
         
-        <div className={`mobile-case-study-categories-container ${caseStudyCategoryVisibility}`}>
-          <Link to="/social" className='mobile-case-studies-link' onClick={() => changeMenuAndCaseStudyVisibility()}>SOCIAL</Link>
-          <Link to="/video" className='mobile-case-studies-link'onClick={() => changeMenuAndCaseStudyVisibility()}>VIDEO</Link>
-          <Link to="/experiential" className='mobile-case-studies-link' onClick={() => changeMenuAndCaseStudyVisibility()}>EXPERIENTIAL</Link>
+        <div className={`mobile-case-study-categories-container ${caseStudyVisibility}`}>
+          <Link to={`/social`}  className='mobile-case-studies-link' onClick={() => toggleCombinedVisibility()}>SOCIAL</Link>
+          <Link to={`/video`} className='mobile-case-studies-link'onClick={() => toggleCombinedVisibility()}>VIDEO</Link>
+          <Link to={`/experiential`}  className='mobile-case-studies-link' onClick={() => toggleCombinedVisibility()}>EXPERIENTIAL</Link>
         </div>
 
-        <a className="mobile-nav-link" target="_blank" rel="noopener noreferrer" href="https://www.ace-tennis-scores.com">CONTACT</a>
+        <a className="mobile-nav-link" href="#contact-form">CONTACT</a>
 
       </div>
     </>

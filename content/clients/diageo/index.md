@@ -1,4 +1,4 @@
 ---
 client: 'Diageo'
-logo: 'https://drive.google.com/uc?export=view&id=1UTwTv7ONSMYH5yYEcXitFZgBFuB2qFVm'
+logo: 'https://drive.google.com/uc?export=view&id=145W07gSBkSOqFmJmgTXq8F6jz2xjJUDT'
 ---
