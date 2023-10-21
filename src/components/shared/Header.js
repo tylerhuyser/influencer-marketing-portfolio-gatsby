@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef } from 'react'
+import React, { useState, useEffect } from 'react'
 import { Link } from 'gatsby';
 import { CSSTransition, TransitionGroup } from 'react-transition-group';
 import { loaderDelay } from "../../utils"
@@ -48,13 +48,11 @@ export default function Header(props) {
   const fadeClass = isHome ? 'fade' : '';
   const fadeDownClass = isHome ? 'fadedown' : '';
 
-  const toggleMenuVisibility = (e) => {
-    e.preventDefault();
+  const toggleMenuVisibility = () => {
     setMenuVisibility(!menuVisibility);
   };
 
   const toggleCaseStudyVisibility = () => {
-    // e.preventDefault();
     setCaseStudyVisibility(!caseStudyVisibility);
   };
 
@@ -102,11 +100,9 @@ export default function Header(props) {
 
           <Link to="/" className="header-logo-container" onClick={() => toggleCombinedVisibility()} >
 
-              <IconLogo />
-
-              <p className="logo-copy-header">Tyler Huyser</p>
+            <IconLogo windowSize={windowSize} />
                       
-            </Link>
+          </Link>
               
         )}
 
@@ -126,7 +122,7 @@ export default function Header(props) {
                           
         {headerMounted && (
               
-            <p className="desktop-nav-switch" id="desktop-case-studies-switch" style={{ transitionDelay: `${isHome ? 3 * 100 : 0}ms` }} onClick={() => toggleCaseStudyVisibility()}>CASE STUDIES</p>
+            <p className={caseStudyVisibility ? 'desktop-nav-switch-active' : 'desktop-nav-switch-inactive'} id="desktop-case-studies-switch" style={{ transitionDelay: `${isHome ? 3 * 100 : 0}ms` }} onClick={() => toggleCaseStudyVisibility()}>CASE STUDIES</p>
 
           )}
 
@@ -150,11 +146,11 @@ export default function Header(props) {
 
       {menuVisibility ?
         
-        <FontAwesomeIcon icon={faXmark} className='mobile-icon' onClick={(e) => toggleMenuVisibility(e)} />
+        <FontAwesomeIcon icon={faXmark} className='mobile-icon' onClick={() => toggleMenuVisibility()} />
           
         :
 
-        <FontAwesomeIcon icon={faBars} className='mobile-icon' onClick={(e) => toggleMenuVisibility(e)} />
+        <FontAwesomeIcon icon={faBars} className='mobile-icon' onClick={() => toggleMenuVisibility()} />
 
       }
 
@@ -166,7 +162,7 @@ export default function Header(props) {
 
         <Link className="mobile-nav-link" to={`/`} onClick={() => setMenuVisibility(false)}>HOME</Link>
         <a className="mobile-nav-link" href="#about-section"  onClick={() => setMenuVisibility(false)}>ABOUT</a>
-        <p className="mobile-nav-switch" id="mobile-case-studies-switch" onClick={(e) => toggleCaseStudyVisibility(e)}>CASE STUDIES</p>
+        <p className={caseStudyVisibility ? 'mobile-nav-switch-active' : 'mobile-nav-switch-inactive'} id="mobile-case-studies-switch" onClick={() => toggleCaseStudyVisibility()}>CASE STUDIES</p>
         
         <div className={`mobile-case-study-categories-container ${caseStudyVisibility}`}>
           <Link to={`/social`}  className='mobile-case-studies-link' onClick={() => toggleCombinedVisibility()}>SOCIAL</Link>

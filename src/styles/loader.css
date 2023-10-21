@@ -7,7 +7,7 @@
   right: 0;
   width: 100%;
   height: 100%;
-  background-color: gold;
+  background: rgba(0,88,146, 1);
   z-index: 99;
 
   display: flex;
@@ -27,13 +27,14 @@
   justify-content: center;
 
   width: max-content;
-  /* max-width: 500px; */
   transition: all 0.25s cubic-bezier(0.645, 0.045, 0.355, 1);
-  scale: 10;
+  scale: 5;
 
-  background-color: gold;
+  background: rgba(0,88,146, 1);
   text-align: center;
-  /* padding: 50px; */
+
+  -webkit-animation: pulse 1s linear infinite both;
+  animation: pulse 1s linear infinite both;
 
   -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
   -moz-box-sizing: border-box; /* Firefox, other Gecko */
@@ -48,23 +49,67 @@
   margin: 0 auto;
   user-select: none;
 
-  background-color: gold;
-
   display: flex;
   align-items: center;
   justify-content: center;
 }
-@media (max-width: 768px) {
+
+@media (min-width: 768px) {
+
+  .loader-container {
+    background: rgba(0,88,146, 1);
+  }
 
   .logo-wrapper {
-    /* max-width: 50vw; */
-    width: 30vw;
-    scale: 2;
+    background: rgba(0,88,146, 1);
+    scale: 3;
   }
 
-  .logo-wrapper svg {
-    width: 100%;
-    height: 100%;
-  }
+}
 
+
+
+@-webkit-keyframes pulse {
+  0% {
+    -webkit-transform: scale(0.85);
+            transform: scale(0.85);
+  }
+  25% {
+    -webkit-transform: scale(0.95);
+            transform: scale(0.95);
+  }
+  50% {
+    -webkit-transform: scale(1);
+            transform: scale(1);
+  }
+  75% {
+    -webkit-transform: scale(0.90);
+            transform: scale(0.90);
+  }
+  100% {
+    -webkit-transform: scale(0.85);
+            transform: scale(0.85);
+  }
+}
+@keyframes pulse768 {
+  0% {
+    -webkit-transform: scale(0.85);
+            transform: scale(0.85);
+  }
+  25% {
+    -webkit-transform: scale(0.95);
+            transform: scale(0.95);
+  }
+  50% {
+    -webkit-transform: scale(1);
+            transform: scale(1);
+  }
+  75% {
+    -webkit-transform: scale(0.90);
+            transform: scale(0.90);
+  }
+  100% {
+    -webkit-transform: scale(0.85);
+            transform: scale(0.85);
+  }
 }

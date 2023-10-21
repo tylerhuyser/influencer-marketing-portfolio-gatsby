@@ -1,5 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import anime from 'animejs';
+import useWindowSize from '../../hooks/useWindowSize';
+
+import IconLogo from './IconLogo';
 
 import "../../styles/Loader.css"
 
@@ -52,15 +55,17 @@ export default function Loader(props) {
     return () => clearTimeout(timeout);
   }, []);
 
+  let windowSize = useWindowSize()
+
   return (
 
     <div className="loader-container">
 
-      <div className="logo-wrapper" syle={
-        isLoaderMounted ? {opacity: 1} : {opacity: 0}
+      <div className="logo-wrapper" style={
+        isLoaderMounted ? {opacity: "1"} : {opacity: "0"}
       }>
 
-        LOADING...
+        <IconLogo windowSize={windowSize} />
 
       </div>
 

@@ -77,7 +77,15 @@ module.exports = {
         name: `experiential`,
         path: `./content/campaigns/experiential`,
       },
-    }],
+    },
+    {
+      resolve: 'gatsby-plugin-react-svg',
+      options: {
+        rule: {
+          include: /svg/,
+        },
+      },
+    },],
   mapping: {
     "MarkdownRemark.frontmatter.posts": `MarkdownRemark.frontmatter.postFileLink`,
     "MarkdownRemark.frontmatter.press": `MarkdownRemark.frontmatter.pressLink`
