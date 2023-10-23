@@ -10,7 +10,7 @@
   background: rgba(0,88,146, 1);
   z-index: 99;
 
-  background-image: url('../images/White-Seamless-No-Rotation.png');
+  /* background-image: url(''); */
   background-size: contain;
   background-repeat: repeat;
   background-position: center center;
