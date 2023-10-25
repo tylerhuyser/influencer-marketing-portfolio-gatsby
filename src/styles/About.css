@@ -1,20 +1,84 @@
+
 .about-container {
   width: 100%;
-  
-  display: flex; 
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
+
+  display: grid;
+  grid-template-columns: 60px 40px 1fr 1fr 1fr;
+  grid-template-rows: 60px 40px 1fr 1fr;
+  align-items: start;
+  justify-items: center;
+  gap: 5px;
 }
 
 .about-headshot {
   width: 100%; 
-  margin-bottom: 50px;
+  height: 100%;
   border-radius: 50%;
-
-  height:(100vw - 100px);
+  
   object-fit: cover;
   filter: grayscale(0%) contrast(1) brightness(90%);
+
+  grid-column: 1 / 3;
+  grid-row: 1 / 3;
+}
+
+.about-stats-container {
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+
+  grid-column: 3 / 6;
+  grid-row: 1 / 2;
+}
+
+.about-stat {
+  width: 100%;  
+  margin: 0px;
+
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  text-align: center;
+
+  align-self: center;
+}
+
+.about-stat-quantity {
+  font-size: 24px;
+  font-weight: 600;
+}
+
+#campaigns {
+  grid-column: 3 / 4;
+}
+
+#posts {
+  grid-column: 4 / 5;
+}
+
+#impressions {
+  grid-column: 5 / 6;
+}
+
+.follow-button {
+
+  width: 100%;
+  height: 100%;
+
+  grid-column: 3 / 6;
+  grid-row: 2 / 3;
+
+  background-color: #319aeb;
+  border: none;
+  border-radius: 8px;
+
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  font-size: 16px;
+}
+
+.about-bio-container {
+  grid-column: 1 / 6;
+  grid-row: 3 / 5;
 }
 
 .about-bio {
@@ -29,9 +93,27 @@
 
   font-family: Arial, Helvetica, sans-serif;
   color: black;
-  font-size: clamp(18px, 3vw, 24px);
-  line-height: 1.4em;
-  text-shadow: none;
+  font-size: 16px;
+}
+
+.bio-title, .bio-subtitle, .bio-blurb, .bio-location {
+  margin: 0px;
+  margin-top: 5px;
+}
+
+.bio-title {
+  font-weight: 600;
+  margin-top: 15px;
+}
+
+.bio-subtitle {
+  color: darkgray;
+  font-weight: 400;
+}
+
+.bio-location {
+  color: blue;
+  margin-bottom: 25px;
 }
 
 @media only screen and (min-width: 481px) {
@@ -41,6 +123,21 @@
 @media only screen and (min-width: 768px) {
 
   .about-container {
+    grid-template-columns: 120px 40px 1fr 1fr 1fr;
+    grid-template-rows: 120px 40px 1fr 1fr;
+    gap: 15px;
+  }
+
+  .about-stat, .about-bio-container, .follow-button {
+    font-size: 20px;
+  }
+
+  .about-stat-quantity {
+    font-size: 30px;
+  }
+
+
+  /* .about-container {
     flex-direction: row;
     align-items: flex-start;
     justify-content: space-between;
@@ -53,10 +150,19 @@
 
   .about-bio {
     width: 30%;
-  }
+  } */
 
 }
 
 @media only screen and (min-width: 1024px) {
+  .about-container {
+    grid-template-columns: 200px 50px 1fr 1fr 1fr;
+    grid-template-rows: 200px 50px 1fr 1fr;
+    gap: 25px;
+  }
 
+  .about-stat, .about-bio-container, .follow-button {
+    font-size: 30px;
+  }
+  
 }

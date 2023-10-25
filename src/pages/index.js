@@ -46,34 +46,28 @@ function App() {
             <Layout loaded={loaded} isMounted={isMounted} isHome={isHome} setCampaignCategory={setCampaignCategory} >
               
             <div className="home-container">
-              
-                <div className="hero-container">
                 
-                <p className="home-container-copy">
-                  Hi, my name is Tyler.
-                </p>
+              <About />
+              
+              {/* <h2 className="home-page-title" id="clients-studies-title">Select Clients</h2> */}
+                
+              <ClientsCarousel />
+              
+                {/* <h2 className="home-page-title" id="case-studies-title">Case Studies</h2> */}
+                
+                <div className="case-study-section-container">
 
-                <p className="home-container-copy">
+                  <p className="case-study-section-title">Case Studies</p>
+                
+                  <div className="case-study-cards-container">
+                  
+                    {caseStudyCardsJSX}
+                
+                  </div>
 
-                </p>
-                
                 </div>
-                
-                <About />
-              
-                <h2 className="home-page-title" id="case-studies-title">Case Studies</h2>
-                
-                <div className="case-studies-category-cards-container">
-                
-                  {caseStudyCardsJSX}
-              
-                </div>
-              
-                <h2 className="home-page-title" id="clients-studies-title">Select Clients</h2>
-                
-                <ClientsCarousel />
                              
-                <h2 className="home-page-title" id="influencer-content-title">Select Influencer Content</h2>
+                {/* <h2 className="home-page-title" id="influencer-content-title">Select Influencer Content</h2> */}
                 
                 <SelectInfluencerContent />
                 

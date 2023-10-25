@@ -4,6 +4,7 @@ import Header from '../shared/Header'
 import Footer from './Footer'
 
 import "../../styles/Layout.css"
+import "../../fonts/Fonts.css"
 
 
 export default function Layout (props) {

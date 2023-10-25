@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'Instagram Sans';
+  font-display: swap;
+  src: local('Instagram Sans') url('../fonts/instagram-sans/InstagramSans-Regular.woff2') format('woff2')
+}
+
+@font-face {
+  font-family: 'Instagram Sans Light';
+  /* font-style: normal; */
+  font-display: swap;
+  src: local('Instagram Sans Light'), url('../fonts/instagram-sans/InstagramSans-Light.woff2') format('woff2')
+}
+
+@font-face {
+  font-family: 'Instagram San Bold';
+  /* font-style: normal; */
+  font-display: swap;
+  src: local('Instagram Sans Bold'), url('../fonts/instagram-sans/InstagramSans-Bold.woff2') format('woff2')
+}
