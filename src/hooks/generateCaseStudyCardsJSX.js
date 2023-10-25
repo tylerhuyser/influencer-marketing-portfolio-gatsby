@@ -12,5 +12,22 @@ export default function generateCaseStudyCardsJSX (props) {
     CaseStudyCardsJSX.push(<CaseStudyCard index={i} />)
   }
 
-  return (CaseStudyCardsJSX.length === cardQuantity ? CaseStudyCardsJSX : <></>)
+  return (
+    CaseStudyCardsJSX.length === cardQuantity ?
+      
+      <div className="case-study-section-container">
+
+        <p className="case-study-section-title">Case Studies</p>
+
+        <div className="case-study-cards-container">
+
+          {CaseStudyCardsJSX}
+
+        </div>
+
+      </div>
+      
+      :
+      <></>
+  )
 }

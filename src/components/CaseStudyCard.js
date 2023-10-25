@@ -39,13 +39,10 @@ export default function CaseStudyCard(props) {
 
     <>
       
-      <Link className="case-study-card" id={`${data[index].title.toLocaleLowerCase()}-case-study-category-card`} key={`${data[index].title}-link`} to={`/${data[index].title.toLowerCase()}`} >
+      <Link className="case-study-card" id={`${data[index].title.toLocaleLowerCase()}-case-study-card`} key={`${data[index].title}-link`} to={`/${data[index].title.toLowerCase()}`} >
 
-        {/* <img className="case-study-category-card-image" id={`${data[index].title.toLocaleLowerCase()}-case-study-category-card-image`} key={`${data[index].title}-image`} src={`${data[index].image}`} />
-
-        <p className="case-study-category-card-title" id={`${data[index].title.toLocaleLowerCase()}-case-study-category-card-title`} key={`${data[index].title}-title`}>{`${data[index].title}`}</p> */}
-
-        <FontAwesomeIcon icon={data[index].icon} className="case-study-icon" />
+        <FontAwesomeIcon icon={data[index].icon} className="case-study-card-icon" />
+        <p className="case-study-card-title" id={`${data[index].title.toLocaleLowerCase()}-title`} key={`${data[index].title.toLocaleLowerCase()}-title`}>{`${data[index].title}`}</p>
 
       </Link>
     

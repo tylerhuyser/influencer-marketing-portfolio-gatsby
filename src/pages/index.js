@@ -34,7 +34,7 @@ function App() {
   //   }
   // }, [])
 
-  const caseStudyCardsJSX = generateCaseStudyCardsJSX(3)
+  const CaseStudyCardsJSX = generateCaseStudyCardsJSX(3)
 
   return (
 
@@ -48,32 +48,14 @@ function App() {
             <div className="home-container">
                 
               <About />
-              
-              {/* <h2 className="home-page-title" id="clients-studies-title">Select Clients</h2> */}
                 
               <ClientsCarousel />
               
-                {/* <h2 className="home-page-title" id="case-studies-title">Case Studies</h2> */}
+              {CaseStudyCardsJSX}
                 
-                <div className="case-study-section-container">
-
-                  <p className="case-study-section-title">Case Studies</p>
+              <SelectInfluencerContent />
                 
-                  <div className="case-study-cards-container">
-                  
-                    {caseStudyCardsJSX}
-                
-                  </div>
-
-                </div>
-                             
-                {/* <h2 className="home-page-title" id="influencer-content-title">Select Influencer Content</h2> */}
-                
-                <SelectInfluencerContent />
-                
-                <h2 className="home-page-title" id="contact-form-title">Let's Work.</h2>
-                
-                <ContactForm />
+              <ContactForm />
               
               </div>
             
