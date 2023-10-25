@@ -122,15 +122,15 @@ export default function Header(props) {
                           
         {headerMounted && (
               
-            <p className={caseStudyVisibility ? 'desktop-nav-switch-active' : 'desktop-nav-switch-inactive'} id="desktop-case-studies-switch" style={{ transitionDelay: `${isHome ? 3 * 100 : 0}ms` }} onClick={() => toggleCaseStudyVisibility()}>CASE STUDIES</p>
+            <p className={caseStudyVisibility ? 'desktop-nav-switch toggled-open' : 'desktop-nav-switch toggled-closed'} id="desktop-case-studies-switch" style={{ transitionDelay: `${isHome ? 3 * 100 : 0}ms` }} onClick={() => toggleCaseStudyVisibility()}>CASE STUDIES</p>
 
           )}
 
-          <div className={`desktop-case-study-categories-container ${caseStudyVisibility}`}>
+          <div className={caseStudyVisibility ? `desktop-case-study-categories-container` : `desktop-case-study-categories-container hidden`}>
 
-            <Link to={`/social`} className='desktop-case-studies-link' onClick={() => setCaseStudyVisibility(false)}>SOCIAL</Link>
-            <Link to={`/video`} className='desktop-case-studies-link' onClick={() => setCaseStudyVisibility(false)}>VIDEO</Link>
-            <Link to={`/experiential`} className='desktop-case-studies-link' onClick={() => setCaseStudyVisibility(false)}>EXPERIENTIAL</Link>
+            <Link to={`/social`} className={caseStudyVisibility ? 'desktop-case-studies-link' : 'desktop-case-studies-link hidden'} onClick={() => setCaseStudyVisibility(false)}>SOCIAL</Link>
+            <Link to={`/video`} className={caseStudyVisibility ? 'desktop-case-studies-link' : 'desktop-case-studies-link hidden'} onClick={() => setCaseStudyVisibility(false)}>VIDEO</Link>
+            <Link to={`/experiential`} className={caseStudyVisibility ? 'desktop-case-studies-link' : 'desktop-case-studies-link hidden'} onClick={() => setCaseStudyVisibility(false)}>EXPERIENTIAL</Link>
 
           </div>
           
@@ -146,7 +146,7 @@ export default function Header(props) {
 
       {menuVisibility ?
         
-        <FontAwesomeIcon icon={faXmark} className='mobile-icon' onClick={() => toggleMenuVisibility()} />
+        <FontAwesomeIcon icon={faXmark} className='mobile-icon' onClick={() => toggleCombinedVisibility()} />
           
         :
 
@@ -162,12 +162,12 @@ export default function Header(props) {
 
         <Link className="mobile-nav-link" to={`/`} onClick={() => setMenuVisibility(false)}>HOME</Link>
         <a className="mobile-nav-link" href="#about-section"  onClick={() => setMenuVisibility(false)}>ABOUT</a>
-        <p className={caseStudyVisibility ? 'mobile-nav-switch-active' : 'mobile-nav-switch-inactive'} id="mobile-case-studies-switch" onClick={() => toggleCaseStudyVisibility()}>CASE STUDIES</p>
+        <p className={caseStudyVisibility ? 'mobile-nav-switch toggled-open' : 'mobile-nav-switch toggled-closed'} id="mobile-case-studies-switch" onClick={() => toggleCaseStudyVisibility()}>CASE STUDIES</p>
         
-        <div className={`mobile-case-study-categories-container ${caseStudyVisibility}`}>
-          <Link to={`/social`}  className='mobile-case-studies-link' onClick={() => toggleCombinedVisibility()}>SOCIAL</Link>
-          <Link to={`/video`} className='mobile-case-studies-link'onClick={() => toggleCombinedVisibility()}>VIDEO</Link>
-          <Link to={`/experiential`}  className='mobile-case-studies-link' onClick={() => toggleCombinedVisibility()}>EXPERIENTIAL</Link>
+        <div className={caseStudyVisibility ? `mobile-case-study-categories-container` : 'mobile-case-study-categories-container hidden'}>
+          <Link to={`/social`} className={caseStudyVisibility ? `mobile-case-studies-link` : 'mobile-case-studies-link hidden'} onClick={() => toggleCombinedVisibility()}>SOCIAL</Link>
+          <Link to={`/video`} className={caseStudyVisibility ? `mobile-case-studies-link` : 'mobile-case-studies-link hidden'} onClick={() => toggleCombinedVisibility()}>VIDEO</Link>
+          <Link to={`/experiential`} className={caseStudyVisibility ? `mobile-case-studies-link` : 'mobile-case-studies-link hidden'} onClick={() => toggleCombinedVisibility()}>EXPERIENTIAL</Link>
         </div>
 
         <a className="mobile-nav-link" href="#contact-form">CONTACT</a>

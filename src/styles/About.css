@@ -212,5 +212,10 @@
   .about-stat, .about-bio-container, .follow-button {
     font-size: 30px;
   }
+
+  .about-stat-quantity { 
+    font-size: 40px;
+  }
+
   
 }

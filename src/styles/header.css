@@ -51,10 +51,11 @@
   overflow: hidden;
 }
 
-.mobile-nav-link, .mobile-nav-switch-active, .mobile-nav-switch-inactive, .mobile-case-studies-link {
+.mobile-nav-link, .mobile-nav-switch, .mobile-case-studies-link {
   width: calc(100vw);
   padding: 10px 25px;
   background: rgba(229,17,101, 1);
+  z-index: 5;
 
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size: 20px;
@@ -64,31 +65,42 @@
   text-decoration-line: none;
 }
 
-.mobile-nav-switch-active {
-  background: rgba(0,88,146, 1);
+.mobile-nav-link:last-child {
+  padding-bottom: 10vh;
 }
 
-.mobile-nav-switch-inactive:hover, .mobile-nav-switch:hover, .mobile-case-studies-link:hover {
+.mobile-nav-switch  {
+  margin: 0px;
+  z-index: 5;
+}
+
+.mobile-nav-switch:hover, .mobile-nav-link:hover, .mobile-case-studies-link:hover {
   background: rgba(56, 63, 81, 1);
 }
 
-.mobile-nav-switch-active, .mobile-nav-switch-inactive  {
-  /* display: inline-block; */
-  margin: 0px;
+.mobile-nav-switch.toggled-open {
+  background: rgba(0,88,146, 1) !important;
 }
 
-.mobile-nav-switch-active::after, .mobile-nav-switch-inactive::after {
-  content: '\25B2';
+.mobile-nav-switch.toggled-closed::after, .mobile-nav-switch.toggled-open::after {
+  display: inline-block;
   position: relative;
-  left: 5px
+  left: 5px;
+  content: '\003C';
+  transition: all 0.25s cubic-bezier(0.250, 0.460, 0.450, 0.940);
 }
 
-.mobile-nav-switch-active::after {
-  content: '\25BC';
+.mobile-nav-switch.toggled-closed::after {
+  transform: rotate(90deg);
+}
+
+.mobile-nav-switch.toggled-open::after {
+  transform: rotate(270deg);
 }
 
 .mobile-case-studies-link {
   background: rgba(56, 63, 81, 1);
+  z-index: 4;
 }
 
 .mobile-case-study-categories-container {
@@ -98,6 +110,13 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
+
+  max-height: 150px;
+  transition: max-height 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940);
+}
+
+.mobile-case-study-categories-container.hidden {
+  max-height: 0px;
 }
 
 .mobile-nav-link:not(:first-child), .mobile-nav-switch, .mobile-case-studies-link {
@@ -154,11 +173,19 @@
 
     height: calc(100px);
     background: #383f51;
+
+    max-width: 375px;
+    transition: max-width 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940);
   }
 
-  .desktop-nav-link, .desktop-nav-switch-active, .desktop-nav-switch-inactive, .desktop-case-studies-link {
+  .desktop-case-study-categories-container.hidden {
+    max-width: 0px;
+  }
+
+  .desktop-nav-link, .desktop-nav-switch, .desktop-case-studies-link {
     height: calc(100px);
     padding: 0px 25px;
+    z-index: 5;
     
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 20px;
@@ -174,27 +201,36 @@
     align-items: center;
   }
 
-  .desktop-nav-switch-active {
-    background: rgba(0,88,146, 1);
+  .desktop-nav-link {
+    background: black;
   }
 
-  .desktop-nav-link:hover, .desktop-nav-switch-active:hover, .desktop-nav-switch-inactive:hover, .desktop-case-studies-link:hover {
+  .desktop-case-studies-link {
+    z-index: 3;
+  }
+
+  .desktop-nav-link:hover, .desktop-nav-switch:hover, .desktop-case-studies-link:hover {
     background: rgba(229,17,101, 1);
   }
 
-
-  /* .desktop-nav-switch-active, .desktop-nav-switch-inactive  {
-    display: inline-block;
-  } */
-
-  .desktop-nav-switch-active::after, .desktop-nav-switch-inactive::after {
-    content: '\25B2';
-    position: relative;
-    left: 5px
+  .desktop-nav-switch.toggled-open{
+    background: rgba(0,88,146, 1) !important;
   }
 
-  .desktop-nav-switch-active::after {
-    content: '\25B8'
+  .desktop-nav-switch.toggled-closed::after, .desktop-nav-switch.toggled-open::after {
+    display: inline-block;
+    position: relative;
+    left: 5px;
+    content: '\003C';
+    transition: all 0.25s cubic-bezier(0.250, 0.460, 0.450, 0.940);
+  }
+  
+  .desktop-nav-switch.toggled-closed::after {
+    transform: rotate(90deg);
+  }
+  
+  .desktop-nav-switch.toggled-open::after {
+    transform: rotate(180deg);
   }
 
   .desktop-nav-link:last-child {
@@ -249,6 +285,32 @@
   }
 }
 
+ @-webkit-keyframes flip-open {
+  0% {
+    -webkit-transform: rotateX(-180deg);
+            transform: rotateX(-180deg);
+  }
+  100% {
+    -webkit-transform: rotateX(0);
+            transform: rotateX(0);
+  }
+}
+@keyframes flip-open {
+  0% {
+    -webkit-transform: rotateX(-180deg);
+            transform: rotateX(-180deg);
+  }
+  100% {
+    -webkit-transform: rotateX(0);
+            transform: rotateX(0);
+  }
+}
+
+
 .mobile-menu-hidden, .false {
   display: none;
+}
+
+.hidden {
+  z-index: -2;
 }
