@@ -18,20 +18,13 @@ export default function Loader(props) {
 
     loader
       .add({
-        targets: '#logo polygon',
-        delay: 300,
-        duration: 1500,
-        easing: 'easeInOutQuart',
-        strokeDashoffset: [anime.setDashoffset, 0],
-      })
-      .add({
-        targets: '#logo svg g',
+        targets: '.icon-logo',
         duration: 700,
         easing: 'easeInOutQuart',
         opacity: 1,
       })
       .add({
-        targets: '#logo',
+        targets: '.icon-logo',
         delay: 500,
         duration: 300,
         easing: 'easeInOutQuart',
@@ -39,7 +32,7 @@ export default function Loader(props) {
         scale: 0.1,
       })
       .add({
-        targets: '.loader',
+        targets: '.icon-logo-container',
         duration: 200,
         easing: 'easeInOutQuart',
         opacity: 0,

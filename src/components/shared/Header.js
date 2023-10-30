@@ -136,7 +136,7 @@ export default function Header(props) {
           
           {headerMounted && (
               
-              <a className="desktop-nav-link" href="#contact-form" id="live-scores-link" style={{ transitionDelay: `${isHome ? 3 * 100 : 0}ms` }}>CONTACT</a>
+              <a className="desktop-nav-link" href="#contact-form" id="contact-form-link" style={{ transitionDelay: `${isHome ? 3 * 100 : 0}ms` }}>CONTACT</a>
   
           )}
 

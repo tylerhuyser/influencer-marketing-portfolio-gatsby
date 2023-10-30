@@ -15,7 +15,7 @@ export default function About() {
       <p className="about-stat" id="posts"><span className="about-stat-quantity">750+</span><br />Posts</p>
       <p className="about-stat" id="impressions"><span className="about-stat-quantity">11.5M+</span><br />Impressions</p>
 
-      <a className="follow-button" href="contact-form">Contact</a>
+      <a className="follow-button" href="#contact-form">Contact</a>
 
       <div className="about-bio-container">
         <p className="bio-title">Tyler Huyser</p>
