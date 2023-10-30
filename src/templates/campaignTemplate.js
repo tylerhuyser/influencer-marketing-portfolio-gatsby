@@ -1,11 +1,8 @@
-import React, { useState } from "react"
+import React from "react"
 import { graphql } from "gatsby"
 import { BrowserRouter as Router } from 'react-router-dom';
 
 import Layout from "../components/shared/Layout"
-import Loader from '../components/shared/Loader'
-
-import { isBrowser } from "../hooks";
 
 import "../styles/CampaignTemplate.css"
 
@@ -32,7 +29,7 @@ export default function CampaignTemplate({ data }) {
         <div className="campaign-detail-container">
                     
           <p className="campaign-detail-title" id={`${client} title`}>{client}</p>             
-          <img className='header-image' id="hero-image" src={heroImage} />
+          <img className='header-image' id="hero-image" src={heroImage} alt="header-hero" />
               
           <div className="campaign-detail-body-container">      
             <div className="campaign-detail-section-container" id="overview-section">
@@ -52,7 +49,7 @@ export default function CampaignTemplate({ data }) {
           
           {subType === "image" ?
             
-            <img className='header-image' id="sub-image" src={sub} />
+            <img className='header-image' id="sub-image" src={sub} alt="non-hero" />
             
             :
           
@@ -84,14 +81,14 @@ export default function CampaignTemplate({ data }) {
                   {post.frontmatter.livePostLink === "N/A" ? 
                     
                     <div className="influencer-content-link">
-                      <img className="influencer-content-image" key={i} src={post.frontmatter.postFileLink} />
+                      <img className="influencer-content-image" key={i} src={post.frontmatter.postFileLink} alt="influencer-content" />
                       <p className='influencer-name'>{post.frontmatter.influencerName} {post.frontmatter.influencerHandle}</p>                  
                     </div>
                 
                   :
                     
                     <a href={post.frontmatter.livePostLink} className="influencer-content-link">
-                      <img className="influencer-content-image" key={i} src={post.frontmatter.postFileLink} />
+                      <img className="influencer-content-image" key={i} src={post.frontmatter.postFileLink} alt="influencer-content" />
                       <p className='influencer-name'>{post.frontmatter.influencerName} ({post.frontmatter.influencerHandle})</p>                  
                     </a>
               
@@ -110,7 +107,7 @@ export default function CampaignTemplate({ data }) {
               <div className="press-articles-container">
                 {press.map((article, i) => (
                   <a href={article.frontmatter.pressLink} className="press-link">
-                    <img className="publisher-image" key={i} src={article.frontmatter.publisherImage} />
+                    <img className="publisher-image" key={i} src={article.frontmatter.publisherImage} alt="publisher-logo" />
                     <p className='publisher-name'>{article.frontmatter.publisherName} // ({article.frontmatter.blockQuote})</p>
                   </a>
                 ))}

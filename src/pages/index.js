@@ -1,9 +1,5 @@
-import React, { useEffect, useState } from "react";
-// import ReactDOM from 'react-dom';
-import { Route, useNavigate, Routes } from "react-router-dom";
-import { useStaticQuery, graphql, Link } from 'gatsby';
+import React, { useState } from "react";
 import { BrowserRouter as Router } from 'react-router-dom';
-import {Helmet} from "react-helmet";
 
 import Layout from '../components/shared/Layout'
 import Loader from '../components/shared/Loader'
@@ -25,8 +21,6 @@ function App() {
   const location = window.location
   const isHome = location.pathname === '/';
 
-  const [campaignCategory, setCampaignCategory] = useState("social")
-
   // useEffect(() => {
   //   if (6 === 6) {
   //     console.log('App.jsx - UseEffect #XX - App.js LOADED')
@@ -43,7 +37,7 @@ function App() {
 
           {loaded && isMounted ?
                 
-            <Layout loaded={loaded} isMounted={isMounted} isHome={isHome} setCampaignCategory={setCampaignCategory} >
+            <Layout loaded={loaded} isMounted={isMounted} isHome={isHome} >
               
             <div className="home-container">
                 

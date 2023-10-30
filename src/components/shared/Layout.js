@@ -9,7 +9,7 @@ import "../../fonts/Fonts.css"
 
 export default function Layout (props) {
 
-  const { isHome, isMounted  } = props
+  const { isHome, isMounted } = props
 
     // Sets target="_blank" rel="noopener noreferrer" on external links
     const handleExternalLinks = () => {

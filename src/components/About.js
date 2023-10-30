@@ -8,7 +8,7 @@ export default function About() {
     <div className="about-container" id="about-section">
 
       <div className="headshot-container">
-        <img className="about-headshot" alt="about-section-image" src='https://drive.google.com/uc?export=view&id=1ZHH1tsOlWbTDICNWINhoo0Hj29Mu-x-z' />
+        <img className="about-headshot" alt="about-headshot" src='https://drive.google.com/uc?export=view&id=1ZHH1tsOlWbTDICNWINhoo0Hj29Mu-x-z' />
       </div>
 
       <p className="about-stat" id="campaigns"><span className="about-stat-quantity">50+</span><br />Campaigns</p>

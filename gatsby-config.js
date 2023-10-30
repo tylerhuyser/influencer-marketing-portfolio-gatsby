@@ -5,7 +5,7 @@ require("dotenv").config({
 module.exports = {
   siteMetadata: {
     title: `Influencer Marketing Portfolio - Tyler Huyser`,
-    siteUrl: `https://www.yourdomain.tld`
+    siteUrl: `https://www.influencermarketing.tylerhuyser.com`
   },
   plugins: ["gatsby-plugin-image", "gatsby-plugin-mdx", "gatsby-transformer-remark", "gatsby-plugin-sharp", "gatsby-transformer-sharp", `gatsby-plugin-react-helmet`, {
     resolve: 'gatsby-source-filesystem',

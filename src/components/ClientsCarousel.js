@@ -71,7 +71,7 @@ export default function ClientsCarousel() {
     query {
       clients: allMarkdownRemark(
         filter: { fileAbsolutePath: { regex: "/clients/" } } 
-        sort: { fields: [frontmatter___client], order: ASC }
+        sort: {frontmatter: {client: ASC}}
       ) {
         edges {
           node {

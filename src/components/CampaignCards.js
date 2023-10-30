@@ -1,13 +1,11 @@
 import React from 'react'
 import { useStaticQuery, graphql, Link } from 'gatsby';
-import { useNavigate } from "react-router-dom";
 
 import "../styles/CampaignCards.css"
 
 export default function CampaignCard (props) {
 
   const { category } = props
-  const navigate = useNavigate();
 
   console.log(category)
 
@@ -15,7 +13,7 @@ export default function CampaignCard (props) {
     query {
       campaigns: allMarkdownRemark(
         filter: { fileAbsolutePath: { regex: "/campaigns/" } }
-        sort: { fields: [frontmatter___client], order: ASC }
+        sort: {frontmatter: {client: ASC}}
       ) {
         edges {
           node {
@@ -47,13 +45,13 @@ export default function CampaignCard (props) {
         {campaigns &&
           campaigns.map(({ node }, i) => {
             const { frontmatter } = node;
-            const { client, path, category, coverImage } = frontmatter;
+            const { client, path, coverImage } = frontmatter;
 
             return (
 
               <Link className="campaign-card-container" id={client} to={`${path}`} key={i} >
 
-                <img className='campaign-card-image' id="cover-image" src={coverImage} />
+                <img className='campaign-card-image' id="cover-image" src={coverImage} alt={`${client}-cover`} />
                 
                 <p className="campaign-card-title" id={`${client} title`}>{client}</p>
                   

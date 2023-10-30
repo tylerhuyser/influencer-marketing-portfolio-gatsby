@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 
 import CaseStudyCard from "../components/CaseStudyCard";
 
