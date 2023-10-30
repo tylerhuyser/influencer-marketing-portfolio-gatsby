@@ -5,6 +5,7 @@ import "../styles/ClientsCarousel.css"
 
 export default function ClientsCarousel() {
 
+  const [count, setCount ] = useState(0)
   const [xPosition, setXPosition] = useState(0)
   const [animationDirection, setAnimationDirection] = useState("")
 
@@ -13,6 +14,7 @@ export default function ClientsCarousel() {
       const timeout =  setTimeout(() => {
         setXPosition(prevState => prevState - 100)
         setAnimationDirection("rightAuto")
+        setCount(prevState => prevState + 1)
       }, 5000);
       return () => {
         clearTimeout(timeout)
@@ -44,18 +46,25 @@ export default function ClientsCarousel() {
 
   if (xPosition > 1600) {
     setXPosition(100)
+    setCount(0)
   }
   if (xPosition < -1600) {
     setXPosition(-100)
+    setCount(0)
   }
 
   const changeXPosition = (direction) => {
     (direction === "left") ? setXPosition(prevState => prevState + 100) : setXPosition(prevState => prevState - 100)
   }
 
+  const changeCount = (direction) => {
+    ((direction === "left") ? setCount(prevState => prevState + 1) : setCount(prevState => prevState - 1))
+  }
+
   const onClick = (direction) => {
     changeXPosition(direction)
     setAnimationDirection(direction)
+    changeCount(direction)
   }
   
   const data = useStaticQuery(graphql`
@@ -93,9 +102,9 @@ export default function ClientsCarousel() {
               return (
 
                 <div className={`client-logo-container ${animationDirection}`} id={`A${i}-${client}-logo-container`} key={`A${i}`} style={{
-                  '--reference-position':`calc(${xPosition}% - (100% * ${clients.length}))`,
-                  '--right-original-position': `calc(${xPosition + 100}% - (100% * ${clients.length}))`,
-                  '--left-original-position': `calc(${xPosition - 100}% - (100% * ${clients.length}))`,
+                  '--reference-position':`calc(${xPosition}% - (100% * ${clients.length}) - (10px * ${clients.length}) )`,
+                  '--right-original-position': `calc(${xPosition + 100}% - (100% * ${clients.length} - (10px * ${clients.length}) )`,
+                  '--left-original-position': `calc(${xPosition - 100}% - (100% * ${clients.length}) - (10px * ${clients.length}) )`,
                 }} >
                   <img className='client-logo' id={`${client}-logo`} alt={`${client}-logo`} src={logo} />
                 </div>
@@ -110,9 +119,9 @@ export default function ClientsCarousel() {
               return (
 
                 <div className={`client-logo-container  ${animationDirection}`} id={`B${i}-${client}-logo-container`} key={`B${i}`} style={{
-                  '--reference-position':`calc(${xPosition}% - (100% * ${clients.length}))`,
-                  '--right-original-position': `calc(${xPosition + 100}% - (100% * ${clients.length}))`,
-                  '--left-original-position': `calc(${xPosition - 100}% - (100% * ${clients.length}))`,
+                  '--reference-position':`calc(${xPosition}% - (100% * ${clients.length}) - (10px * ${clients.length}) )`,
+                  '--right-original-position': `calc(${xPosition + 100}% - (100% * ${clients.length}) - (10px * ${clients.length}) )`,
+                  '--left-original-position': `calc(${xPosition - 100}% - (100% * ${clients.length}) - (10px * ${clients.length}) )`,
                 }} >
                   <img className='client-logo' id={`${client}-logo`} alt={`${client}-logo`} src={logo} />
                 </div>
@@ -127,9 +136,9 @@ export default function ClientsCarousel() {
               return (
 
                 <div className={`client-logo-container  ${animationDirection}`} id={`C${i}-${client}-logo-container`} key={`C${i}`} style={{
-                  '--reference-position':`calc(${xPosition}% - (100% * ${clients.length}))`,
-                  '--right-original-position': `calc(${xPosition + 100}% - (100% * ${clients.length}))`,
-                  '--left-original-position': `calc(${xPosition - 100}% - (100% * ${clients.length}))`,
+                  '--reference-position':`calc(${xPosition}% - (100% * ${clients.length}) - (10px * ${clients.length}) )`,
+                  '--right-original-position': `calc(${xPosition + 100}% - (100% * ${clients.length}) - (10px * ${clients.length})  )`,
+                  '--left-original-position': `calc(${xPosition - 100}% - (100% * ${clients.length}) - (10px * ${clients.length}) )`,
                 }} >
                   <img className='client-logo' id={`${client}-logo`} alt={`${client}-logo`} src={logo} />
                 </div>

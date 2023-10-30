@@ -17,7 +17,7 @@ export default function IconLogo(props) {
   <>
       
       <div className='icon-logo-container'>
-        <svg className="icon-logo" width={windowSize.width < 768 ? "90" : "321.1"} height={windowSize.width < 768 ? "82" : "64.22"} viewBox={windowSize.width < 768 ? "0 0 90 82" : "0 0 410 82"}>
+        <svg className="icon-logo" width={windowSize.width < 768 || (windowSize.width >= 1024 && windowSize.width < 1240) ? "90" : "321.1"} height={windowSize.width < 768  || (windowSize.width >= 1024 && windowSize.width < 1240) ? "82" : "64.22"} viewBox={windowSize.width < 768  || (windowSize.width >= 1024 && windowSize.width < 1240) ? "0 0 90 82" : "0 0 410 82"}>
           <defs id="SvgjsDefs1772"></defs>
           <g className="icon-rectangle" id="SvgjsG1773" featurekey="symbolContainer" transform="matrix(1,0,0,1,0,0)" fill="#e51065">
             <rect width="90" height="82"></rect>

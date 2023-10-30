@@ -25,6 +25,8 @@ export default function ContactForm () {
   return (
 
     <div className="contact-form-container" id="contact-form">
+
+      <h2 className="contact-form-title">Let's Work.</h2>
   
       <form className='contact-form' ref={form} onSubmit={sendEmail}>
 

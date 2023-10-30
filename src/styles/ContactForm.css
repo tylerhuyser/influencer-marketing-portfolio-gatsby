@@ -3,6 +3,19 @@
   /* height: 100%; */
 }
 
+.contact-form-title {
+  width: 100%;
+  margin: 0px;
+  padding: 0px 0px 50px 0px;
+
+  font-family: "Benton Sans Bold", "Benton Sans Bold", sans-serif;
+  color: #555555;
+  font-size: 40px;
+  font-weight: bold;
+  line-height: 1.4 !important;
+  text-align: center;
+}
+
 .contact-form {
   display: flex;
   flex-direction: column;
@@ -47,7 +60,11 @@
   margin-left: auto;
   padding: 0px 10px;
 
-  background-color: #f39c12;
+  background-color: #e51165;
+}
+
+.contact-form-submit-button:hover {
+  background-color: #319aeb;
 }
 
 @media only screen and (min-width: 481px) {
