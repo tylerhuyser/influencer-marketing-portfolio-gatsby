@@ -32,7 +32,7 @@ function App() {
   //     console.log('App.jsx - UseEffect #XX - App.js LOADED')
   //     setLoaded(true)
   //   }
-  // }, [])
+  // }, []) 
 
   const CaseStudyCardsJSX = generateCaseStudyCardsJSX(3)
 
