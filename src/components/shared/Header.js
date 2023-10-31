@@ -1,7 +1,5 @@
-import React, { useState, useEffect } from 'react'
+import React, { useState } from 'react'
 import { Link } from 'gatsby';
-import { CSSTransition, TransitionGroup } from 'react-transition-group';
-import { loaderDelay } from "../../utils"
 import { useScrollDirection } from '../../hooks'
 import useWindowSize from '../../hooks/useWindowSize';
 
@@ -14,7 +12,6 @@ import {  faXmark,
 import IconLogo from './IconLogo';
 
 import "../../styles/Header.css"
-
 
 export default function Header(props) {
 
