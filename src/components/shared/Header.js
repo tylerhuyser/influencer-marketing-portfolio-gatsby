@@ -18,12 +18,9 @@ import "../../styles/Header.css"
 
 export default function Header(props) {
 
-  const { isHome } = props
-
   const [menuVisibility, setMenuVisibility] = useState(false);
   const [caseStudyVisibility, setCaseStudyVisibility] = useState(false)
 
-  const [headerMounted, setHeaderMounted] = useState(!isHome);
   const scrollDirection = useScrollDirection('down');
   const [scrolledToTop, setScrolledToTop] = useState(true);
 
@@ -31,22 +28,6 @@ export default function Header(props) {
     setScrolledToTop(window.pageYOffset < 50);
   };
 
-  useEffect(() => {
-    const timeout = setTimeout(() => {
-      setHeaderMounted(true);
-    }, 100);
-
-    window.addEventListener('scroll', handleScroll);
-
-    return () => {
-      clearTimeout(timeout);
-      window.removeEventListener('scroll', handleScroll);
-    };
-  }, []);
-
-  const timeout = isHome ? loaderDelay : 0;
-  const fadeClass = isHome ? 'fade' : '';
-  const fadeDownClass = isHome ? 'fadedown' : '';
 
   const toggleMenuVisibility = () => {
     setMenuVisibility(!menuVisibility);
@@ -95,36 +76,21 @@ export default function Header(props) {
               :
               { transform: 'none' }
         }> 
-          
-        {headerMounted && (
 
           <Link to="/" className="header-logo-container" onClick={() => toggleCombinedVisibility()} >
 
             <IconLogo windowSize={windowSize} />
                       
           </Link>
-              
-        )}
 
       <div className="desktop-nav-links-container">
+
+          <Link to={`/`} className="desktop-nav-link">HOME</Link>
+
+          <a className="desktop-nav-link" href="#about-section">ABOUT</a>           
               
-          {headerMounted && (
+          <p className={caseStudyVisibility ? 'desktop-nav-switch toggled-open' : 'desktop-nav-switch toggled-closed'} id="desktop-case-studies-switch" onClick={() => toggleCaseStudyVisibility()}>CASE STUDIES</p>
 
-              <Link to={`/`} className="desktop-nav-link" style={{ transitionDelay: `${isHome ? 1 * 100 : 0}ms` }}>HOME</Link>
-
-        )}
-                          
-        {headerMounted && (
-
-            <a className="desktop-nav-link" href="#about-section" style={{ transitionDelay: `${isHome ? 2 * 100 : 0}ms` }}>ABOUT</a>
-
-        )}
-                          
-        {headerMounted && (
-              
-            <p className={caseStudyVisibility ? 'desktop-nav-switch toggled-open' : 'desktop-nav-switch toggled-closed'} id="desktop-case-studies-switch" style={{ transitionDelay: `${isHome ? 3 * 100 : 0}ms` }} onClick={() => toggleCaseStudyVisibility()}>CASE STUDIES</p>
-
-          )}
 
           <div className={caseStudyVisibility ? `desktop-case-study-categories-container` : `desktop-case-study-categories-container hidden`}>
 
@@ -134,11 +100,8 @@ export default function Header(props) {
 
           </div>
           
-          {headerMounted && (
               
-              <a className="desktop-nav-link" href="#contact-form" id="contact-form-link" style={{ transitionDelay: `${isHome ? 3 * 100 : 0}ms` }}>CONTACT</a>
-  
-          )}
+          <a className="desktop-nav-link" href="#contact-form" id="contact-form-link">CONTACT</a>
 
       </div>
 

@@ -7,7 +7,6 @@ import CampaignCards from '../components/CampaignCards'
 export default function CampaignByCategoryTemplate({ pageContext }) { 
 
   const location = window.location
-  const isHome = location.pathname === '/';
 
   console.log(pageContext)
 
@@ -15,7 +14,7 @@ export default function CampaignByCategoryTemplate({ pageContext }) {
       
     <Router>
 
-      <Layout location={location} loaded={true} isMounted={true} isHome={isHome}>
+      <Layout location={location} loaded={true} isMounted={true}>
       
         <CampaignCards category={`${pageContext.campaignCategory}`} />
           

@@ -17,16 +17,6 @@ function App() {
 
   const [loaded, setLoaded] = useState(true)
   const [isMounted, setIsMounted] = useState(false)
- 
-  const location = window.location
-  const isHome = location.pathname === '/';
-
-  // useEffect(() => {
-  //   if (6 === 6) {
-  //     console.log('App.jsx - UseEffect #XX - App.js LOADED')
-  //     setLoaded(true)
-  //   }
-  // }, []) 
 
   const CaseStudyCardsJSX = generateCaseStudyCardsJSX(3)
 
@@ -37,7 +27,7 @@ function App() {
 
           {loaded && isMounted ?
                 
-            <Layout loaded={loaded} isMounted={isMounted} isHome={isHome} >
+            <Layout loaded={loaded} isMounted={isMounted} >
               
             <div className="home-container">
                 
