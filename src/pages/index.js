@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import { BrowserRouter as Router } from 'react-router-dom';
 
 import Layout from '../components/shared/Layout'
 import Loader from '../components/shared/Loader'
@@ -22,7 +21,6 @@ function App() {
 
   return (
 
-      <Router>
         <div className="app-container">
 
           {loaded && isMounted ?
@@ -52,8 +50,6 @@ function App() {
           }
 
         </div>
-
-      </Router>
 
   );
 }

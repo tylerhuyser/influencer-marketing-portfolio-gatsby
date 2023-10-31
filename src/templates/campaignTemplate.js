@@ -1,6 +1,5 @@
 import React from "react"
 import { graphql } from "gatsby"
-import { BrowserRouter as Router } from 'react-router-dom';
 
 import Layout from "../components/shared/Layout"
 
@@ -13,8 +12,6 @@ export default function CampaignTemplate( { pageContext, data} ) {
   const { client, heroImage, sub, subType, stats, press, posts } = frontmatter;
 
   return (
-
-    <Router>
 
       <Layout loaded={true} isMounted={true}>
 
@@ -113,9 +110,7 @@ export default function CampaignTemplate( { pageContext, data} ) {
             
         </div>
               
-      </Layout>
-          
-   </Router>
+      </Layout>       
         
   )
 }

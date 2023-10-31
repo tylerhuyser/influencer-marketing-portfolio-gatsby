@@ -1,5 +1,4 @@
 import React from "react"
-import { BrowserRouter as Router } from 'react-router-dom';
 
 import Layout from '../components/shared/Layout'
 import CampaignCards from '../components/CampaignCards'
@@ -10,17 +9,13 @@ export default function CampaignByCategoryTemplate({ pageContext }) {
 
   console.log(pageContext)
 
-  return (
-      
-    <Router>
+  return (  
 
-      <Layout location={location} loaded={true} isMounted={true}>
+    <Layout location={location} loaded={true} isMounted={true}>
       
-        <CampaignCards category={`${pageContext.campaignCategory}`} />
+      <CampaignCards category={`${pageContext.campaignCategory}`} />
           
-      </Layout>
-
-    </Router>
+    </Layout>
 
   )
 }
