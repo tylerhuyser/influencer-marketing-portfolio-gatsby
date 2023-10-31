@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React, { useState, useEffect } from 'react'
 import { Link } from 'gatsby';
 import { useScrollDirection } from '../../hooks'
 import useWindowSize from '../../hooks/useWindowSize';
@@ -24,6 +24,15 @@ export default function Header(props) {
   const handleScroll = () => {
     setScrolledToTop(window.pageYOffset < 50);
   };
+
+  useEffect(() => {
+
+    window.addEventListener('scroll', handleScroll);
+
+    return () => {
+      window.removeEventListener('scroll', handleScroll);
+    };
+  }, []);
 
 
   const toggleMenuVisibility = () => {
