@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react'
 
-export default function useWindowSize (initialState = "100%", { ttl = 100 } = {}) {
+export default function useWindowSize (initialState = 759, { ttl = 100 } = {}) {
   
   const [windowSize, setWindowSize] = useState({
     width: initialState,

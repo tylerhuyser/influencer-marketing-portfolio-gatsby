@@ -28,8 +28,6 @@ export default function SelectInfluencerContent() {
   `)
 
   const selectContent = data.posts.edges
-
-  console.log(selectContent)
   
   return (
     <div className="select-influencer-content-container">

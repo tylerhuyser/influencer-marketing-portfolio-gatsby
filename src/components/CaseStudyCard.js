@@ -33,8 +33,6 @@ export default function CaseStudyCard(props) {
     }
   ]
 
-  console.log(data[index].icon)
-
   return (
 
     <>

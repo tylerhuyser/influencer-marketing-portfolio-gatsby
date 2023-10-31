@@ -28,9 +28,6 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
   result.data.allMarkdownRemark.edges.forEach(({ node }) => {
 
     // const pageTemplate = (node.frontmatter.type == 'author' ? authorTemplate : bookTemplate)
-    console.log(node)
-    console.log(node.frontmatter)
-    console.log(node.frontmatter.path)
     const campaignPath = node.frontmatter.path
     
     createPage({
@@ -47,8 +44,6 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
   const campaignCategoryTypes = ["social", "video", "experiential"]
 
   campaignCategoryTypes.forEach((category) => {
-
-    console.log(category)
 
     createPage({
       path: `/${category}`,

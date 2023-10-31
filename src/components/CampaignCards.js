@@ -7,8 +7,6 @@ export default function CampaignCard (props) {
 
   const { category } = props
 
-  console.log(category)
-
   const data = useStaticQuery(graphql`
     query {
       campaigns: allMarkdownRemark(
@@ -28,12 +26,6 @@ export default function CampaignCard (props) {
       }
     }
   `);
-
-  // const handleCampaign = () => {
-  //   setTimeout(() => { navigate(`/campaigns/9-elements`) }, 1001)
-  // }
-
-  console.log(data)
 
   const campaigns = data.campaigns.edges.filter(({ node }) => node.frontmatter.category === category);
 

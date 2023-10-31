@@ -18,10 +18,6 @@ export default function ContactForm () {
     });
   };
 
-  console.log('here')
-
-  console.log(process.env.GATSBY_EMAILJS_PUBLIC_KEY)
-
   return (
 
     <div className="contact-form-container" id="contact-form">

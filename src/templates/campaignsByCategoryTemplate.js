@@ -5,8 +5,6 @@ import CampaignCards from '../components/CampaignCards'
 
 export default function CampaignByCategoryTemplate({ pageContext }) { 
 
-  console.log(pageContext)
-
   return (  
 
     <Layout loaded={true} isMounted={true}>
