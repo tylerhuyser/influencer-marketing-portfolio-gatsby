@@ -1,24 +1,20 @@
 import React from "react"
-import { graphql } from "gatsby"
+import { useStaticQuery, graphql } from "gatsby"
 import { BrowserRouter as Router } from 'react-router-dom';
 
 import Layout from "../components/shared/Layout"
 
 import "../styles/CampaignTemplate.css"
 
-export default function CampaignTemplate({ data }) {
+export default function CampaignTemplate( { pageContext, data} ) {
 
   const location = window.location
 
   const isHome = location.pathname === '/';
 
-  console.log(data)
-
   const { markdownRemark } = data
   const { frontmatter, html } = markdownRemark
   const { client, heroImage, sub, subType, stats, press, posts } = frontmatter;
-
-  console.log(frontmatter)
 
   return (
 
@@ -127,6 +123,7 @@ export default function CampaignTemplate({ data }) {
         
   )
 }
+
 
 export const pageQuery = graphql`
 query ($path: String!) {
