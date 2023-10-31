@@ -8,8 +8,6 @@ import "../styles/CampaignTemplate.css"
 
 export default function CampaignTemplate( { pageContext, data} ) {
 
-  const location = window.location
-
   const { markdownRemark } = data
   const { frontmatter, html } = markdownRemark
   const { client, heroImage, sub, subType, stats, press, posts } = frontmatter;
@@ -18,7 +16,7 @@ export default function CampaignTemplate( { pageContext, data} ) {
 
     <Router>
 
-      <Layout location={location} loaded={true} isMounted={true}>
+      <Layout loaded={true} isMounted={true}>
 
         <div className="campaign-detail-container">
                     
