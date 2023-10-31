@@ -1,5 +1,5 @@
 import React from "react"
-import { useStaticQuery, graphql } from "gatsby"
+import { graphql } from "gatsby"
 import { BrowserRouter as Router } from 'react-router-dom';
 
 import Layout from "../components/shared/Layout"
@@ -126,8 +126,8 @@ export default function CampaignTemplate( { pageContext, data} ) {
 
 
 export const pageQuery = graphql`
-query ($path: String!) {
-  markdownRemark(frontmatter: { path: { eq: $path } }) {
+query ($pathName: String!) {
+  markdownRemark(frontmatter: { path: { eq: $pathName } }) {
     html
       frontmatter {
         client

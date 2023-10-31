@@ -7,7 +7,10 @@ module.exports = {
     title: `Influencer Marketing Portfolio - Tyler Huyser`,
     siteUrl: `https://www.influencermarketing.tylerhuyser.com`
   },
-  plugins: ["gatsby-plugin-image", "gatsby-plugin-mdx", "gatsby-transformer-remark", "gatsby-plugin-sharp", "gatsby-transformer-sharp", `gatsby-plugin-react-helmet`, {
+  flags: {
+    DEV_SSR: true
+  },
+  plugins: ["gatsby-plugin-netlify", "gatsby-plugin-image", "gatsby-plugin-mdx", "gatsby-transformer-remark", "gatsby-plugin-sharp", "gatsby-transformer-sharp", `gatsby-plugin-react-helmet`, {
     resolve: 'gatsby-source-filesystem',
     options: {
       "name": "images",

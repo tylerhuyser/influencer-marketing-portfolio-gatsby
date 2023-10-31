@@ -37,7 +37,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
       path: campaignPath,
       component: campaignTemplate,
       context: {
-        path: campaignPath
+        pathName: campaignPath
       }
     })
   })
