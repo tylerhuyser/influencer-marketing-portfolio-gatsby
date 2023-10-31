@@ -1,6 +1,6 @@
 import React from 'react'
 import { useStaticQuery, graphql, Link } from 'gatsby';
-
+ 
 import "../styles/SelectInfluencerContent.css"
 
 export default function SelectInfluencerContent() {
