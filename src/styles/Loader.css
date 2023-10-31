@@ -10,12 +10,6 @@
   background: rgba(0,88,146, 1);
   z-index: 99;
 
-  /* background-image: url(''); */
-  background-size: contain;
-  background-repeat: repeat;
-  background-position: center center;
-  background-attachment: fixed;
-
   display: flex;
   justify-content: center;
   align-items: center;
@@ -34,7 +28,7 @@
 
   width: max-content;
   transition: all 0.25s cubic-bezier(0.645, 0.045, 0.355, 1);
-  scale: 5;
+  /* scale: 5; */
 
   text-align: center;
 
@@ -63,7 +57,7 @@
 
   .logo-wrapper {
     /* background: rgba(0,88,146, 1); */
-    scale: 3;
+    /* scale: 3; */
   }
 
 }
