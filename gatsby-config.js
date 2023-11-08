@@ -14,7 +14,7 @@ module.exports = {
   {
     resolve: "gatsby-plugin-google-tagmanager",
     options: {
-      id: "GTM-T95FWVWP",
+      id: "GTM-KP6PPLTV",
     },
   },  {
     resolve: 'gatsby-source-filesystem',
