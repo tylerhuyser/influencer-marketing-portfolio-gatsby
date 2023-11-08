@@ -107,7 +107,7 @@ export default function Header(props) {
           </div>
           
               
-          <a className="desktop-nav-link" href="#contact-form" id="contact-form-link">CONTACT</a>
+          <a className="desktop-nav-link" href="influencer.tylerhuyser.com/#contact-form" id="contact-form-link">CONTACT</a>
 
       </div>
 
@@ -139,7 +139,7 @@ export default function Header(props) {
           <Link to={`/experiential`} className={caseStudyVisibility ? `mobile-case-studies-link` : 'mobile-case-studies-link hidden'} onClick={() => toggleCombinedVisibility()}>EXPERIENTIAL</Link>
         </div>
 
-        <a className="mobile-nav-link" href="#contact-form">CONTACT</a>
+        <a className="mobile-nav-link" href="influencer.tylerhuyser.com/#contact-form">CONTACT</a>
 
       </div>
     </>
