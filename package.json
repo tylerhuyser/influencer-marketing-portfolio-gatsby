@@ -24,6 +24,7 @@
     "animejs": "^3.2.1",
     "font-awesome": "^4.7.0",
     "gatsby": "^5.12.9",
+    "gatsby-plugin-google-tagmanager": "^5.12.3",
     "gatsby-plugin-image": "^3.12.3",
     "gatsby-plugin-manifest": "^5.12.3",
     "gatsby-plugin-mdx": "^5.12.3",
