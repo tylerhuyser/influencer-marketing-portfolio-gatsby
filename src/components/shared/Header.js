@@ -93,7 +93,7 @@ export default function Header(props) {
 
           <Link to={`/`} className="desktop-nav-link">HOME</Link>
 
-          <a className="desktop-nav-link" href="#about-section">ABOUT</a>           
+          <a className="desktop-nav-link" href="https://www.influencer.tylerhuyser.com/#about-section">ABOUT</a>           
               
           <p className={caseStudyVisibility ? 'desktop-nav-switch toggled-open' : 'desktop-nav-switch toggled-closed'} id="desktop-case-studies-switch" onClick={() => toggleCaseStudyVisibility()}>CASE STUDIES</p>
 
@@ -107,7 +107,7 @@ export default function Header(props) {
           </div>
           
               
-          <a className="desktop-nav-link" href="influencer.tylerhuyser.com/#contact-form" id="contact-form-link">CONTACT</a>
+          <a className="desktop-nav-link" href="https://www.influencer.tylerhuyser.com/#contact-form" id="contact-form-link">CONTACT</a>
 
       </div>
 
@@ -130,7 +130,7 @@ export default function Header(props) {
       <div className={menuVisibility ? "mobile-menu mobile-menu-visible" : "mobile-menu mobile-menu-hidden"}>
 
         <Link className="mobile-nav-link" to={`/`} onClick={() => setMenuVisibility(false)}>HOME</Link>
-        <a className="mobile-nav-link" href="#about-section"  onClick={() => setMenuVisibility(false)}>ABOUT</a>
+        <a className="mobile-nav-link" href="https://www.influencer.tylerhuyser.com/#about-section"  onClick={() => setMenuVisibility(false)}>ABOUT</a>
         <p className={caseStudyVisibility ? 'mobile-nav-switch toggled-open' : 'mobile-nav-switch toggled-closed'} id="mobile-case-studies-switch" onClick={() => toggleCaseStudyVisibility()}>CASE STUDIES</p>
         
         <div className={caseStudyVisibility ? `mobile-case-study-categories-container` : 'mobile-case-study-categories-container hidden'}>
@@ -139,7 +139,7 @@ export default function Header(props) {
           <Link to={`/experiential`} className={caseStudyVisibility ? `mobile-case-studies-link` : 'mobile-case-studies-link hidden'} onClick={() => toggleCombinedVisibility()}>EXPERIENTIAL</Link>
         </div>
 
-        <a className="mobile-nav-link" href="influencer.tylerhuyser.com/#contact-form">CONTACT</a>
+        <a className="mobile-nav-link" href="https://www.influencer.tylerhuyser.com/#contact-form">CONTACT</a>
 
       </div>
     </>
