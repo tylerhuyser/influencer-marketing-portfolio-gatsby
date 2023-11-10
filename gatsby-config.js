@@ -4,8 +4,12 @@ require("dotenv").config({
 
 module.exports = {
   siteMetadata: {
-    title: `Influencer Marketing Portfolio - Tyler Huyser`,
-    siteUrl: `https://www.influencermarketing.tylerhuyser.com`
+    title: 'Tyler Huyser | Influencer Marketing Specialist',
+    description:
+    'Tyler Huyser is an Influencer Marketing Specialist. Previously, Tyler designed, optimized, and executed camapigns on behalf of brands at VaynerMedia, GMG, & PureWow. If you are looking to leverage influencers at scale, please drop me a note.',
+    siteUrl: 'https://www.influencermarketing.tylerhuyser.com',
+    image: '/og.png', // Path to your image you placed in the 'static' folder
+    twitterUsername: '@tylerhuyser',
   },
   flags: {
     DEV_SSR: true
