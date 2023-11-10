@@ -10,7 +10,7 @@ module.exports = {
   flags: {
     DEV_SSR: true
   },
-  plugins: ["gatsby-plugin-netlify", "gatsby-plugin-image", "gatsby-plugin-mdx", "gatsby-transformer-remark", "gatsby-plugin-sharp", "gatsby-transformer-sharp", `gatsby-plugin-react-helmet`,
+  plugins: ["gatsby-plugin-netlify", "gatsby-plugin-image", "gatsby-plugin-mdx", "gatsby-transformer-remark", "gatsby-plugin-sharp", "gatsby-transformer-sharp", `gatsby-plugin-react-helmet`, 'gatsby-plugin-sitemap'
   {
     resolve: "gatsby-plugin-google-tagmanager",
     options: {
