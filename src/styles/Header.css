@@ -65,8 +65,19 @@
   text-decoration-line: none;
 }
 
-.mobile-nav-link:last-child {
-  padding-bottom: 10vh;
+.mobile-nav-link:last-child{
+  padding-bottom: 0px;
+}
+
+.mobile-nav-link:last-child::after {
+  content: '';
+  display: inline-block;
+  position: relative;
+  top: 10px;
+  background: rgba(229,17,101, 1);
+  height: calc(10vh + 25px);
+  width: 100%;
+
 }
 
 .mobile-nav-switch  {

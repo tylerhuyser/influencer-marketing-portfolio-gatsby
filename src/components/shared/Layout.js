@@ -11,7 +11,7 @@ import "../../fonts/Fonts.css"
 export default function Layout (props) {
 
   const { isMounted } = props
-  const {title, description} = props
+  const { title, description } = props
   
   return(
     <>
