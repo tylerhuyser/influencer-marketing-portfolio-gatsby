@@ -2,6 +2,8 @@ require("dotenv").config({
   path: `.env.${process.env.NODE_ENV}`,
 });
 
+const siteUrl = process.env.URL || `https://influencermarketing.tylerhuyser.com`
+
 module.exports = {
   siteMetadata: {
     title: 'Tyler Huyser | Influencer Marketing Specialist',
@@ -14,7 +16,37 @@ module.exports = {
   flags: {
     DEV_SSR: true
   },
-  plugins: ["gatsby-plugin-netlify", "gatsby-plugin-image", "gatsby-plugin-mdx", "gatsby-transformer-remark", "gatsby-plugin-sharp", "gatsby-transformer-sharp", `gatsby-plugin-react-helmet`, 'gatsby-plugin-sitemap',
+  plugins: ["gatsby-plugin-netlify", "gatsby-plugin-image", "gatsby-plugin-mdx", "gatsby-transformer-remark", "gatsby-plugin-sharp", "gatsby-transformer-sharp", `gatsby-plugin-react-helmet`,
+    {
+      resolve: "gatsby-plugin-sitemap",
+      options: {
+        output: '/sitemap-index.xml',
+        query: `
+      {
+        allSitePage {
+          nodes {
+            path
+          }
+        }
+      }
+      `,
+      resolveSiteUrl: () => siteUrl,
+      resolvePages: ({
+        allSitePage: { nodes: allPages }
+      }) => {
+        return allPages.map(page => {
+          return page
+        })
+       },
+      serialize: ({ path }) => {
+          return {
+            url: `${siteUrl}${path}`,
+            changefreq: 'never',
+            priority: 0.5
+          }
+      },
+    }
+  },
   {
     resolve: "gatsby-plugin-google-tagmanager",
     options: {
