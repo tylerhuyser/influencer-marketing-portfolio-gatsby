@@ -21,7 +21,7 @@ module.exports = {
     resolve: 'gatsby-plugin-robots-txt',
     options: {
       host: 'https://influencer.tylerhuyser.com',
-      sitemap: 'https://influencer.tylerhuyser.com/sitemap-index.xml/sitemap-0.xml',
+      sitemap: 'https://influencer.tylerhuyser.com/sitemap-0.xml',
       policy: [{userAgent: '*', allow: '/'}]
     }
   },
