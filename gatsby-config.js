@@ -2,14 +2,14 @@ require("dotenv").config({
   path: `.env.${process.env.NODE_ENV}`,
 });
 
-const siteUrl = process.env.URL || `https://influencermarketing.tylerhuyser.com`
+const siteUrl = process.env.URL || `https://influencer.tylerhuyser.com`
 
 module.exports = {
   siteMetadata: {
     title: 'Tyler Huyser | Influencer Marketing Specialist',
     description:
     'Tyler Huyser is an Influencer Marketing Specialist. Previously, Tyler designed, optimized, and executed camapigns on behalf of brands at VaynerMedia, GMG, & PureWow. If you are looking to leverage influencers at scale, please drop me a note.',
-    siteUrl: 'https://www.influencermarketing.tylerhuyser.com',
+    siteUrl: 'https://www.influencer.tylerhuyser.com',
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@tylerhuyser',
   },
@@ -17,6 +17,14 @@ module.exports = {
     DEV_SSR: true
   },
   plugins: ["gatsby-plugin-netlify", "gatsby-plugin-image", "gatsby-plugin-mdx", "gatsby-transformer-remark", "gatsby-plugin-sharp", "gatsby-transformer-sharp", `gatsby-plugin-react-helmet`,
+  {
+    resolve: 'gatsby-plugin-robots-txt',
+    options: {
+      host: 'https://influencer.tylerhuyser.com',
+      sitemap: 'https://influencer.tylerhuyser.com/sitemap-index.xml/sitemap-0.xml',
+      policy: [{userAgent: '*', allow: '/'}]
+    }
+  },
     {
       resolve: "gatsby-plugin-sitemap",
       options: {
