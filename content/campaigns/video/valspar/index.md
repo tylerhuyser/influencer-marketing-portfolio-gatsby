@@ -1,21 +1,21 @@
 ---
-client: 'Valspar'
-path: '/campaigns/valspar'
-category: 'video'
-coverImage: 'https://drive.google.com/uc?export=view&id=1jGBooyzWr8QKTwLODgJ1bYqR3hd9EW4Y'
-heroImage: 'https://drive.google.com/uc?export=view&id=1s0KBG6H9hZe26m84I075h8UIXBA8-KHe'
-sub: 'https://player.vimeo.com/video/307375910?h=7df52e1b22&title=0&byline=0&portrait=0'
-subType: 'video'
+client: "Valspar"
+path: "/campaigns/valspar/"
+category: "video"
+coverImage: "https://drive.google.com/uc?export=view&id=1jGBooyzWr8QKTwLODgJ1bYqR3hd9EW4Y"
+heroImage: "https://drive.google.com/uc?export=view&id=1s0KBG6H9hZe26m84I075h8UIXBA8-KHe"
+sub: "https://player.vimeo.com/video/307375910?h=7df52e1b22&title=0&byline=0&portrait=0"
+subType: "video"
 stats:
   - Three (3) Influencers
   - Six (6) piece of content
-  - Inclusion in a custom destination on PureWow.com 
+  - Inclusion in a custom destination on PureWow.com
 posts:
-- 'https://drive.google.com/uc?export=view&id=18lb1gQVzLnoIq4FhFpWD-zxsLot1y-nU'
-- 'https://drive.google.com/uc?export=view&id=1htNceVegT4fgjeBVpIs3mIafhA1iS5he'
-- 'https://drive.google.com/uc?export=view&id=1rTrkFE8I2q3Scq9bsxpe2yhBktZQpcuG'
+  - "https://drive.google.com/uc?export=view&id=18lb1gQVzLnoIq4FhFpWD-zxsLot1y-nU"
+  - "https://drive.google.com/uc?export=view&id=1htNceVegT4fgjeBVpIs3mIafhA1iS5he"
+  - "https://drive.google.com/uc?export=view&id=1rTrkFE8I2q3Scq9bsxpe2yhBktZQpcuG"
 press:
-- 
+  -
 showInProjects: true
 ---
 

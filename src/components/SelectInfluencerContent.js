@@ -38,7 +38,7 @@ export default function SelectInfluencerContent() {
 
         return (
 
-          <Link className='influencer-post-container' id={`${influencerName}-post-container`} key={`${influencerName}-container`} to={`/campaigns/${fileAbsolutePath.split("/")[fileAbsolutePath.split("/").length - 2]}`} >
+          <Link className='influencer-post-container' id={`${influencerName}-post-container`} key={`${influencerName}-container`} to={`/campaigns/${fileAbsolutePath.split("/")[fileAbsolutePath.split("/").length - 2]}/`} >
 
             <img className='influencer-post' id={`${influencerName}-post`} key={influencerName} alt={`${influencerName}-${postFileLink}`} src={postFileLink} />
             

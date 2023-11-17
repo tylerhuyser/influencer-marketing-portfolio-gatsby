@@ -37,7 +37,7 @@ export default function CaseStudyCard(props) {
 
     <>
       
-      <Link className="case-study-card" id={`${data[index].title.toLocaleLowerCase()}-case-study-card`} key={`${data[index].title}-link`} to={`/${data[index].title.toLowerCase()}`} >
+      <Link className="case-study-card" id={`${data[index].title.toLocaleLowerCase()}-case-study-card`} key={`${data[index].title}-link`} to={`/${data[index].title.toLowerCase()}/`} >
 
         <FontAwesomeIcon icon={data[index].icon} className="case-study-card-icon" />
         <p className="case-study-card-title" id={`${data[index].title.toLocaleLowerCase()}-title`} key={`${data[index].title.toLocaleLowerCase()}-title`}>{`${data[index].title}`}</p>
