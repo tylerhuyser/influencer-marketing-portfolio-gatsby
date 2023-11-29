@@ -3,7 +3,7 @@ client: "Appaman"
 path: "/campaigns/appaman/"
 category: "social"
 coverImage: "https://drive.google.com/uc?export=view&id=1IqhoD0XqiwNdu7G2Vq-sj-pPkBfJSqQM"
-heroImage: "https://drive.google.com/uc?export=view&id="
+heroImage: "https://drive.google.com/uc?export=view&id=1OwdiV7gRPkXA75_gJhVvaCpEqZaf9MXa"
 sub: "https://drive.google.com/uc?export=view&id=1qWkfob8eaRBV7HJhkgsKQ8ld1JLZ6Byx"
 subType: "image"
 stats:
