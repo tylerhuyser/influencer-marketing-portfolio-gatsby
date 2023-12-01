@@ -1,5 +1,6 @@
 import React from 'react'
 import { useStaticQuery, graphql, Link } from 'gatsby';
+import { GatsbyImage, getImage } from "gatsby-plugin-image"
  
 import "../styles/SelectInfluencerContent.css"
 
@@ -38,7 +39,9 @@ export default function SelectInfluencerContent() {
 
         return (
 
-          <Link className='influencer-post-container' id={`${influencerName}-post-container`} key={`${influencerName}-container`} to={`/campaigns/${fileAbsolutePath.split("/")[fileAbsolutePath.split("/").length - 2]}/`} >
+          <Link className='influencer-post-container' id={`${influencerName}-post-container`} key={`${influencerName}-container`} to={`/campaigns/${fileAbsolutePath.split("/")[fileAbsolutePath.split("/").length - 2]}/i`} >
+
+            {/* <GatsbyImage image={postFileLink} alt={`${influencerName}-${postFileLink}`} src={postFileLink} /> */}
 
             <img className='influencer-post' id={`${influencerName}-post`} key={influencerName} alt={`${influencerName}-${postFileLink}`} src={postFileLink} />
             
