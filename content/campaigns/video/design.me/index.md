@@ -2,17 +2,17 @@
 client: "Design.Me"
 path: "/campaigns/design-me/"
 category: "video"
-coverImage: "https://drive.google.com/uc?export=view&id=1RHrpEi-Uf_pUaNvvEUDnZw9y5wJqgcP0"
-heroImage: "https://drive.google.com/uc?export=view&id=12IyHELFVorcoWISZqdPiggvOYrWALZvf"
-sub: "https://drive.google.com/uc?export=view&id=160aMBlzdRA0wacw98fBySZU1_DQiljCL"
+coverImage: "https://lh3.google.com/u/0/d/1RHrpEi-Uf_pUaNvvEUDnZw9y5wJqgcP0"
+heroImage: "https://lh3.google.com/u/0/d/12IyHELFVorcoWISZqdPiggvOYrWALZvf"
+sub: "https://lh3.google.com/u/0/d/160aMBlzdRA0wacw98fBySZU1_DQiljCL"
 subType: "video"
 stats:
   - Two (2) Influencers
   - Two (2) Branded Videos
   - Over 20,000 organic impressions
 posts:
-  - "https://drive.google.com/uc?export=view&id=169kLjvEuevtOGtLke57f-yzRVX9rLQNy"
-  - "https://drive.google.com/uc?export=view&id=1uM63h0ExYlI_dtmH5TsmAQ1DLs_UiceT"
+  - "https://lh3.google.com/u/0/d/169kLjvEuevtOGtLke57f-yzRVX9rLQNy"
+  - "https://lh3.google.com/u/0/d/1uM63h0ExYlI_dtmH5TsmAQ1DLs_UiceT"
 press:
 showInProjects: true
 ---

@@ -2,9 +2,9 @@
 client: "Calvin Klein"
 path: "/campaigns/calvin-klein/"
 category: "social"
-coverImage: "https://drive.google.com/uc?export=view&id=1H50KLeTazk2nzmGU0jOmKSAPlMnqjG1y"
-heroImage: "https://drive.google.com/uc?export=view&id=1lZtfBYEYjjc3HyWiBJf5k20W0xoaYGa7"
-sub: "https://drive.google.com/uc?export=view&id=18Z8CF2F4pB9t9NnBmnfEshx4DPAI27MX"
+coverImage: "https://lh3.google.com/u/0/d/1H50KLeTazk2nzmGU0jOmKSAPlMnqjG1y"
+heroImage: "https://lh3.google.com/u/0/d/1lZtfBYEYjjc3HyWiBJf5k20W0xoaYGa7"
+sub: "https://lh3.google.com/u/0/d/18Z8CF2F4pB9t9NnBmnfEshx4DPAI27MX"
 subType: "image"
 stats:
   - Thirteen (13) x Influencers (3 x Celebrity, 10 x Rising)
@@ -12,17 +12,17 @@ stats:
   - Twenty-Two (22) Influencer Posts (1 x Carousel + 1 x Story w/ Swipe Up)
   - 10,000,000 Impressions (Paid + Organic)
 posts:
-  - "https://drive.google.com/uc?export=view&id=1YNz3vMOcGyQbRVXqhkL6nzIhulshFt7_"
-  - "https://drive.google.com/uc?export=view&id=1dVPtIJzzyT6GU8H2pFsNrzGkWny1_7JF"
-  - "https://drive.google.com/uc?export=view&id=1wWrO3LvE5JFSX_Hwx0qTJ0V9twJ7UsTy"
-  - "https://drive.google.com/uc?export=view&id=1FVfkfJzH7o1kwIWFiULeVzsQmv0-C-xT"
-  - "https://drive.google.com/uc?export=view&id=1IZxLi7rgG8vj3TFsi83kF5vMcTyMs63q"
-  - "https://drive.google.com/uc?export=view&id=1_lLzToO_0LSDWuPhrSz_17rVGPfb3Cg_"
-  - "https://drive.google.com/uc?export=view&id=1ZmetpcUBGMSW8jAr4Dy09gXqVcgq1De1"
-  - "https://drive.google.com/uc?export=view&id=1nosXk-ZP2tvYtkvoi7emRLJdhedoM3Q5"
-  - "https://drive.google.com/uc?export=view&id=1wrDGgDClWEcThLmjE-BBHyuxLDS-CplM"
-  - "https://drive.google.com/uc?export=view&id=1AkQff9t3lTzZrvrVMBkEXEW3eXi4cS3e"
-  - "https://drive.google.com/uc?export=view&id=1SScpCuNvhA9OOOpv_e7f1YW7T61JZYxT"
+  - "https://lh3.google.com/u/0/d/1YNz3vMOcGyQbRVXqhkL6nzIhulshFt7_"
+  - "https://lh3.google.com/u/0/d/1dVPtIJzzyT6GU8H2pFsNrzGkWny1_7JF"
+  - "https://lh3.google.com/u/0/d/1wWrO3LvE5JFSX_Hwx0qTJ0V9twJ7UsTy"
+  - "https://lh3.google.com/u/0/d/1FVfkfJzH7o1kwIWFiULeVzsQmv0-C-xT"
+  - "https://lh3.google.com/u/0/d/1IZxLi7rgG8vj3TFsi83kF5vMcTyMs63q"
+  - "https://lh3.google.com/u/0/d/1_lLzToO_0LSDWuPhrSz_17rVGPfb3Cg_"
+  - "https://lh3.google.com/u/0/d/1ZmetpcUBGMSW8jAr4Dy09gXqVcgq1De1"
+  - "https://lh3.google.com/u/0/d/1nosXk-ZP2tvYtkvoi7emRLJdhedoM3Q5"
+  - "https://lh3.google.com/u/0/d/1wrDGgDClWEcThLmjE-BBHyuxLDS-CplM"
+  - "https://lh3.google.com/u/0/d/1AkQff9t3lTzZrvrVMBkEXEW3eXi4cS3e"
+  - "https://lh3.google.com/u/0/d/1SScpCuNvhA9OOOpv_e7f1YW7T61JZYxT"
 press:
   - "https://www.one37pm.com/style/calvin-klein-miguel-andujar-suiting-ideas"
   - "https://www.one37pm.com/style/what-to-buy/calvin-klein-dennis-smith-jr-suits"

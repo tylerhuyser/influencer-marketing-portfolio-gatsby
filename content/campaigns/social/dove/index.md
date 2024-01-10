@@ -2,18 +2,18 @@
 client: "Dove"
 path: "/campaigns/dove/"
 category: "social"
-coverImage: "https://drive.google.com/uc?export=view&id=1us39U67JznPaf3Qy52vot1I5j7PONhiz"
-heroImage: "https://drive.google.com/uc?export=view&id=14aGzECPYZH7FaY6bIfGA9UxducpaDT8Y"
-sub: "https://drive.google.com/uc?export=view&id=1pem7qOzvUwf7V4yYI4sArSI8MOf8cb_y"
+coverImage: "https://lh3.google.com/u/0/d/1us39U67JznPaf3Qy52vot1I5j7PONhiz"
+heroImage: "https://lh3.google.com/u/0/d/14aGzECPYZH7FaY6bIfGA9UxducpaDT8Y"
+sub: "https://lh3.google.com/u/0/d/1pem7qOzvUwf7V4yYI4sArSI8MOf8cb_y"
 subType: "image"
 stats:
   - Four (4) Influencers (Rising Tier)
   - Eight (8) Pieces of Content (Video + Story)
   - Over 150,000 organic impressions
 posts:
-  - "https://drive.google.com/uc?export=view&id=11RuCPL3RNmFtIkFtRcT5MsPfkE7ppFM4"
-  - "https://drive.google.com/uc?export=view&id=1FNypPUCg0m2_Xfmk-D9Eg6k93thrQBNV"
-  - "https://drive.google.com/uc?export=view&id=1cbJJWSBhyJEP2KkJ2bvypWJqPUqGEGr6"
+  - "https://lh3.google.com/u/0/d/11RuCPL3RNmFtIkFtRcT5MsPfkE7ppFM4"
+  - "https://lh3.google.com/u/0/d/1FNypPUCg0m2_Xfmk-D9Eg6k93thrQBNV"
+  - "https://lh3.google.com/u/0/d/1cbJJWSBhyJEP2KkJ2bvypWJqPUqGEGr6"
 press:
   -
 showInProjects: true

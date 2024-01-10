@@ -2,17 +2,17 @@
 client: "Appaman"
 path: "/campaigns/appaman/"
 category: "social"
-coverImage: "https://drive.google.com/uc?export=view&id=1IqhoD0XqiwNdu7G2Vq-sj-pPkBfJSqQM"
-heroImage: "https://drive.google.com/uc?export=view&id=1OwdiV7gRPkXA75_gJhVvaCpEqZaf9MXa"
-sub: "https://drive.google.com/uc?export=view&id=1qWkfob8eaRBV7HJhkgsKQ8ld1JLZ6Byx"
+coverImage: "https://lh3.google.com/u/0/d/1IqhoD0XqiwNdu7G2Vq-sj-pPkBfJSqQM"
+heroImage: "https://lh3.google.com/u/0/d/1OwdiV7gRPkXA75_gJhVvaCpEqZaf9MXa"
+sub: "https://lh3.google.com/u/0/d/1qWkfob8eaRBV7HJhkgsKQ8ld1JLZ6Byx"
 subType: "image"
 stats:
   - Two (2) x Macro Influencers
   - Four (4) Pieces of Content (1 x Post + 1 x Story)
   - Nearly 115,000 Organic Impressions
 posts:
-  - "https://drive.google.com/uc?export=view&id=1O_OclNG38Uf_zsTRapeKOdcp8SqyBgjW"
-  - "https://drive.google.com/uc?export=view&id=1_dqvMok8XWDIgQa7t26y0C0nhrAe__uT"
+  - "https://lh3.google.com/u/0/d/1O_OclNG38Uf_zsTRapeKOdcp8SqyBgjW"
+  - "https://lh3.google.com/u/0/d/1_dqvMok8XWDIgQa7t26y0C0nhrAe__uT"
 press:
   -
 showInProjects: true

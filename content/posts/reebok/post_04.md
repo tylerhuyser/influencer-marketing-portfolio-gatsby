@@ -1,6 +1,6 @@
 ---
 influencerName: "Evelyn Torres"
 influencerHandle: "@brickellista"
-livePostLink: "https://www.instagram.com/p/Bp2Q6BogxZ5/" 
-postFileLink: "https://drive.google.com/uc?export=view&id=1ttOjbfLIZDVevnNsi5ubPJghx0xBdOfW"
+livePostLink: "https://www.instagram.com/p/Bp2Q6BogxZ5/"
+postFileLink: "https://lh3.google.com/u/0/d/1ttOjbfLIZDVevnNsi5ubPJghx0xBdOfW"
 ---

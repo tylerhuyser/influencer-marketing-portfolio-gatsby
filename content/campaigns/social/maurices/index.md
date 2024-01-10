@@ -2,19 +2,19 @@
 client: "maurices"
 path: "/campaigns/maurices/"
 category: "social"
-coverImage: "https://drive.google.com/uc?export=view&id=1s0phNe247ossG4lqAx1yfoYQwKm_MCAo"
-heroImage: "https://drive.google.com/uc?export=view&id=1xlTgGyo4zO_2o7paJ6_SX2MfiardqrSl"
-sub: "https://drive.google.com/uc?export=view&id="
+coverImage: "https://lh3.google.com/u/0/d/1s0phNe247ossG4lqAx1yfoYQwKm_MCAo"
+heroImage: "https://lh3.google.com/u/0/d/1xlTgGyo4zO_2o7paJ6_SX2MfiardqrSl"
+sub: "https://lh3.google.com/u/0/d/"
 subType: "none"
 stats:
   - Two (2) Influencers (Micro Tier)
   - Four (4) Pieces of Content
   - Paired with editorial and email activations
 posts:
-  - "https://drive.google.com/uc?export=view&id=19BC-3sB0IBtkwJjfjDPeLcW-vnizs-qc"
-  - "https://drive.google.com/uc?export=view&id=1Q2VQyATuskkTdLwsRKB3k_ZbcTevyl6N"
-  - "https://drive.google.com/uc?export=view&id=1vciwLcOL4eUihfPBUYvcALibfCghp1gq"
-  - "https://drive.google.com/uc?export=view&id=1smXsJBUC9Qak2hrhpZ-FbWpqESSqnYCD"
+  - "https://lh3.google.com/u/0/d/19BC-3sB0IBtkwJjfjDPeLcW-vnizs-qc"
+  - "https://lh3.google.com/u/0/d/1Q2VQyATuskkTdLwsRKB3k_ZbcTevyl6N"
+  - "https://lh3.google.com/u/0/d/1vciwLcOL4eUihfPBUYvcALibfCghp1gq"
+  - "https://lh3.google.com/u/0/d/1smXsJBUC9Qak2hrhpZ-FbWpqESSqnYCD"
 press:
   - "https://www.purewow.com/fashion/sara-anderson-and-cara-fries-favorite-fashion-pieces"
 showInProjects: true

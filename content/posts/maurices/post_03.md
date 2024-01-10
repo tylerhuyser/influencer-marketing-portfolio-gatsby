@@ -1,6 +1,6 @@
 ---
 influencerName: "Cara Fries"
 influencerHandle: "@marvelousinthemidwest"
-livePostLink: "https://www.instagram.com/p/BnBrxKxlNuF/" 
-postFileLink: "https://drive.google.com/uc?export=view&id=1vciwLcOL4eUihfPBUYvcALibfCghp1gq"
+livePostLink: "https://www.instagram.com/p/BnBrxKxlNuF/"
+postFileLink: "https://lh3.google.com/u/0/d/1vciwLcOL4eUihfPBUYvcALibfCghp1gq"
 ---

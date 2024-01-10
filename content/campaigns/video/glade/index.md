@@ -2,21 +2,21 @@
 client: "Glade"
 path: "/campaigns/glade/"
 category: "video"
-coverImage: "https://drive.google.com/uc?export=view&id=19EhStLaCuxXVsVY-aAnYyhv_YcfxuyzQ"
-heroImage: "https://drive.google.com/uc?export=view&id=1JhADwXyCTLZXoXWY0BO1zCcVsKfufoZp"
-sub: "https://drive.google.com/uc?export=view&id=1VYw_0-MT9mifR6nygptJ2FfbPGWMDowP"
+coverImage: "https://lh3.google.com/u/0/d/19EhStLaCuxXVsVY-aAnYyhv_YcfxuyzQ"
+heroImage: "https://lh3.google.com/u/0/d/1JhADwXyCTLZXoXWY0BO1zCcVsKfufoZp"
+sub: "https://lh3.google.com/u/0/d/1VYw_0-MT9mifR6nygptJ2FfbPGWMDowP"
 subType: "image"
 stats:
   - Four (4) Branded Videos starring Celebrity Talent
   - Twenty (20) Influencers
   - Sixty (60) x Pieces of Influencer Content
 posts:
-  - "https://drive.google.com/uc?export=view&id=1dykquTpDxrSXnY_Epf2dYMmrr3FC-mXe"
-  - "https://drive.google.com/uc?export=view&id=1rvN74Yk57u-F7byEdBqEVVxyDS9Y8xBe"
-  - "https://drive.google.com/uc?export=view&id=15KhqNQPa-tvz0hSbJ6-RJ00AnA3Mrhxc"
-  - "https://drive.google.com/uc?export=view&id=1YSNF_bKoGzdGqDEiPwV-KQVAiiItPPlH"
-  - "https://drive.google.com/uc?export=view&id=130ospwkdDsf6t12_PHJputwhgqTBp_Vf"
-  - "https://drive.google.com/uc?export=view&id=1xuQGe3gH15ctxWV8bhVfxOzlE2AvjFvM"
+  - "https://lh3.google.com/u/0/d/1dykquTpDxrSXnY_Epf2dYMmrr3FC-mXe"
+  - "https://lh3.google.com/u/0/d/1rvN74Yk57u-F7byEdBqEVVxyDS9Y8xBe"
+  - "https://lh3.google.com/u/0/d/15KhqNQPa-tvz0hSbJ6-RJ00AnA3Mrhxc"
+  - "https://lh3.google.com/u/0/d/1YSNF_bKoGzdGqDEiPwV-KQVAiiItPPlH"
+  - "https://lh3.google.com/u/0/d/130ospwkdDsf6t12_PHJputwhgqTBp_Vf"
+  - "https://lh3.google.com/u/0/d/1xuQGe3gH15ctxWV8bhVfxOzlE2AvjFvM"
 press:
   -
 showInProjects: true

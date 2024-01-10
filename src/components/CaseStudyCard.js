@@ -18,17 +18,17 @@ export default function CaseStudyCard(props) {
   const data = [
     {
       title: "Social",
-      image: "https://drive.google.com/uc?export=view&id=175i1x524AGHTKqtJGpcDZ3Khhv3EDR2w",
+      image: "https://lh3.google.com/u/0/d/175i1x524AGHTKqtJGpcDZ3Khhv3EDR2w",
       icon: faImages
     },
     {
       title: "Video",
-      image: "https://drive.google.com/uc?export=view&id=19EhStLaCuxXVsVY-aAnYyhv_YcfxuyzQ",
+      image: "https://lh3.google.com/u/0/d/19EhStLaCuxXVsVY-aAnYyhv_YcfxuyzQ",
       icon: faFilm
     },
     {
       title: "Experiential",
-      image: "https://drive.google.com/uc?export=view&id=1DMCoEWrSaZT9ntYqhrHO8TmoFpQfxaYi",
+      image: "https://lh3.google.com/u/0/d/1DMCoEWrSaZT9ntYqhrHO8TmoFpQfxaYi",
       icon: faCalendar
     }
   ]

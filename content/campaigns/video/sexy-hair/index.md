@@ -2,8 +2,8 @@
 client: "Sexy Hair"
 path: "/campaigns/sexy-hair/"
 category: "video"
-coverImage: "https://drive.google.com/uc?export=view&id=1o8MBD6qN17SoT49y_ZhwwnE-p8vpGUbs"
-heroImage: "https://drive.google.com/uc?export=view&id=1rYaGlZxJsWzkF3DzMqq9nqMLA6-_ZnW9"
+coverImage: "https://lh3.google.com/u/0/d/1o8MBD6qN17SoT49y_ZhwwnE-p8vpGUbs"
+heroImage: "https://lh3.google.com/u/0/d/1rYaGlZxJsWzkF3DzMqq9nqMLA6-_ZnW9"
 sub: "https://player.vimeo.com/video/345541829?h=b8b91b9448"
 subType: "video"
 stats:
@@ -11,8 +11,8 @@ stats:
   - Two (2) x Pieces of Content
   - Syndication on Influencer handles and @BlinkBeauty
 posts:
-  - "https://drive.google.com/uc?export=view&id=18q37VID3EsqIO-xc95hPOt9lkG7zVZqc"
-  - "https://drive.google.com/uc?export=view&id=1HAROtXyisQ3adBbYL1U5DU-CQXA3mriF"
+  - "https://lh3.google.com/u/0/d/18q37VID3EsqIO-xc95hPOt9lkG7zVZqc"
+  - "https://lh3.google.com/u/0/d/1HAROtXyisQ3adBbYL1U5DU-CQXA3mriF"
 press:
   -
 showInProjects: true

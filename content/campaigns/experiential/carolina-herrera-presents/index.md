@@ -2,20 +2,20 @@
 client: "Carolina Herrera Presents: Good to be Bad"
 path: "/campaigns/carolina-herrera-presents/"
 category: "experiential"
-coverImage: "https://drive.google.com/uc?export=view&id=1DMCoEWrSaZT9ntYqhrHO8TmoFpQfxaYi"
-heroImage: "https://drive.google.com/uc?export=view&id=1ywJcvnW0OV6sC7t9J6yk9dXE5HRhFXWk"
-sub: "https://drive.google.com/uc?export=view&id=1jU4NgIQX-qkMDUhlaDFztBt7kreSAEh_"
+coverImage: "https://lh3.google.com/u/0/d/1DMCoEWrSaZT9ntYqhrHO8TmoFpQfxaYi"
+heroImage: "https://lh3.google.com/u/0/d/1ywJcvnW0OV6sC7t9J6yk9dXE5HRhFXWk"
+sub: "https://lh3.google.com/u/0/d/1jU4NgIQX-qkMDUhlaDFztBt7kreSAEh_"
 subType: "image"
 stats:
   - Five (5) Influencers (Rising Tier)
   - Five (5) Pieces of Content
   - Over 65,000 Organic Impressions
 posts:
-  - "https://drive.google.com/uc?export=view&id=1r3d_TAk0lDW1HU1xiXDUWeEUHh64j6RG"
-  - "https://drive.google.com/uc?export=view&id=1CnCNqSOL2sOovHC-fIOtKztXBMvqLWLp"
-  - "https://drive.google.com/uc?export=view&id=1K6bUibsrlWGwzheDwq_Op0Fqv0ZmdVaP"
-  - "https://drive.google.com/uc?export=view&id=1Pq-QqebSbcTPLHTzKdyXA17Nfh5d8GaK"
-  - "https://drive.google.com/uc?export=view&id=1r8zaVNZNKvHTVvLjhUMPReDiH_OZAtqW"
+  - "https://lh3.google.com/u/0/d/1r3d_TAk0lDW1HU1xiXDUWeEUHh64j6RG"
+  - "https://lh3.google.com/u/0/d/1CnCNqSOL2sOovHC-fIOtKztXBMvqLWLp"
+  - "https://lh3.google.com/u/0/d/1K6bUibsrlWGwzheDwq_Op0Fqv0ZmdVaP"
+  - "https://lh3.google.com/u/0/d/1Pq-QqebSbcTPLHTzKdyXA17Nfh5d8GaK"
+  - "https://lh3.google.com/u/0/d/1r8zaVNZNKvHTVvLjhUMPReDiH_OZAtqW"
 press:
   - "https://www.purewow.com/event/carolina-herrera-good-to-be-bad-2019"
 showInProjects: true

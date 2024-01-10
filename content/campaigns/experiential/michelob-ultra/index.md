@@ -2,19 +2,19 @@
 client: "Michelob Ultra: Vixen Workout"
 path: "/campaigns/michelob-ultra/"
 category: "experiential"
-coverImage: "https://drive.google.com/uc?export=view&id=1x-hxnoyrytpzkqVI6WrvKn-ZWCMmPhWp"
-heroImage: "https://drive.google.com/uc?export=view&id=1nkUM2tjbcoFKD3_czntVtLvve99n9WDb"
-sub: "https://drive.google.com/uc?export=view&id=1tEBWc9tCULo9188E6ElEd5m0DQ27SuTo"
+coverImage: "https://lh3.google.com/u/0/d/1x-hxnoyrytpzkqVI6WrvKn-ZWCMmPhWp"
+heroImage: "https://lh3.google.com/u/0/d/1nkUM2tjbcoFKD3_czntVtLvve99n9WDb"
+sub: "https://lh3.google.com/u/0/d/1tEBWc9tCULo9188E6ElEd5m0DQ27SuTo"
 subType: "image"
 stats:
   - Four (4) Influencers (4 x Micro Influencers)
   - Eight (8) Pieces of Content
   - Over 50,000 organic impressions
 posts:
-  - "https://drive.google.com/uc?export=view&id=1V8IsDuzyYauLb72QnQ4TL_LBOXXascYD"
-  - "https://drive.google.com/uc?export=view&id=1j4UGpwUYLhLQqyEaX6yrfINf15Eta7u9"
-  - "https://drive.google.com/uc?export=view&id=1CQ3lEKWTR7RLCAt7jeh4p7HJ3tAXJdVw"
-  - "https://drive.google.com/uc?export=view&id=1sFVAgYiFWrRg94zjGtji8ggkkyjSqK1d"
+  - "https://lh3.google.com/u/0/d/1V8IsDuzyYauLb72QnQ4TL_LBOXXascYD"
+  - "https://lh3.google.com/u/0/d/1j4UGpwUYLhLQqyEaX6yrfINf15Eta7u9"
+  - "https://lh3.google.com/u/0/d/1CQ3lEKWTR7RLCAt7jeh4p7HJ3tAXJdVw"
+  - "https://lh3.google.com/u/0/d/1sFVAgYiFWrRg94zjGtji8ggkkyjSqK1d"
 press:
   -
 showInProjects: true

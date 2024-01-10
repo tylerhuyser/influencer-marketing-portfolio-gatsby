@@ -1,4 +1,4 @@
 ---
-client: 'Clinique'
-logo: 'https://drive.google.com/uc?export=view&id=1i4QHngR7lJt4uWQnqjKvQc2L6BfxfYmO'
+client: "Clinique"
+logo: "https://lh3.google.com/u/0/d/1i4QHngR7lJt4uWQnqjKvQc2L6BfxfYmO"
 ---

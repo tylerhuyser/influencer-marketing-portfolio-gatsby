@@ -1,4 +1,4 @@
 ---
-client: 'Gillette'
-logo: 'https://drive.google.com/uc?export=view&id=1qqCvgd2Bgefpq7yJa7PO4BlymrCNlcgH'
+client: "Gillette"
+logo: "https://lh3.google.com/u/0/d/1qqCvgd2Bgefpq7yJa7PO4BlymrCNlcgH"
 ---

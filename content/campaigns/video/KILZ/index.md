@@ -2,17 +2,17 @@
 client: "KILZ"
 path: "/campaigns/kilz/"
 category: "video"
-coverImage: "https://drive.google.com/uc?export=view&id=1McYvYCO92RydTl1-1u-CMgwRG8-UL7c1"
-heroImage: "https://drive.google.com/uc?export=view&id=19CqL5GyvOE1Wl7IOyLvEMqznnfpr7AJj"
-sub: "https://drive.google.com/uc?export=view&id=1dZHxQEzJIyrM7zcB-zyzZTAWsMu9eDgK"
+coverImage: "https://lh3.google.com/u/0/d/1McYvYCO92RydTl1-1u-CMgwRG8-UL7c1"
+heroImage: "https://lh3.google.com/u/0/d/19CqL5GyvOE1Wl7IOyLvEMqznnfpr7AJj"
+sub: "https://lh3.google.com/u/0/d/1dZHxQEzJIyrM7zcB-zyzZTAWsMu9eDgK"
 subType: "image"
 stats:
   - Two (2) Influencers (Rising Tier)
   - Two (2) pieces of content
   - Syndication on influencer handles and @Paint
 posts:
-  - "https://drive.google.com/uc?export=view&id=1lu3g_jTHicZnX97O8YdNiQ8sFEWQmkP6"
-  - "https://drive.google.com/uc?export=view&id=1uKVY9YDl2kWpmhjsrgYG4YFxz7VdzlgF"
+  - "https://lh3.google.com/u/0/d/1lu3g_jTHicZnX97O8YdNiQ8sFEWQmkP6"
+  - "https://lh3.google.com/u/0/d/1uKVY9YDl2kWpmhjsrgYG4YFxz7VdzlgF"
 press:
   -
 showInProjects: true

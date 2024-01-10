@@ -2,8 +2,8 @@
 client: "Olay"
 path: "/campaigns/olay/"
 category: "social"
-coverImage: "https://drive.google.com/uc?export=view&id=1IuPqRpRgRAVk_lehiF_5-h2Nrk8sEZqw"
-heroImage: "https://drive.google.com/uc?export=view&id=1YHeyDy4WO5XTLEg-D-jYdz0Ym3EvY2oB"
+coverImage: "https://lh3.google.com/u/0/d/1IuPqRpRgRAVk_lehiF_5-h2Nrk8sEZqw"
+heroImage: "https://lh3.google.com/u/0/d/1YHeyDy4WO5XTLEg-D-jYdz0Ym3EvY2oB"
 sub: "https://www.youtube.com/embed/Jl-6oJT-YCk"
 subType: "video"
 stats:
@@ -11,13 +11,13 @@ stats:
   - Twenty (20) pieces of content (Video + Story w/ Swipe Up)
   - Over 100,000 impressions
 posts:
-  - "https://drive.google.com/uc?export=view&id=1LuwnAQQOonS3g8IGMfaA3QDVjKy05Dv1"
-  - "https://drive.google.com/uc?export=view&id=1CqTod_wpWGlG1ai45l2LG3xj0FjvLL7W"
-  - "https://drive.google.com/uc?export=view&id=1Q-HOABUu_EDvSB7IslHo8AIUlQGwlHtQ"
-  - "https://drive.google.com/uc?export=view&id=1Ng4J0BUzhGRch2AEk6X8d9UdWKg7Xsqk"
-  - "https://drive.google.com/uc?export=view&id=1kcgt4E38E4_690R01mWZ5bq7oQ3hUtr5"
-  - "https://drive.google.com/uc?export=view&id=1n5RPIRsEEEIgjsUVef-Wyuhxq_1QzzuO"
-  - "https://drive.google.com/uc?export=view&id=1GM0hYuyB2CPhOx7G4_fcsQ5OnavI9he_"
+  - "https://lh3.google.com/u/0/d/1LuwnAQQOonS3g8IGMfaA3QDVjKy05Dv1"
+  - "https://lh3.google.com/u/0/d/1CqTod_wpWGlG1ai45l2LG3xj0FjvLL7W"
+  - "https://lh3.google.com/u/0/d/1Q-HOABUu_EDvSB7IslHo8AIUlQGwlHtQ"
+  - "https://lh3.google.com/u/0/d/1Ng4J0BUzhGRch2AEk6X8d9UdWKg7Xsqk"
+  - "https://lh3.google.com/u/0/d/1kcgt4E38E4_690R01mWZ5bq7oQ3hUtr5"
+  - "https://lh3.google.com/u/0/d/1n5RPIRsEEEIgjsUVef-Wyuhxq_1QzzuO"
+  - "https://lh3.google.com/u/0/d/1GM0hYuyB2CPhOx7G4_fcsQ5OnavI9he_"
 press:
   -
 showInProjects: true
