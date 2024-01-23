@@ -37,7 +37,7 @@ export default function Layout (props) {
           </div>
 
         </>
-          
+        
         :
 
         <div className="logo-wrapper" id="layout-loader">
