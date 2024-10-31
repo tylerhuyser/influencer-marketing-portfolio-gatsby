@@ -1,6 +1,6 @@
 ---
 client: "WEYV"
-path: "/campaigns/WEYV/"
+path: "/campaigns/weyv/"
 category: "social"
 coverImage: "https://lh3.google.com/u/0/d/12YMJxt57W6RS4vyJ_DFU3mLjdAscm7XH"
 heroImage: "https://lh3.google.com/u/0/d/1ecue2-dTwJIA3SRM4uQ0zRkhPRo5wrTA"
