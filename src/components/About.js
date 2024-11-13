@@ -18,7 +18,7 @@ export default function About() {
       <a className="follow-button" href="#contact-form">Contact</a>
 
       <div className="about-bio-container">
-        <p className="bio-title">Tyler Huyser</p>
+        <h1 className="bio-title">Tyler Huyser</h1>
         <p className="bio-subtitle">Influencer Marketing Specialist</p>
         <p className="bio-blurb">
           Experienced influencer marketing specialist.

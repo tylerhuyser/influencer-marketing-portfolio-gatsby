@@ -17,7 +17,7 @@ export default function CampaignTemplate( { pageContext, data} ) {
 
         <div className="campaign-detail-container">
                     
-          <p className="campaign-detail-title" id={`${client} title`}>{client}</p>             
+          <h1 className="campaign-detail-title" id={`${client} title`}>{client}</h1>             
           <img className='header-image' id="hero-image" src={heroImage} alt="header-hero" />
               
           <div className="campaign-detail-body-container">      
@@ -94,12 +94,15 @@ export default function CampaignTemplate( { pageContext, data} ) {
             <div className="campaign-detail-section-container" id="press-section">
               <p className='campaign-detail-section-header' id="press-header">Press</p>
               <div className="press-articles-container">
-                {press.map((article, i) => (
-                  <a href={article.frontmatter.pressLink} className="press-link">
+              {press.map((article, i) => {
+                console.log(article)
+                return (
+                  <a href={ article.frontmatter.removeLink ? `${article.frontmatter.pressLink.split('.com/')[0]}.com` : article.frontmatter.pressLink} className="press-link" target='_blank'>
                     <img className="publisher-image" key={i} src={article.frontmatter.publisherImage} alt="publisher-logo" />
                     <p className='publisher-name'>{article.frontmatter.publisherName} // ({article.frontmatter.blockQuote})</p>
                   </a>
-                ))}
+                )
+              })}
               </div>
             </div>
           
@@ -140,6 +143,7 @@ query ($pathName: String!) {
             publisherImage
             pressLink
             blockQuote
+            removeLink
           }
         }
       }

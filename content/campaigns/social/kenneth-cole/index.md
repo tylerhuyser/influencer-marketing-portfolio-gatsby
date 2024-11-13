@@ -23,10 +23,10 @@ posts:
   - "https://lh3.google.com/u/0/d/1nVJzZXsPxrwIHwHQwsX5tk-8oBCFzwus"
   - "https://lh3.google.com/u/0/d/1-bxgYCTu21R28k0NpvZIRdwNh87c_xqU"
 press:
-  - "https://www.one37pm.com/style/leaders/kenneth-cole-kevin-benejam-style"
-  - "https://www.one37pm.com/style/leaders/kenneth-cole-dathias-godfrey-style"
-  - "https://www.one37pm.com/style/leaders/kenneth-cole-igee-okafor"
-  - "https://www.one37pm.com/style/leaders/kenneth-cole-luce-ugoji-style"
+  - "https://www.one37pm.com/style/kenneth-cole-kevin-benejam-style"
+  - "https://www.one37pm.com/style/kenneth-cole-dathias-godfrey-style"
+  - "https://www.one37pm.com/style/kenneth-cole-igee-okafor"
+  - "https://www.one37pm.com/style/kenneth-cole-luce-ugoji-style"
 showInProjects: true
 ---
 

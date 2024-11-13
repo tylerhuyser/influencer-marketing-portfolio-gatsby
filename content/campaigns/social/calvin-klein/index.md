@@ -25,7 +25,7 @@ posts:
   - "https://lh3.google.com/u/0/d/1SScpCuNvhA9OOOpv_e7f1YW7T61JZYxT"
 press:
   - "https://www.one37pm.com/style/calvin-klein-miguel-andujar-suiting-ideas"
-  - "https://www.one37pm.com/style/what-to-buy/calvin-klein-dennis-smith-jr-suits"
+  - "https://www.one37pm.com/style/calvin-klein-dennis-smith-jr-suits"
 showInProjects: true
 ---
 

@@ -129,6 +129,10 @@
   font-size: 16px;
 }
 
+.bio-title {
+  font-size: 16px;
+}
+
 .bio-title, .bio-subtitle, .bio-blurb, .bio-location {
   margin: 0px;
   margin-top: 5px;
@@ -191,7 +195,7 @@
     border: 2px solid black;
   }
 
-  .about-stat, .about-bio-container, .follow-button {
+  .about-stat, .about-bio-container, .follow-button, .bio-title {
     font-size: 20px;
   }
 
@@ -209,7 +213,7 @@
     margin-bottom: 25px;
   }
 
-  .about-stat, .about-bio-container, .follow-button {
+  .about-stat, .about-bio-container, .follow-button, .bio-title {
     font-size: 30px;
   }
 
