@@ -46,7 +46,7 @@ export default function CampaignTemplate( { pageContext, data} ) {
 
             { subType === "video" ?
               
-              <iframe className="header-image" id="sub-video" src={sub} />
+              <iframe className="header-image" title="header-image" id="sub-video" src={sub} />
               
               :
 

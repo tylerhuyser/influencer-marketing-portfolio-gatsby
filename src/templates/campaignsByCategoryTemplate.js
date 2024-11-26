@@ -8,6 +8,8 @@ export default function CampaignByCategoryTemplate({ pageContext }) {
   return (  
 
     <Layout loaded={true} isMounted={true} title={`${pageContext.campaignCategory.charAt(0).toUpperCase()}${pageContext.campaignCategory.slice(1)} | Influencer Campaigns`} >
+
+      <h1>{`${pageContext.campaignCategory.charAt(0).toUpperCase()}${pageContext.campaignCategory.slice(1)} Campaigns`}</h1>
       
       <CampaignCards category={`${pageContext.campaignCategory}`} />
           

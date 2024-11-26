@@ -1,6 +1,5 @@
 import React from 'react'
 import { useStaticQuery, graphql, Link } from 'gatsby';
-import { GatsbyImage, getImage } from "gatsby-plugin-image"
  
 import "../styles/SelectInfluencerContent.css"
 
