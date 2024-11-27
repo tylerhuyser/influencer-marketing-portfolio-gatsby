@@ -10,6 +10,10 @@ stats:
   - Three (3) Influencers
   - Three (3) branded videos
   - Over 150,000 impressions (paid + organic)
+tags:
+  - branded content
+  - beauty
+  - haircare
 posts:
   - "https://lh3.google.com/u/0/d/1dsJp9fBjiiIeoaFUSdPJnjxVKBBhVIKj"
   - "https://lh3.google.com/u/0/d/1PgPwV2yoSrOKzoVCYGqr7KMhTg2H_2dE"

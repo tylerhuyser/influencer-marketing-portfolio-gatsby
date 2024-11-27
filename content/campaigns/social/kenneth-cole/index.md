@@ -10,6 +10,11 @@ stats:
   - Fourteen (14) Influencers (Rising Tier)
   - Forty-Two (42) Pieces of Content (1 x Post + 2 x Stories w/ Swipe Up)
   - Over 450,000 organic impressions
+tags:
+  - women's fashion
+  - men's fashion
+  - footwear
+  - editorial
 posts:
   - "https://lh3.google.com/u/0/d/1AvARKvE7WkfjslsXx1HXKmI9ZhCBBJ5a"
   - "https://lh3.google.com/u/0/d/1iAC6eWqx7DpPS8w6wVcKV8stNxfR7vPe"

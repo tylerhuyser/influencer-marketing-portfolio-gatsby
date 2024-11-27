@@ -10,6 +10,9 @@ stats:
   - Eight (8) Influencers (Rising Tier)
   - Twenty-Four (24) Pieces of Content (1 x Post + 2 IG Stories w/ Swipe Up)
   - Nearly 275,000 Organic Impressions
+tags:
+  - mothers
+  - tv/movies/media
 posts:
   - "https://lh3.google.com/u/0/d/1oa0kUjJHAU2M2l2OwzgpYDRucmXVQkUa"
   - "https://lh3.google.com/u/0/d/1hEBst5kI7N5LEtpPofxHfDyzEM-1KLBi"

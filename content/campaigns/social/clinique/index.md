@@ -10,6 +10,9 @@ stats:
   - Twenty (20) Influencers (Macro + Celebrity Tiers)
   - Forty (80) Pieces of Content (1 x Post + 3 x Story w/ Swipe Up)
   - Over 3,750,000 Organic Impressions
+tags:
+  - beauty
+  - makeup
 posts:
   - "https://lh3.google.com/u/0/d/1pJ1Uu6shkoMu73KHziBQS1eMpLikvem8"
   - "https://lh3.google.com/u/0/d/17rvO2mAJWkVuZrogwj_TVnFfGjznYz7d"

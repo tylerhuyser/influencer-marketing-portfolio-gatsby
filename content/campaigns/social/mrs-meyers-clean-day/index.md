@@ -10,6 +10,9 @@ stats:
   - Four (4) Influencers (3 x Rising, 1 x Macro)
   - Twenty-Four (24) Pieces of Content (4 x Posts + 4 x Stories w/ Swipe Up)
   - Over 400,000 organic impressions
+tags:
+  - consumer packaged goods
+  - home care
 posts:
   - "https://lh3.google.com/u/0/d/1bI_KFVaHyJhkd_ak80Km1CQofTzfssDH"
   - "https://lh3.google.com/u/0/d/1wqp9Fh5RdElhtS6A_P-PftLyAvc-Rwv2"

@@ -10,6 +10,10 @@ stats:
   - Four (4) Branded Videos starring Celebrity Talent
   - Twenty (20) Influencers
   - Sixty (60) x Pieces of Influencer Content
+tags:
+  - branded content
+  - consumer packaged goods
+  - home care
 posts:
   - "https://lh3.google.com/u/0/d/1dykquTpDxrSXnY_Epf2dYMmrr3FC-mXe"
   - "https://lh3.google.com/u/0/d/1rvN74Yk57u-F7byEdBqEVVxyDS9Y8xBe"

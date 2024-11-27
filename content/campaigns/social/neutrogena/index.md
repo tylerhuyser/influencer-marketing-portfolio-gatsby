@@ -11,6 +11,9 @@ stats:
   - Eight (8) pieces of content (1 x video)
   - Syndication on influencers' handles & @BlinkBeauty
   - Over 175,000 organic impressions
+tags:
+  - beauty
+  - skincare
 posts:
   - "https://lh3.google.com/u/0/d/1EWZNAKRlT9VFW6LeTqcAEZJjIfVAPPPa"
   - "https://lh3.google.com/u/0/d/1XW3TGEwpCRJiF_AUqz9DcQWRAMy33mK6"

@@ -10,6 +10,9 @@ stats:
   - Four (4) Influencers (1 x Rising Tier, 3 x Micro Tier)
   - Eight (8) pieces of content (1 x Post + 1 x Story w/ Swipe Up)
   - Over 10,000 organic impressions
+tags:
+  - women's fashion
+  - intimate wear
 posts:
   - "https://lh3.google.com/u/0/d/1AQrAxxPS76hYjITTJl5MB6VMaO-eM1Bo"
   - "https://lh3.google.com/u/0/d/1hiHN9-_o1aryAOpQZ9T7p6Yg4Z3--T6B"

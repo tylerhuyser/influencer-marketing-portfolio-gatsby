@@ -10,6 +10,10 @@ stats:
   - Twelve (12) Influencers
   - Twelve (12) Pieces of Content
   - Over 175,000 Organic Impressions
+tags:
+  - branded content
+  - beauty
+  - makeup
 posts:
   - "https://lh3.google.com/u/0/d/1ducU4DxATbat-G5NPb4xmQZPFu75giIw"
   - "https://lh3.google.com/u/0/d/12Dr0cdQvg4tCRPAqrIUapd8n1x5WfmB7"

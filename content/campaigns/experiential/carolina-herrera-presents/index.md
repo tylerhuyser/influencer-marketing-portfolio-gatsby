@@ -10,6 +10,10 @@ stats:
   - Five (5) Influencers (Rising Tier)
   - Five (5) Pieces of Content
   - Over 65,000 Organic Impressions
+tags:
+  - experiential campaign
+  - fragrance
+  - beauty
 posts:
   - "https://lh3.google.com/u/0/d/1r3d_TAk0lDW1HU1xiXDUWeEUHh64j6RG"
   - "https://lh3.google.com/u/0/d/1CnCNqSOL2sOovHC-fIOtKztXBMvqLWLp"

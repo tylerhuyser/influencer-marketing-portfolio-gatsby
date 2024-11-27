@@ -9,6 +9,9 @@ subType: "video"
 stats:
   - Over fifty (50+) Influencers in attendance
   - Twenty (20) brands represented
+tags:
+  - experiential campaign
+  - purewow
 posts:
   - "https://lh3.google.com/u/0/d/1OagCIYlqVpuZzpWyYpkt9TXkTau2lSey"
   - "https://lh3.google.com/u/0/d/1Wb_W8Gp1uBONZ2aCpxGUiSbnhpe3RxW9"

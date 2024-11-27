@@ -10,6 +10,9 @@ stats:
   - Eight (8) Influencers (Rising Tier)
   - Twenty-Four (24) Pieces of Content
   - 250,000 Organic Impressions
+tags:
+  - tv/movies/media
+  - digital application
 posts:
   - "https://lh3.google.com/u/0/d/1uI9DAgB_GixlE5ATPU739_AsAACHojLP"
   - "https://lh3.google.com/u/0/d/1W5MS1vkcVVlz4toqdBpphg3xUrVci5Ut"

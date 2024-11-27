@@ -10,6 +10,9 @@ stats:
   - Twenty-Five (25) Influencers (1 x Macro Tier, 7 x Rising Tier, 17 x Micro Tier)
   - Twenty-Five (25) Pieces of Content (Video)
   - Over 250,000 Organic Impressions
+tags:
+  - women's fashion
+  - fragrance
 posts:
   - "https://lh3.google.com/u/0/d/1V84ZANLTn5e4RaB0aIBeuuN2KCNMLGUX"
   - "https://lh3.google.com/u/0/d/1hZx8ds77Xs93jm-7gSNGtNCPvncXC8nx"

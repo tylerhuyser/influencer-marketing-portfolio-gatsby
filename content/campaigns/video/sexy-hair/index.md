@@ -10,6 +10,10 @@ stats:
   - Two (2) x Influencers
   - Two (2) x Pieces of Content
   - Syndication on Influencer handles and @BlinkBeauty
+tags:
+  - branded content
+  - beauty
+  - haircare
 posts:
   - "https://lh3.google.com/u/0/d/18q37VID3EsqIO-xc95hPOt9lkG7zVZqc"
   - "https://lh3.google.com/u/0/d/1HAROtXyisQ3adBbYL1U5DU-CQXA3mriF"

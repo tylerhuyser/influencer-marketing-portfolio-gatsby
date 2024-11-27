@@ -10,6 +10,10 @@ stats:
   - Thirty (30) Influencers (Rising Tier)
   - One Hundred Twenty (120) Pieces of Content (2 x Posts + 2 x Stories w/ Swipe Up)
   - Over 4 million impressions (paid + organic)
+tags:
+  - consumer packaged goods
+  - organic/natural
+  - home care
 posts:
   - "https://lh3.google.com/u/0/d/1SS7YR1TdC92uK2Iw_Iz2Garxo8888sPY"
   - "https://lh3.google.com/u/0/d/1ed54W60UXYK6Y0gNETNo3M79Wb0hjxBq"

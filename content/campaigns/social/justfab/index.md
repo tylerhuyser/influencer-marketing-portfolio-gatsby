@@ -10,6 +10,9 @@ stats:
   - Seventeen (17) Influencers (15 x Micro + 2 x Rising)
   - Fifty-One (51) Pieces of Content (1 x Post + 2 x Stories w/ Swipe Up)
   - Over 185,000 organic impressions
+tags:
+  - women's fashion
+  - fashion
 posts:
   - "https://lh3.google.com/u/0/d/1CC6i-pKXCWE7UY_2XVBp2dD971-E2c-D"
   - "https://lh3.google.com/u/0/d/128NwPFnYqfOS82HbeuqfM4YFTJzdmg6I"

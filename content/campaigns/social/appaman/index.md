@@ -10,6 +10,9 @@ stats:
   - Two (2) x Macro Influencers
   - Four (4) Pieces of Content (1 x Post + 1 x Story)
   - Nearly 115,000 Organic Impressions
+tags:
+  - mothers
+  - children's fashion
 posts:
   - "https://lh3.google.com/u/0/d/1O_OclNG38Uf_zsTRapeKOdcp8SqyBgjW"
   - "https://lh3.google.com/u/0/d/1_dqvMok8XWDIgQa7t26y0C0nhrAe__uT"

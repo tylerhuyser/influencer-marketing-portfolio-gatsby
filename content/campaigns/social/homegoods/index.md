@@ -10,6 +10,9 @@ stats:
   - Twenty (20) Influencers (18 x Rising Tier + 2 x Macro Tier)
   - Sixty (60) Pieces of Content (1 x Carousel Post + 1 x Story w/ Swipe Up)
   - Over 1,000,000 Organic Impressions
+tags:
+  - consumer packaged goods
+  - home
 posts:
   - "https://lh3.google.com/u/0/d/1qL0ceWcacf8PFR2vM--HaeQrKgxy2b_I"
   - "https://lh3.google.com/u/0/d/1_7iOYeIxxhwTltrPwnKYTyOdNsdqfDWV"

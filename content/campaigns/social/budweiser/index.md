@@ -10,6 +10,9 @@ stats:
   - Twenty (20) Influencers (5 Macro, 7 Rising, 8 Micro)
   - One Hundred Eighty (180) Pieces of Content (180 x Posts)
   - Over 800,000 Organic Impressions
+tags:
+  - alcohol
+  - content creators
 posts:
   - "https://lh3.google.com/u/0/d/1DAbRKF7l3FIPTCyrEd71kKy8vg-A9sfg"
   - "https://lh3.google.com/u/0/d/1_p8VxtyF1rdQ9oMb1RAs3vx2XHLk6jtC"

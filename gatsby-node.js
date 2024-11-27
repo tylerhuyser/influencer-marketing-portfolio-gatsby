@@ -13,6 +13,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
           node {
             frontmatter {
               path
+              tags
             }
           }
         }
@@ -29,12 +30,14 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
 
     // const pageTemplate = (node.frontmatter.type == 'author' ? authorTemplate : bookTemplate)
     const campaignPath = node.frontmatter.path
+    const tagsData = node.frontmatter.tags
     
     createPage({
       path: campaignPath,
       component: campaignTemplate,
       context: {
-        pathName: campaignPath
+        pathName: campaignPath,
+        tags: tagsData
       }
     })
   })

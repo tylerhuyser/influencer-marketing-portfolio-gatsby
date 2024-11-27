@@ -10,6 +10,11 @@ stats:
   - Thirty-Four (34) influencers
   - Over One Hundred (100+) pieces of content (Post + Stories combined)
   - Over 1,000,000 Impressions (paid + organic)
+tags:
+  - experiential campaign
+  - olay
+  - beauty
+  - skincare
 posts:
   - "https://lh3.google.com/u/0/d/1ElWG2f8HCrfkRVulm7s0nK5MO8HCpX4A"
   - "https://lh3.google.com/u/0/d/12Yy48Pdgi8JrUd3L2WfFSfaxCk8MC1p0"

@@ -11,6 +11,9 @@ stats:
   - Two (2) editorial spreads
   - Twenty-Two (22) Influencer Posts (1 x Carousel + 1 x Story w/ Swipe Up)
   - 10,000,000 Impressions (Paid + Organic)
+tags:
+  - men's fashion
+  - editorial
 posts:
   - "https://lh3.google.com/u/0/d/1YNz3vMOcGyQbRVXqhkL6nzIhulshFt7_"
   - "https://lh3.google.com/u/0/d/1dVPtIJzzyT6GU8H2pFsNrzGkWny1_7JF"

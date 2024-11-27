@@ -11,6 +11,10 @@ stats:
   - Three (3) Pieces of Content
   - Syndication on Influencer's Handles, @TheFashionista, and PureWow.com
   - Over 25,000 organic impressions
+tags:
+  - branded content
+  - women's fashion
+  - footwear
 posts:
   - "https://lh3.google.com/u/0/d/19clrnXkLULlcfrht_PM2sNJ-R_I0fd-o"
   - "https://lh3.google.com/u/0/d/1BxROFoqzb-5Ft1OnHI3rJWIdW6etlOBO"

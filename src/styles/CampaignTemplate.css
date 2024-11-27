@@ -62,7 +62,7 @@
   margin-bottom: 25px;
 }
 
-.campaign-description, .campaign-stats-list, .influencer-name, .publisher-name {
+.campaign-description, .campaign-stats-list, .influencer-name, .publisher-name, .similar-campaign-title {
   color: #555555;
   text-decoration-color: #555555;
   font-family: "Benton Sans Bold", "Benton Sans Bold", sans-serif;
@@ -71,7 +71,7 @@
   word-wrap: break-word;
 }
 
-#influencer-content-section, #press-section {
+#influencer-content-section, #press-section, #similar-campaigns-section {
   width: 100%;
 }
 
@@ -79,7 +79,7 @@
   padding-bottom: 50px;
 }
 
-.influencer-name, .publisher-name {
+.influencer-name, .publisher-name, .similar-campaign-title {
   font-size: 14px;
 }
 
@@ -91,7 +91,7 @@
   height: 760px;
 }
 
-.influencer-content-container, .press-articles-container {
+.influencer-content-container, .press-articles-container, .similar-campaigns-container {
   width: 100%;
 
   display: grid;
@@ -101,7 +101,7 @@
   align-items: start;
 }
 
-.influencer-content-link, .press-link {
+.influencer-content-link, .press-link, .similar-campaign-card {
   width: 230px;
 
   text-align: center;
@@ -109,11 +109,11 @@
   text-decoration-color: #555555;
 }
 
-.influencer-content-link:nth-child(4n), .press-article-link:nth-child(4n) {
+.influencer-content-link:nth-child(4n), .press-article-link:nth-child(4n), .similar-campaign-card:nth-child(4n) {
   margin-right: 0px;
  }
 
-.influencer-content-image, .publisher-image {
+.influencer-content-image, .publisher-image, .similar-campaign-image {
   width: 200px;
   height: 200px;
   object-fit: cover;
@@ -121,11 +121,11 @@
 
 
 @media only screen and (min-width: 360px) {
-  .influencer-content-link, .press-link {
+  .influencer-content-link, .press-link, .similar-campaign-card {
     width: 310px;;
   }
 
-  .influencer-content-image, .publisher-image {
+  .influencer-content-image, .publisher-image, .similar-campaign-image {
     width: 300px;
     height: 300px;
   }
@@ -133,18 +133,18 @@
 
 @media only screen and (min-width: 375px) {
 
-  .influencer-content-link, .press-link {
+  .influencer-content-link, .press-link, .similar-campaign-card {
     width: 325px;
   }
 
 }
 
 @media only screen and (min-width: 390px) {
-  .influencer-content-link, .press-link {
+  .influencer-content-link, .press-link, .similar-campaign-card {
     width: 350px;
   }
 
-  .influencer-content-image, .publisher-image {
+  .influencer-content-image, .publisher-image, .similar-campaign-image {
     width: 300px;
     height: 300px;
   }
@@ -155,16 +155,16 @@
 }
 
 @media only screen and (min-width: 540px) {
-  .influencer-content-container, .press-articles-container {
+  .influencer-content-container, .press-articles-container, .similar-campaigns-container {
     grid-template-columns: repeat(2, 200px);
     justify-content: space-around;
   }
 
-  .influencer-content-link, .press-link {
+  .influencer-content-link, .press-link, .similar-campaign-card {
     width: 225px;
   }
 
-  .influencer-content-image, .publisher-image {
+  .influencer-content-image, .publisher-image, .similar-campaign-image {
     width: 225px;
     height: 225px;
   }
@@ -172,11 +172,11 @@
 
 @media only screen and (min-width: 590px) {
 
-  .influencer-content-link, .press-link {
+  .influencer-content-link, .press-link, .similar-campaign-card {
     width: 250px;
   }
 
-  .influencer-content-image, .publisher-image {
+  .influencer-content-image, .publisher-image, .similar-campaign-image {
     width: 250px;
     height: 250px;
   }
@@ -202,15 +202,15 @@
     text-align: left;
   }
 
-  .influencer-content-container, .press-articles-container {
+  .influencer-content-container, .press-articles-container, .similar-campaigns-container {
     grid-template-columns: repeat(3, 200px);
   }
 
-  .influencer-content-link, .press-link {
+  .influencer-content-link, .press-link, .similar-campaign-card {
     width: 200px;
   }
 
-  .influencer-content-image, .publisher-image {
+  .influencer-content-image, .publisher-image, .similar-campaign-image {
     width: 200px;
     height: 200px;
   }
@@ -220,7 +220,7 @@
 
 @media only screen and (min-width: 1024px) {
 
-  .influencer-content-container, .press-articles-container {
+  .influencer-content-container, .press-articles-container, .similar-campaigns-container {
     grid-template-columns: repeat(4, 200px);
     justify-content: space-between;
   }

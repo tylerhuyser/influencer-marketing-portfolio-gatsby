@@ -10,6 +10,10 @@ stats:
   - Four (4) Influencers (Rising Tier)
   - Eight (8) Pieces of Content (Video + Story)
   - Over 150,000 organic impressions
+tags:
+  - food
+  - content creation
+  - consumer packaged goods
 posts:
   - "https://lh3.google.com/u/0/d/11RuCPL3RNmFtIkFtRcT5MsPfkE7ppFM4"
   - "https://lh3.google.com/u/0/d/1FNypPUCg0m2_Xfmk-D9Eg6k93thrQBNV"

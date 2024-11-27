@@ -10,6 +10,9 @@ stats:
   - Six (6) Influencers (Rising Tier)
   - Eighteen (18) Pieces of Content (1 x Post + 2 x Stories)
   - Over 250,000 Organic Impressions
+tags:
+  - experiential campaign
+  - food
 posts:
   - "https://lh3.google.com/u/0/d/1ou-TDV-IonVO1w0BUhNLU0qsS2IzhhST"
   - "https://lh3.google.com/u/0/d/1vWs9cEx-5zesz6Ce2cldAzzXeXGF2h0K"

@@ -10,6 +10,9 @@ stats:
   - Four (4) Influencers (Rising Tier)
   - Sixteen (16) pieces of content (1 x Post + 1 x Story)
   - Over 20,000 organic impressions
+tags:
+  - experiential campaign
+  - women's fashion
 posts:
   - "https://lh3.google.com/u/0/d/18z3YNHyprKcoLKQFhFGlzr-1jUvqekR7"
   - "https://lh3.google.com/u/0/d/155n76DkEmj4UjQUzW61NlyFR8fSiltve"

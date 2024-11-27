@@ -10,6 +10,10 @@ stats:
   - Four (4) Influencers (Macro Tier)
   - Sixteen (16) pieces of content
   - Over 200,000 organic impressions
+tags:
+  - fitness
+  - women's fashion
+  - footwear
 posts:
   - "https://lh3.google.com/u/0/d/1ZOd6I7dbxxUJpx_Sk0qx8BuzmTbXPh7N"
   - "https://lh3.google.com/u/0/d/1EPmGWctQuCCGPBKJgznlIVbirkYeclop"

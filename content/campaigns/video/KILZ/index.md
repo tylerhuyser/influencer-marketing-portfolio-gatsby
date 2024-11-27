@@ -10,6 +10,9 @@ stats:
   - Two (2) Influencers (Rising Tier)
   - Two (2) pieces of content
   - Syndication on influencer handles and @Paint
+tags:
+  - branded content
+  - home
 posts:
   - "https://lh3.google.com/u/0/d/1lu3g_jTHicZnX97O8YdNiQ8sFEWQmkP6"
   - "https://lh3.google.com/u/0/d/1uKVY9YDl2kWpmhjsrgYG4YFxz7VdzlgF"

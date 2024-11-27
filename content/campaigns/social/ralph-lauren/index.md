@@ -10,6 +10,9 @@ stats:
   - Four (4) Influencers (Macro Tier)
   - Sixteen (16) pieces of content
   - Over 200,000 organic impressions
+tags:
+  - women's fashion
+  - luxury
 posts:
   - "https://lh3.google.com/u/0/d/1c7kF4oTkz2sKKYSjc7sGluSXnKwAMpKh"
   - "https://lh3.google.com/u/0/d/1-J-vIYRzF2GARQlW3vIQHWaqcDLDJiT_"

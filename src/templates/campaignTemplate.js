@@ -2,14 +2,19 @@ import React from "react"
 import { graphql } from "gatsby"
 
 import Layout from "../components/shared/Layout"
+import SimilarCampaigns from "../components/SimilarCampaigns"
 
 import "../styles/CampaignTemplate.css"
 
 export default function CampaignTemplate( { pageContext, data} ) {
 
-  const { markdownRemark } = data
+  const { markdownRemark, similarCampaigns } = data
   const { frontmatter, html } = markdownRemark
-  const { client, heroImage, sub, subType, stats, press, posts } = frontmatter;
+  const { client, heroImage, sub, subType, stats, tags, press, posts } = frontmatter;
+
+  console.log(similarCampaigns)
+
+  const campaignSelection = similarCampaigns.edges.slice(0, 4);
 
   return (
 
@@ -95,7 +100,7 @@ export default function CampaignTemplate( { pageContext, data} ) {
               <p className='campaign-detail-section-header' id="press-header">Press</p>
               <div className="press-articles-container">
               {press.map((article, i) => {
-                console.log(article)
+                // console.log(article)
                 return (
                   <a href={ article.frontmatter.removeLink ? `${article.frontmatter.pressLink.split('.com/')[0]}.com` : article.frontmatter.pressLink} className="press-link" target='_blank'>
                     <img className="publisher-image" key={i} src={article.frontmatter.publisherImage} alt="publisher-logo" />
@@ -109,7 +114,15 @@ export default function CampaignTemplate( { pageContext, data} ) {
             :
 
             <></>
-          }
+        }
+        
+          <div className="campaign-detail-section-container" id="similar-campaigns-section">
+          
+            <p className='campaign-detail-section-header' id="press-header">Similar Campaigns</p>
+          
+            <SimilarCampaigns similarCampaigns={campaignSelection} />
+          
+          </div>
             
         </div>
               
@@ -120,7 +133,7 @@ export default function CampaignTemplate( { pageContext, data} ) {
 
 
 export const pageQuery = graphql`
-query ($pathName: String!) {
+query ($pathName: String!, $tags: [String!]) {
   markdownRemark(frontmatter: { path: { eq: $pathName } }) {
     html
       frontmatter {
@@ -129,6 +142,7 @@ query ($pathName: String!) {
         sub
         subType
         stats
+        tags
         posts {
           frontmatter {
             influencerName
@@ -148,5 +162,26 @@ query ($pathName: String!) {
         }
       }
     }
+    similarCampaigns: allMarkdownRemark(
+      filter: {
+        frontmatter: { 
+          tags: { in: $tags }
+          path: { ne: $pathName }
+        }
+        fileAbsolutePath: { regex: "/campaigns/" }
+      }
+      sort: { fields: frontmatter___client, order: ASC }
+    ) {
+      edges {
+        node {
+          frontmatter {
+            client
+            coverImage
+            path
+          }
+        }
+      }
+    }
   }
 `
+

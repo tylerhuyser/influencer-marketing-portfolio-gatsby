@@ -10,6 +10,10 @@ stats:
   - Ten (10) Influencers (across the Celebrity, Macro, and Rising Tiers)
   - Twenty (20) Pieces of Content (1 x post + 1 x story w/ Swipe Up)
   - Roughly 2.5 million Impressions (Organic)
+tags:
+  - consumer packaged goods
+  - beauty
+  - haircare
 posts:
   - "https://lh3.google.com/u/0/d/16YZvzOMW60HaM7s7d4latQXeKkK_zpBO"
   - "https://lh3.google.com/u/0/d/1PxFz_gv8b1KROt-R6YMQ6rg77n7AwVsq"

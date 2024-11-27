@@ -10,6 +10,9 @@ stats:
   - Three (3) Influencers
   - Six (6) piece of content
   - Inclusion in a custom destination on PureWow.com
+tags:
+  - branded content
+  - home
 posts:
   - "https://lh3.google.com/u/0/d/18lb1gQVzLnoIq4FhFpWD-zxsLot1y-nU"
   - "https://lh3.google.com/u/0/d/1htNceVegT4fgjeBVpIs3mIafhA1iS5he"

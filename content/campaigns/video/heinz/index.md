@@ -10,6 +10,9 @@ stats:
   - Three (3) Influencers (Rising Tier)
   - Two (2) Pieces of Content
   - Syndication on PureWow.com & PureWow social properties
+tags:
+  - branded content
+  - food
 posts:
   - "https://lh3.google.com/u/0/d/1k9ZERK8oZlBZj9Bh7x_oJL8xFg1bysYy"
   - "https://lh3.google.com/u/0/d/1PcoYAt9jytiX5WHaeaGvJAENFYq_0n29"

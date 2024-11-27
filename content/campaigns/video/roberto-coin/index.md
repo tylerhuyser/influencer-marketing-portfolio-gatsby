@@ -10,6 +10,10 @@ stats:
   - One (1) Influencer
   - One (1) Piece of Content (Video)
   - Syndication on @BlinkBeauty & influencer's handle
+tags:
+  - branded content
+  - women's fashion
+  - luxury
 posts:
   - "https://lh3.google.com/u/0/d/1ZG1OiBr5QEtK2RiJUxQHgtiitDNoIFGZ"
 press:

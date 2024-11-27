@@ -10,6 +10,9 @@ stats:
   - Two (2) Influencers (Micro Tier)
   - Four (4) Pieces of Content
   - Paired with editorial and email activations
+tags:
+  - women's fashion
+  - editorial
 posts:
   - "https://lh3.google.com/u/0/d/19BC-3sB0IBtkwJjfjDPeLcW-vnizs-qc"
   - "https://lh3.google.com/u/0/d/1Q2VQyATuskkTdLwsRKB3k_ZbcTevyl6N"

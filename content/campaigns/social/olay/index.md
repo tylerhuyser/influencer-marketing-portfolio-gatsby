@@ -10,6 +10,10 @@ stats:
   - Ten (10) Influencers (Micro + Rising Tiers)
   - Twenty (20) pieces of content (Video + Story w/ Swipe Up)
   - Over 100,000 impressions
+tags:
+  - olay
+  - beauty
+  - skincare
 posts:
   - "https://lh3.google.com/u/0/d/1LuwnAQQOonS3g8IGMfaA3QDVjKy05Dv1"
   - "https://lh3.google.com/u/0/d/1CqTod_wpWGlG1ai45l2LG3xj0FjvLL7W"

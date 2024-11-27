@@ -10,6 +10,10 @@ stats:
   - Four (4) Influencers (4 x Micro Influencers)
   - Eight (8) Pieces of Content
   - Over 50,000 organic impressions
+tags:
+  - experiential campaign
+  - fitness
+  - alcohol
 posts:
   - "https://lh3.google.com/u/0/d/1V8IsDuzyYauLb72QnQ4TL_LBOXXascYD"
   - "https://lh3.google.com/u/0/d/1j4UGpwUYLhLQqyEaX6yrfINf15Eta7u9"

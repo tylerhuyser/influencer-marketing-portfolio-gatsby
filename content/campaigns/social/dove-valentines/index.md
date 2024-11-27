@@ -10,6 +10,9 @@ stats:
   - Six (6) Influencers (Rising Tier)
   - Twelve (12) pieces of content (1 Post + 1 Story w/ Swipe Up)
   - Over 75,000 Organic Impressions
+tags:
+  - food
+  - consumer packaged goods
 posts:
   - "https://lh3.google.com/u/0/d/1yXdJGysYEtQea3hnB8cGNTIM5Lq8NXIX"
   - "https://lh3.google.com/u/0/d/1VnpUp7VZknMcd0otpMLhGWjuLOnlvN_C"

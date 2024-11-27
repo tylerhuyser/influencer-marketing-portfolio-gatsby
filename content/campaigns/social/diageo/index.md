@@ -10,6 +10,9 @@ stats:
   - Fifteen (15) Influencers (from a variety of tiers)
   - Thirty (3) Pieces of Content (1 x Post + 1 x Story)
   - Over 300,000 organic impressions
+tags:
+  - alcohol
+  - food
 posts:
   - "https://lh3.google.com/u/0/d/1BEL5L5dbd-4jWbZ4Hq1jokNIlRNXKTEl"
   - "https://lh3.google.com/u/0/d/11Papm8QQyj2ZFHVAioEQr-hpSYVnmxUl"
