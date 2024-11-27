@@ -11,43 +11,26 @@ import "../../fonts/Fonts.css"
 
 export default function Layout (props) {
 
-  const { isMounted } = props
   const { title, description } = props
   
   return(
     <>
-      
-      {isMounted ?
-        
-        <>
           
-          <Head title={title} description={description} />
+      <Head title={title} description={description} />
       
-          <div className="layout-container">
+      <div className="layout-container">
 
-            <Header />
+        <Header />
 
-            <div className="body-container">
+        <div className="body-container">
 
-              {props.children}
-
-            </div>
-
-            <Footer />
+          {props.children}
 
           </div>
 
-        </>
-        
-        :
+        <Footer />
 
-        <div className="logo-wrapper" id="layout-loader">
-
-          <p>LOADING...</p>
-
-        </div>
-      
-      }
+      </div>
           
     </>
     

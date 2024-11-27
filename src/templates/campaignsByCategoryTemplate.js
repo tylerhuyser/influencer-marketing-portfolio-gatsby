@@ -9,7 +9,7 @@ export default function CampaignByCategoryTemplate({ pageContext }) {
 
   return (  
 
-    <Layout loaded={true} isMounted={true} title={`${pageContext.campaignCategory.charAt(0).toUpperCase()}${pageContext.campaignCategory.slice(1)} | Influencer Campaigns`} >
+    <Layout title={`${pageContext.campaignCategory.charAt(0).toUpperCase()}${pageContext.campaignCategory.slice(1)} | Influencer Campaigns`} >
 
       <div className="campaigns-by-category-container" id={`${pageContext.campaignCategory}-campaigns-container`}>
 

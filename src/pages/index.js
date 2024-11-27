@@ -25,18 +25,17 @@ import "../styles/Home.css"
 
 const App = ({getServerData}) => {
 
-  const [loaded, setLoaded] = useState(true)
   const [isMounted, setIsMounted] = useState(false)
 
   const CaseStudyCardsJSX = generateCaseStudyCardsJSX(3)
 
   return (
 
-        <div className="app-container">
+    <div className="app-container">
+      
+      <Layout>
 
-          {loaded && isMounted ?
-                
-            <Layout loaded={loaded} isMounted={isMounted} >
+          {isMounted ?
               
             <div className="home-container">
                 
@@ -52,15 +51,15 @@ const App = ({getServerData}) => {
               
               </div>
             
-            </Layout>
-            
           :
 
             <Loader finishLoading={() => setIsMounted(true)} id="app-loader" />
 
-          }
+        }
+        
+      </Layout>
 
-        </div>
+    </div>
 
   );
 }

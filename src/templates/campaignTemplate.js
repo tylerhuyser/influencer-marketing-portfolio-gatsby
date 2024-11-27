@@ -18,7 +18,7 @@ export default function CampaignTemplate( { pageContext, data} ) {
 
   return (
 
-    <Layout loaded={true} isMounted={true} title={`${client} | Influencer Campaign`} description={html.replace(/<[^>]*>?/gm, '')} >
+    <Layout title={`${client} | Influencer Campaign`} description={html.replace(/<[^>]*>?/gm, '')} >
 
         <div className="campaign-detail-container">
                     
