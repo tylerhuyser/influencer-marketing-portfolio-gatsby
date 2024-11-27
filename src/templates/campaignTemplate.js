@@ -170,7 +170,6 @@ query ($pathName: String!, $tags: [String!]) {
         }
         fileAbsolutePath: { regex: "/campaigns/" }
       }
-      sort: { fields: frontmatter___client, order: ASC }
     ) {
       edges {
         node {
