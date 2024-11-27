@@ -9,7 +9,7 @@ export default function generateCaseStudyCardsJSX (props) {
   let CaseStudyCardsJSX = []
 
   for (let i = 0; i < cardQuantity; i++) {
-    CaseStudyCardsJSX.push(<CaseStudyCard index={i} />)
+    CaseStudyCardsJSX.push(<CaseStudyCard index={i} key={i} />)
   }
 
   return (

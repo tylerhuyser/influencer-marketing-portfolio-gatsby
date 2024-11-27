@@ -14,6 +14,7 @@ export default function SimilarCampaigns (props) {
           similarCampaigns.map(({ node }, i) => {
             const { frontmatter } = node;
             const { client, path, coverImage } = frontmatter;
+            const key = `${client}-${i}`
 
             return (
 

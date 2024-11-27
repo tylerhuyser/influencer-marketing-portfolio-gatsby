@@ -38,10 +38,11 @@ export default function CampaignCard (props) {
           campaigns.map(({ node }, i) => {
             const { frontmatter } = node;
             const { client, path, coverImage } = frontmatter;
+            const key = `${client}-${i}`
 
             return (
 
-              <Link className="campaign-card-container" id={client} to={`${path}`} key={i} >
+              <Link className="campaign-card-container" id={client} to={`${path}`} key={key} >
 
                 <img className='campaign-card-image' id="cover-image" src={coverImage} alt={`${client}-cover`} />
                 

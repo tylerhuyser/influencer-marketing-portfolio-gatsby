@@ -39,7 +39,9 @@ const Head = ({ title, description, image }) => {
 
   return (
     <Helmet title={title} defaultTitle={seo.title} titleTemplate={title && title.includes('Influencer Campaign') ? title : defaultTitle}>
+      <title>{seo.title}</title>
       <html lang="en" />
+      <link rel="canonical" href={seo.url} />
 
       <meta name="description" content={seo.description.slice(0, 157)+'...'} />
       <meta name="image" content={seo.image} />

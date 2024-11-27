@@ -9,7 +9,7 @@ module.exports = {
     title: 'Tyler Huyser | Influencer Marketing Specialist',
     description:
     'Tyler Huyser is an Influencer Marketing Specialist. Previously, Tyler designed, optimized, and executed camapigns on behalf of brands at VaynerMedia, GMG, & PureWow. If you are looking to leverage influencers at scale, please drop me a note.',
-    siteUrl: 'https://www.influencer.tylerhuyser.com',
+    siteUrl: 'https://influencer.tylerhuyser.com',
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@tylerhuyser',
   },
