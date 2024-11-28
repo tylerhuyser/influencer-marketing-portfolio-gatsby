@@ -1,4 +1,4 @@
-.icon-logo-container {
+.loader-logo-container {
 
   display: flex;
   flex-direction: row;
@@ -7,7 +7,7 @@
   transform: scale(0.6);
 }
 
-.icon-logo {
+.loader-icon-logo, .header-icon-logo {
   height: 70px;
 }
 
@@ -36,7 +36,7 @@
 }
 
 @media only screen and (min-width: 1240px) {
-  .icon-logo-container {
+  .loader-logo-container {
     transform: scale(0.9);
   }
   

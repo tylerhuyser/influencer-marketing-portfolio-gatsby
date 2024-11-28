@@ -17,7 +17,7 @@
   align-items: center;
 }
 
-.logo-wrapper {
+.loader-logo-container {
 
   display: flex;
   align-items: center;
@@ -28,7 +28,7 @@
   scale: 1;
 }
 
-.logo-wrapper .icon-logo-container svg {
+.loader-logo-container .icon-logo-container svg {
 
   display: block;
   width: 100%;
@@ -46,7 +46,7 @@
 
 
 @media only screen and (min-width: 481px) {
-  .logo-wrapper {
+  .loader-logo-container {
     scale: 3;
   }
 }
@@ -55,7 +55,7 @@
 }
 
 @media only screen and (min-width: 1024px) {
-  .logo-wrapper {
+  .loader-logo-container {
     scale: 3;
   }
 }

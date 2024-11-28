@@ -85,7 +85,7 @@ export default function Header(props) {
 
           <Link to="/" className="header-logo-container" onClick={() => toggleCombinedVisibility()} >
 
-            <IconLogo windowSize={windowSize} />
+            <IconLogo windowSize={windowSize} component="header" />
                       
           </Link>
 

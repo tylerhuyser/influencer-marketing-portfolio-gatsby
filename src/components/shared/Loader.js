@@ -18,13 +18,13 @@ export default function Loader(props) {
 
     loader
       .add({
-        targets: '.icon-logo',
+        targets: '.loader-icon-logo',
         duration: 700,
         easing: 'easeInOutQuart',
         opacity: 1,
       })
       .add({
-        targets: '.icon-logo',
+        targets: '.loader-icon-logo',
         delay: 500,
         duration: 300,
         easing: 'easeInOutQuart',
@@ -32,7 +32,7 @@ export default function Loader(props) {
         scale: 0.1,
       })
       .add({
-        targets: '.icon-logo-container',
+        targets: '.loader-logo-container',
         duration: 200,
         easing: 'easeInOutQuart',
         opacity: 0,
@@ -54,11 +54,11 @@ export default function Loader(props) {
 
     <div className="loader-container">
 
-      <div className="logo-wrapper" style={
+      <div className="loader-logo-container" style={
         isLoaderMounted ? {opacity: "1"} : {opacity: "0"}
       }>
 
-        <IconLogo windowSize={windowSize} />
+        <IconLogo windowSize={windowSize} component="loader" />
 
       </div>
 
