@@ -6,13 +6,15 @@ import SimilarCampaigns from "../components/SimilarCampaigns"
 
 import "../styles/CampaignTemplate.css"
 
-export default function CampaignTemplate( { pageContext, data} ) {
+export default function CampaignTemplate({ pageContext, data }) {
 
   const { markdownRemark, similarCampaigns } = data
   const { frontmatter, html } = markdownRemark
   const { client, heroImage, sub, subType, stats, tags, press, posts } = frontmatter;
 
-  console.log(similarCampaigns)
+  console.log(frontmatter)
+
+  // console.log(similarCampaigns)
 
   const campaignSelection = similarCampaigns.edges.slice(0, 4);
 

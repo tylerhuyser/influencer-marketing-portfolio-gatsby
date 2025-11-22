@@ -2,5 +2,5 @@
 influencerName: "Hannah"
 influencerHandle: "@stuffhannahdoes"
 livePostLink: "https://www.instagram.com/p/ByGoXLvhZc0/"
-postFileLink: "https://lh3.google.com/u/0/d/1uje1Zgtxveh0wkEJZRNOf-AUMPmVQpdn"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767771/influencer-campaigns/9_Elements/post_25_hannah_stuffhannahdoes.webp"
 ---

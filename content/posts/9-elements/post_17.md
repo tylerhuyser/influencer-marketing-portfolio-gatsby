@@ -2,5 +2,5 @@
 influencerName: "Antonella Baricelli"
 influencerHandle: "@abaricelli"
 livePostLink: "https://www.instagram.com/p/B0mQnoQJGPf/"
-postFileLink: "https://lh3.google.com/u/0/d/1Pm_nz3o9pI9p2uQ0njuS7DEMHC6gHfO5"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767764/influencer-campaigns/9_Elements/post_17_antonella_baricelli_abaricelli.webp"
 ---

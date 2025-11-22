@@ -2,5 +2,5 @@
 influencerName: "Courtney Danielle"
 influencerHandle: "@curlsandcouture"
 livePostLink: "https://www.instagram.com/p/BysLL2jg957/"
-postFileLink: "https://lh3.google.com/u/0/d/1cNjgdXWwwUQFzn7Nxu97nCJs5VcZr8Lh"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767776/influencer-campaigns/9_Elements/post_31_courtney_danielle_curlsandcouture.webp"
 ---

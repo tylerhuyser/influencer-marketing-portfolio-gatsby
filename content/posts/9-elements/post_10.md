@@ -2,5 +2,5 @@
 influencerName: "Elena Michelle"
 influencerHandle: "@anewyorkloveaffair"
 livePostLink: "https://www.instagram.com/p/ByF60u6HeSA/"
-postFileLink: "https://lh3.google.com/u/0/d/1lxwjj5GNiT9sdMwDn2Soe4JQCtKcGF54"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767758/influencer-campaigns/9_Elements/post_10_elena_michelle_anewyorkloveaffair.webp"
 ---

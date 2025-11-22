@@ -2,5 +2,5 @@
 influencerName: "Lynne G."
 influencerHandle: "@heyitslynneg"
 livePostLink: "https://www.instagram.com/p/By-SYjrhe9r/"
-postFileLink: "https://lh3.google.com/u/0/d/1ghjiGSIh_rjMtHOwhpB5m57yvSFG_il7"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767753/influencer-campaigns/9_Elements/post_04_lynne_g_heyitslynneg.webp"
 ---

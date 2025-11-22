@@ -2,5 +2,5 @@
 influencerName: "Anna Marie"
 influencerHandle: "@thereallifewithanna"
 livePostLink: "https://www.instagram.com/p/By86q8Xl3Us/"
-postFileLink: "https://lh3.google.com/u/0/d/1ed54W60UXYK6Y0gNETNo3M79Wb0hjxBq"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767752/influencer-campaigns/9_Elements/post_02_anna_marie_thereallifewithanna.webp"
 ---

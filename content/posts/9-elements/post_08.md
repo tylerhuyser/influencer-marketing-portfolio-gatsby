@@ -2,5 +2,5 @@
 influencerName: "Gracie Gordon"
 influencerHandle: "@hungry.blonde"
 livePostLink: "https://www.instagram.com/p/BzJbUx0BbMX/"
-postFileLink: "https://lh3.google.com/u/0/d/1onNoh2XfV9AJt6MZ9_2Lk323ELdXRIkj"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767756/influencer-campaigns/9_Elements/post_08a_gracie_gordon_hungryblonde.webp"
 ---

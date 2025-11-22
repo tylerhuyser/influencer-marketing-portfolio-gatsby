@@ -2,5 +2,5 @@
 influencerName: "Lana Dmitruks"
 influencerHandle: "@lanadmitruks"
 livePostLink: "https://www.instagram.com/p/ByGQ7dgAisk/"
-postFileLink: "https://lh3.google.com/u/0/d/1s0lHOFoSbxif_xV5XQ-p5LmZiAaTO50c"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767776/influencer-campaigns/9_Elements/post_30_lana_dmitruks_lanadmitruks.webp"
 ---

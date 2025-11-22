@@ -2,5 +2,5 @@
 influencerName: "Isabela Ramos Cano"
 influencerHandle: "@isaramoscano"
 livePostLink: "https://www.instagram.com/p/B0OINKTpWre/"
-postFileLink: "https://lh3.google.com/u/0/d/1TnBDNX9GqxEqZD7nd3PNq9Rm22rE98xs"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767764/influencer-campaigns/9_Elements/post_16_isabela_ramos_cano_isaramoscano.webp"
 ---
