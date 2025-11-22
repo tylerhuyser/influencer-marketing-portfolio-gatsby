@@ -2,5 +2,5 @@
 influencerName: "Jaclynn Brennan"
 influencerHandle: "@jaclynnbrennan"
 livePostLink: "https://www.instagram.com/p/Bi7zNcUFE_a/"
-postFileLink: "https://lh3.google.com/u/0/d/1vb9BAomB5Rc3MeJhiP0PXq_rfAPp2L8a"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767956/influencer-campaigns/Diageo/post_04_jaclynn_brennan_jaclynnbrennan.webp"
 ---

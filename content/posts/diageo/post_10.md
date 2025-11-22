@@ -2,5 +2,5 @@
 influencerName: "Sara Oberton"
 influencerHandle: "@hauteandhumid"
 livePostLink: "https://www.instagram.com/p/BjdTZhaHoao/"
-postFileLink: "https://lh3.google.com/u/0/d/17TOuBhYHWAs3Ea4ynnujunw4eEj2qHl8"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767962/influencer-campaigns/Diageo/post_10_sara_oberton_hauteandhumid.webp"
 ---

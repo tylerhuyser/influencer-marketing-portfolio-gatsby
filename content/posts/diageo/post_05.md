@@ -2,5 +2,5 @@
 influencerName: "Jenny Castenada"
 influencerHandle: "@cookandsavor"
 livePostLink: "https://www.instagram.com/p/BjVEoFeAd6I/"
-postFileLink: "https://lh3.google.com/u/0/d/123QNBfsJRNYGutQxC_WGWHGPeMFDEwC-"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767956/influencer-campaigns/Diageo/post_05_jenny_castenada_cookandsavor.webp"
 ---
