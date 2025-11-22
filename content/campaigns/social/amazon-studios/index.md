@@ -2,9 +2,9 @@
 client: "Amazon Studios"
 path: "/campaigns/amazon-studios/"
 category: "social"
-coverImage: "https://lh3.google.com/u/0/d/1-ItY0hD2VWfEarWE-cCEkbXrSkY-Rwml"
-heroImage: "https://lh3.google.com/u/0/d/1iMvzyKhLnSzD1kS7HoDcMkplsnWhCIMC"
-sub: "https://lh3.google.com/u/0/d/1no4gsB1tVJWRELDG_3X_JdoGJ1RaOSrB"
+coverImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767778/influencer-campaigns/Amazon_s__Life_Itself_/amazon-studios-cover-image.webp"
+heroImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767778/influencer-campaigns/Amazon_s__Life_Itself_/amazon-studios-hero-image.webp"
+sub: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767779/influencer-campaigns/Amazon_s__Life_Itself_/amazon-studios-sub-image.webp"
 subType: "image"
 stats:
   - Eight (8) Influencers (Rising Tier)
@@ -14,14 +14,14 @@ tags:
   - mothers
   - tv/movies/media
 posts:
-  - "https://lh3.google.com/u/0/d/1oa0kUjJHAU2M2l2OwzgpYDRucmXVQkUa"
-  - "https://lh3.google.com/u/0/d/1hEBst5kI7N5LEtpPofxHfDyzEM-1KLBi"
-  - "https://lh3.google.com/u/0/d/1cEY46a6S_o7eqDQtA5Nx3bJ0y8iq9y9p"
-  - "https://lh3.google.com/u/0/d/17HxgBqU9n5XPvE2BqjLuuloc8mwB3BSL"
-  - "https://lh3.google.com/u/0/d/1RISj8_tDstaMypBrqB5JkpXcrD2ufTiC"
-  - "https://lh3.google.com/u/0/d/1ljnEbayVxVLtG63K058JlF8TF2evuK0Q"
-  - "https://lh3.google.com/u/0/d/1w59Z3dpVVzmAyKcAtiVplBblZKinHkS7"
-  - "https://lh3.google.com/u/0/d/1M903UVx9HJDHnjq0kCJBGOHS28vx6jci"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767779/influencer-campaigns/Amazon_s__Life_Itself_/post_01_andrea_coonrod_andreacoonrod.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767780/influencer-campaigns/Amazon_s__Life_Itself_/post_02_chelsee_hood_chelseehood.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767781/influencer-campaigns/Amazon_s__Life_Itself_/post_03_gabriela_vera_gverastyle.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767782/influencer-campaigns/Amazon_s__Life_Itself_/post_04_lana_dmitruks_lanadmitruks.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767782/influencer-campaigns/Amazon_s__Life_Itself_/post_05_lily_martinez_lilylove123.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767783/influencer-campaigns/Amazon_s__Life_Itself_/post_06_meaghan_joy_meaghanjoytoday.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767784/influencer-campaigns/Amazon_s__Life_Itself_/post_07_morgan_bullard_morgbullard.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767784/influencer-campaigns/Amazon_s__Life_Itself_/post_08_sophia_el_rae_sophiaelrae.webp"
 press:
   -
 showInProjects: true
