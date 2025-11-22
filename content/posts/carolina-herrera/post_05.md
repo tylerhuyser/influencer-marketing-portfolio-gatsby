@@ -2,6 +2,6 @@
 influencerName: "Candace Read"
 influencerHandle: "@candacemread"
 livePostLink: "https://www.instagram.com/p/BvfkunNgzmS/"
-postFileLink: "https://lh3.google.com/u/0/d/1f6gvGjDOCzklFIrsgEps4wLPaAI57dw7"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767859/influencer-campaigns/Carolina_Herrera/Candace_Read_candacemread/Screen_Shot_2019-11-11_at_112928_AM.webp"
 selectInfluencerContent: true
 ---

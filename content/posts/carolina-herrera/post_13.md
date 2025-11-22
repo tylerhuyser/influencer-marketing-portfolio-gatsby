@@ -2,6 +2,6 @@
 influencerName: "Lillian Babain"
 influencerHandle: "@studsandsapphires"
 livePostLink: "https://www.instagram.com/p/BwAFaPDBqrC/"
-postFileLink: "https://lh3.google.com/u/0/d/1voDxnVk0ZC44r2c7707d18Mm5w6_dBmD"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767884/influencer-campaigns/Carolina_Herrera/Lillian_Babain_studsandsapphires/Screen_Shot_2019-11-11_at_25837_PM.webp"
 selectInfluencerContent: true
 ---

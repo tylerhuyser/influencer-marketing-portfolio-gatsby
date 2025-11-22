@@ -2,5 +2,5 @@
 influencerName: "Kiara Michelle"
 influencerHandle: "@kmserr"
 livePostLink: "https://www.instagram.com/p/Bvci8C6gfKD/"
-postFileLink: "https://lh3.google.com/u/0/d/1wd-I9MIGifSiWRRuu63TvieYyTA-j9pK"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767883/influencer-campaigns/Carolina_Herrera/Kiarra_Michelle_kmserr/Screen_Shot_2019-11-11_at_25431_PM.webp"
 ---

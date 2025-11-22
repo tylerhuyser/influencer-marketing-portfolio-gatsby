@@ -2,5 +2,5 @@
 influencerName: "Baylie Willborg"
 influencerHandle: "@bayliewillborg"
 livePostLink: "https://www.instagram.com/p/BvVZW4aAbOu/"
-postFileLink: "https://lh3.google.com/u/0/d/1UpgnvPjBICr46wyYUH9c-w6Rl9gEsbS2"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767858/influencer-campaigns/Carolina_Herrera/Baylie_Willborg_bayliewillborg/Screen_Shot_2019-11-11_at_112133_AM.webp"
 ---
