@@ -2,9 +2,9 @@
 client: "Dove Valentine's Day"
 path: "/campaigns/dove-valentines/"
 category: "social"
-coverImage: "https://lh3.google.com/u/0/d/1XjOZmKopf1ahqT62UNcUQ9b0suzEED0U"
-heroImage: "https://lh3.google.com/u/0/d/1cP-baCyhHkZ0ARxNz_cYEd7_9EKSRkTs"
-sub: "https://lh3.google.com/u/0/d/1IfB0xGY9q_4h_7M8Y-DQxcbv3cqzJoxj"
+coverImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767975/influencer-campaigns/Dove_Valentine_s_Day/dove-valentines-cover-image.webp"
+heroImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767975/influencer-campaigns/Dove_Valentine_s_Day/dove-valentines-cover-image.webp"
+sub: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767976/influencer-campaigns/Dove_Valentine_s_Day/dove-valentines-sub-image.webp"
 subType: "none"
 stats:
   - Six (6) Influencers (Rising Tier)
@@ -14,9 +14,9 @@ tags:
   - food
   - consumer packaged goods
 posts:
-  - "https://lh3.google.com/u/0/d/1yXdJGysYEtQea3hnB8cGNTIM5Lq8NXIX"
-  - "https://lh3.google.com/u/0/d/1VnpUp7VZknMcd0otpMLhGWjuLOnlvN_C"
-  - "https://lh3.google.com/u/0/d/1SzdidhJvVbKOFwxRlh5G482zifGBZPIS"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767976/influencer-campaigns/Dove_Valentine_s_Day/post_01_gail_gonzalez_simplygailg.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767977/influencer-campaigns/Dove_Valentine_s_Day/post_02_kelly_rizzo_eattravelrock.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767978/influencer-campaigns/Dove_Valentine_s_Day/post_03_vicki_rutwind_fashiontravelrepeat.webp"
 press:
   -
 showInProjects: true

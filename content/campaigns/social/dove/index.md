@@ -2,9 +2,9 @@
 client: "Dove"
 path: "/campaigns/dove/"
 category: "social"
-coverImage: "https://lh3.google.com/u/0/d/1us39U67JznPaf3Qy52vot1I5j7PONhiz"
-heroImage: "https://lh3.google.com/u/0/d/14aGzECPYZH7FaY6bIfGA9UxducpaDT8Y"
-sub: "https://lh3.google.com/u/0/d/1pem7qOzvUwf7V4yYI4sArSI8MOf8cb_y"
+coverImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767963/influencer-campaigns/Dove/dove-cover-image.webp"
+heroImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767965/influencer-campaigns/Dove/dove-hero-image.webp"
+sub: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767966/influencer-campaigns/Dove/dove-sub-image.webp"
 subType: "image"
 stats:
   - Four (4) Influencers (Rising Tier)
@@ -15,9 +15,9 @@ tags:
   - content creation
   - consumer packaged goods
 posts:
-  - "https://lh3.google.com/u/0/d/11RuCPL3RNmFtIkFtRcT5MsPfkE7ppFM4"
-  - "https://lh3.google.com/u/0/d/1FNypPUCg0m2_Xfmk-D9Eg6k93thrQBNV"
-  - "https://lh3.google.com/u/0/d/1cbJJWSBhyJEP2KkJ2bvypWJqPUqGEGr6"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767966/influencer-campaigns/Dove/post_01a_lindsay_conchar_lifeloveandsugar.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767967/influencer-campaigns/Dove/post_02a_julie_resnick_thefeedfeedbaking.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767967/influencer-campaigns/Dove/post_03a_maria_lichty_twopeasandpod.webp"
 press:
   -
 showInProjects: true

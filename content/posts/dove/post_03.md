@@ -2,5 +2,5 @@
 influencerName: "Maria Lichty"
 influencerHandle: "@twopeasandpod"
 livePostLink: "https://www.instagram.com/p/BmtA7h0h1TM/"
-postFileLink: "https://lh3.google.com/u/0/d/1cbJJWSBhyJEP2KkJ2bvypWJqPUqGEGr6"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767967/influencer-campaigns/Dove/post_03a_maria_lichty_twopeasandpod.webp"
 ---
