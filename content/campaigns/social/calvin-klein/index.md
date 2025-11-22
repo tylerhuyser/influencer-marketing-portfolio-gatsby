@@ -2,9 +2,9 @@
 client: "Calvin Klein"
 path: "/campaigns/calvin-klein/"
 category: "social"
-coverImage: "https://lh3.google.com/u/0/d/1H50KLeTazk2nzmGU0jOmKSAPlMnqjG1y"
-heroImage: "https://lh3.google.com/u/0/d/1lZtfBYEYjjc3HyWiBJf5k20W0xoaYGa7"
-sub: "https://lh3.google.com/u/0/d/18Z8CF2F4pB9t9NnBmnfEshx4DPAI27MX"
+coverImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767842/influencer-campaigns/Calvin_Klein/calvin-klein-cover-image.webp"
+heroImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767843/influencer-campaigns/Calvin_Klein/calvin-klein-hero-image.webp"
+sub: https://res.cloudinary.com/tylerhuyser/image/upload/v1763767844/influencer-campaigns/Calvin_Klein/calvin-klein-sub-image.webp"
 subType: "image"
 stats:
   - Thirteen (13) x Influencers (3 x Celebrity, 10 x Rising)
@@ -15,17 +15,17 @@ tags:
   - men's fashion
   - editorial
 posts:
-  - "https://lh3.google.com/u/0/d/1YNz3vMOcGyQbRVXqhkL6nzIhulshFt7_"
-  - "https://lh3.google.com/u/0/d/1dVPtIJzzyT6GU8H2pFsNrzGkWny1_7JF"
-  - "https://lh3.google.com/u/0/d/1wWrO3LvE5JFSX_Hwx0qTJ0V9twJ7UsTy"
-  - "https://lh3.google.com/u/0/d/1FVfkfJzH7o1kwIWFiULeVzsQmv0-C-xT"
-  - "https://lh3.google.com/u/0/d/1IZxLi7rgG8vj3TFsi83kF5vMcTyMs63q"
-  - "https://lh3.google.com/u/0/d/1_lLzToO_0LSDWuPhrSz_17rVGPfb3Cg_"
-  - "https://lh3.google.com/u/0/d/1ZmetpcUBGMSW8jAr4Dy09gXqVcgq1De1"
-  - "https://lh3.google.com/u/0/d/1nosXk-ZP2tvYtkvoi7emRLJdhedoM3Q5"
-  - "https://lh3.google.com/u/0/d/1wrDGgDClWEcThLmjE-BBHyuxLDS-CplM"
-  - "https://lh3.google.com/u/0/d/1AkQff9t3lTzZrvrVMBkEXEW3eXi4cS3e"
-  - "https://lh3.google.com/u/0/d/1SScpCuNvhA9OOOpv_e7f1YW7T61JZYxT"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767845/influencer-campaigns/Calvin_Klein/post_01_miuguel_andujar_miguel_andujar02.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767846/influencer-campaigns/Calvin_Klein/post_02a_vladyslav_poddubnyi_vlady_lifestyle.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767846/influencer-campaigns/Calvin_Klein/post_03a_max_pearce_maxwellpearce.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767848/influencer-campaigns/Calvin_Klein/post_04a_mariano_ontanon_marianoont.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767850/influencer-campaigns/Calvin_Klein/post_05_troy_williams_troywilliams_.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767851/influencer-campaigns/Calvin_Klein/post_06_alex_fine_alexfine44.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767852/influencer-campaigns/Calvin_Klein/post_07_wilco_froneman_froners.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767852/influencer-campaigns/Calvin_Klein/post_08_jeremiah_maestre_jeremiahmaestre.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767847/influencer-campaigns/Calvin_Klein/post_03b_max_pearce_maxwellpearce.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763843024/influencer-campaigns/Calvin_Klein/post_02b_vladyslav_poddubnyi__vlady_lifestyle.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763842806/influencer-campaigns/Calvin_Klein/post_04b_mariano_ontanon__marianoont_rwitih.webp"
 press:
   - "https://www.one37pm.com/style/calvin-klein-miguel-andujar-suiting-ideas"
   - "https://www.one37pm.com/style/calvin-klein-dennis-smith-jr-suits"

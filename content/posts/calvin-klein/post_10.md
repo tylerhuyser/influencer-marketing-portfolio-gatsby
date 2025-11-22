@@ -2,5 +2,5 @@
 influencerName: "Vladyslav Poddubnyi"
 influencerHandle: "@vlady_lifestyle"
 livePostLink: "https://www.instagram.com/p/BxXrNuGnsYF/"
-postFileLink: "https://lh3.google.com/u/0/d/1AkQff9t3lTzZrvrVMBkEXEW3eXi4cS3e"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763843024/influencer-campaigns/Calvin_Klein/post_02b_vladyslav_poddubnyi__vlady_lifestyle.webp"
 ---

@@ -2,5 +2,5 @@
 influencerName: "Alex Fine"
 influencerHandle: "@alexfine44"
 livePostLink: "https://www.instagram.com/p/By61Kx2ANCt/"
-postFileLink: "https://lh3.google.com/u/0/d/1_lLzToO_0LSDWuPhrSz_17rVGPfb3Cg_"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767851/influencer-campaigns/Calvin_Klein/post_06_alex_fine_alexfine44.webp"
 ---

@@ -2,6 +2,6 @@
 influencerName: "Mariano Ontańon"
 influencerHandle: "@marianoont"
 livePostLink: "https://www.instagram.com/p/B0Ue8j4h8MB/"
-postFileLink: "https://lh3.google.com/u/0/d/1FVfkfJzH7o1kwIWFiULeVzsQmv0-C-xT"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767848/influencer-campaigns/Calvin_Klein/post_04a_mariano_ontanon_marianoont.webp"
 selectInfluencerContent: true
 ---
