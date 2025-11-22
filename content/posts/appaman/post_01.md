@@ -2,6 +2,6 @@
 influencerName: "Jennifer Borget"
 influencerHandle: "@jenniferborget"
 livePostLink: "https://www.instagram.com/p/BiGEUhxh84v/"
-postFileLink: "https://lh3.google.com/u/0/d/1O_OclNG38Uf_zsTRapeKOdcp8SqyBgjW"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767787/influencer-campaigns/Appaman/post_01_jennifer_borget_jenniferborget.webp"
 selectInfluencerContent: true
 ---

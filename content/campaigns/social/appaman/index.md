@@ -2,9 +2,9 @@
 client: "Appaman"
 path: "/campaigns/appaman/"
 category: "social"
-coverImage: "https://lh3.google.com/u/0/d/1IqhoD0XqiwNdu7G2Vq-sj-pPkBfJSqQM"
-heroImage: "https://lh3.google.com/u/0/d/1OwdiV7gRPkXA75_gJhVvaCpEqZaf9MXa"
-sub: "https://lh3.google.com/u/0/d/1qWkfob8eaRBV7HJhkgsKQ8ld1JLZ6Byx"
+coverImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767785/influencer-campaigns/Appaman/appaman-cover-image.webp"
+heroImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763840294/influencer-campaigns/Appaman/appaman-hero-image.webp"
+sub: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767786/influencer-campaigns/Appaman/appaman-sub-image.webp"
 subType: "image"
 stats:
   - Two (2) x Macro Influencers
@@ -14,8 +14,8 @@ tags:
   - mothers
   - children's fashion
 posts:
-  - "https://lh3.google.com/u/0/d/1O_OclNG38Uf_zsTRapeKOdcp8SqyBgjW"
-  - "https://lh3.google.com/u/0/d/1_dqvMok8XWDIgQa7t26y0C0nhrAe__uT"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767787/influencer-campaigns/Appaman/post_01_jennifer_borget_jenniferborget.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767787/influencer-campaigns/Appaman/post_02_jodi_mockabee_jodimockabee.webp"
 press:
   -
 showInProjects: true
