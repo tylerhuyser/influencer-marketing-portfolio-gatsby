@@ -2,9 +2,9 @@
 client: "Glade"
 path: "/campaigns/glade/"
 category: "video"
-coverImage: "https://lh3.google.com/u/0/d/19EhStLaCuxXVsVY-aAnYyhv_YcfxuyzQ"
-heroImage: "https://lh3.google.com/u/0/d/1JhADwXyCTLZXoXWY0BO1zCcVsKfufoZp"
-sub: "https://lh3.google.com/u/0/d/1VYw_0-MT9mifR6nygptJ2FfbPGWMDowP"
+coverImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767978/influencer-campaigns/Glade/glade-cover-image.webp"
+heroImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767979/influencer-campaigns/Glade/glade-hero-image.webp"
+sub: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767981/influencer-campaigns/Glade/glade-sub-image.webp"
 subType: "image"
 stats:
   - Four (4) Branded Videos starring Celebrity Talent
@@ -15,12 +15,12 @@ tags:
   - consumer packaged goods
   - home care
 posts:
-  - "https://lh3.google.com/u/0/d/1dykquTpDxrSXnY_Epf2dYMmrr3FC-mXe"
-  - "https://lh3.google.com/u/0/d/1rvN74Yk57u-F7byEdBqEVVxyDS9Y8xBe"
-  - "https://lh3.google.com/u/0/d/15KhqNQPa-tvz0hSbJ6-RJ00AnA3Mrhxc"
-  - "https://lh3.google.com/u/0/d/1YSNF_bKoGzdGqDEiPwV-KQVAiiItPPlH"
-  - "https://lh3.google.com/u/0/d/130ospwkdDsf6t12_PHJputwhgqTBp_Vf"
-  - "https://lh3.google.com/u/0/d/1xuQGe3gH15ctxWV8bhVfxOzlE2AvjFvM"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767982/influencer-campaigns/Glade/post_01_hilaria_baldwin_hilariabaldwin.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767982/influencer-campaigns/Glade/post_02_danielle_shaffer_citygirlgonemom.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767983/influencer-campaigns/Glade/post_03_Catherine_Giudici_Lowe_catherineguidici.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767983/influencer-campaigns/Glade/post_04_meg_lovmeg09.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767984/influencer-campaigns/Glade/post_05_tonya_michelle_tonyamichelle26.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767985/influencer-campaigns/Glade/post_06_andrea_coonrod_andreacoonrod.webp"
 press:
   -
 showInProjects: true
