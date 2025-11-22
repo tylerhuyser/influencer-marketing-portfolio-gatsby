@@ -2,5 +2,5 @@
 influencerName: "Pedro Cantizani"
 influencerHandle: "@pedrocantizani"
 livePostLink: "https://www.instagram.com/p/B3PhRmIHxjG/"
-postFileLink: "https://lh3.google.com/u/0/d/18mCvvUOHl3pxi6G_WmCIM-BC4vo1PQr2"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767808/influencer-campaigns/Budweiser/post_21_pedro_cantizani_pedrocantizani.webp"
 ---

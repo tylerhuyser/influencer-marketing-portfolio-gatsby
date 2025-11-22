@@ -2,5 +2,5 @@
 influencerName: "John Llanera"
 influencerHandle: "@therealjohnllanera"
 livePostLink: "https://www.instagram.com/p/B01X-0jgCkw/"
-postFileLink: "https://lh3.google.com/u/0/d/1xwR854Wr2GqkjmtqHa0BEGS3gLv_tlO8"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767822/influencer-campaigns/Budweiser/post_41_john_llanera_therealjohnllanera.webp"
 ---

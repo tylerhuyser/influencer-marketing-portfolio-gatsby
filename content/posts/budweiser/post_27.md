@@ -2,5 +2,5 @@
 influencerName: "Ray Livez"
 influencerHandle: "@raylivez"
 livePostLink: "https://www.instagram.com/p/B0Jnpv_HY16/"
-postFileLink: "https://lh3.google.com/u/0/d/178D0y7sa4aczWi6nmzlzkRj8ajf_fq7O"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767812/influencer-campaigns/Budweiser/post_27_ray_livez_raylivez.webp"
 ---

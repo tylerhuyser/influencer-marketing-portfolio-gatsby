@@ -2,5 +2,5 @@
 influencerName: "Paola Franqui"
 influencerHandle: "@monaris_"
 livePostLink: "https://www.instagram.com/p/B30sn9wpPcY/"
-postFileLink: "https://lh3.google.com/u/0/d/1RpcamHC1V47geLVa5Rl7Must14FkY5oK"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767814/influencer-campaigns/Budweiser/post_30_paola_franqui_monaris_.webp"
 ---

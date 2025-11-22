@@ -2,5 +2,5 @@
 influencerName: "Dusty Kessler"
 influencerHandle: "@dkessler"
 livePostLink: "https://www.instagram.com/p/BzhF7hGHsMS/"
-postFileLink: "https://lh3.google.com/u/0/d/1k1hRaAn5MMibkQIhXt9ON8Nd9rz3VE-2"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767809/influencer-campaigns/Budweiser/post_23_dusty_kessler_dkessler.webp"
 ---

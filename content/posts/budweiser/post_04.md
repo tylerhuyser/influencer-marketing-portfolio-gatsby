@@ -2,5 +2,5 @@
 influencerName: "Nick Girlando"
 influencerHandle: "@nickgirlando"
 livePostLink: "https://www.instagram.com/p/B3H2jS3hjZY/"
-postFileLink: "https://lh3.google.com/u/0/d/1hAInl9bXRCM6QPG4-V87AB2H9np2AWm9"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767793/influencer-campaigns/Budweiser/post_04_nick_girlando_nickgirlando.webp"
 ---

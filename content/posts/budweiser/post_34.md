@@ -2,5 +2,5 @@
 influencerName: "Frank Lanidjaja"
 influencerHandle: "@franks.pov"
 livePostLink: "https://www.instagram.com/p/B26pSrEnMDk/"
-postFileLink: "https://lh3.google.com/u/0/d/1A1xhpIEubdIzYN_VFiUdslEU-KvSu7pW"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767817/influencer-campaigns/Budweiser/post_34_frank_lanudjaja_frankspov.webp"
 ---

@@ -2,5 +2,5 @@
 influencerName: "Brandon Colbein"
 influencerHandle: "@brandoncolbein"
 livePostLink: "https://www.instagram.com/p/B0pPX_sHjfL/"
-postFileLink: "https://lh3.google.com/u/0/d/1QaP6w1dyLEm2L9wuncV3l-5adprwXp-7"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767825/influencer-campaigns/Budweiser/post_45_brandon_colbein_brandoncolbein.webp"
 ---

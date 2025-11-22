@@ -2,5 +2,5 @@
 influencerName: "David Shreibman"
 influencerHandle: "@kiddavid"
 livePostLink: "https://www.instagram.com/p/B34ydQrJwTt/"
-postFileLink: "https://lh3.google.com/u/0/d/1CvqhNb3oNYO_qZWzvDTuon1J8rj2aQTd"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767798/influencer-campaigns/Budweiser/post_10_david_shreibman_kiddavid.webp"
 ---
