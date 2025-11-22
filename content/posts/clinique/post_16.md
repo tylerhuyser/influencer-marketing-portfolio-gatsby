@@ -2,5 +2,5 @@
 influencerName: "Militza Yovanka"
 influencerHandle: "@militzayovanka"
 livePostLink: "https://www.instagram.com/p/BqX6623Bkk1/"
-postFileLink: "https://lh3.google.com/u/0/d/1U__Jftoiesj7C7bNY45aWkFRTu2cblEZ"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767945/influencer-campaigns/Clinique/post_16_militza_yovanka_militzayovanka.webp"
 ---

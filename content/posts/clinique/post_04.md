@@ -2,6 +2,6 @@
 influencerName: "Ash Deleon"
 influencerHandle: "@ashdeleon"
 livePostLink: "https://www.instagram.com/p/BqNjoPGhQda/"
-postFileLink: "https://lh3.google.com/u/0/d/1jjgNX9dOmHXh0k7cL4WtIlUsSAy0UY-C"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767933/influencer-campaigns/Clinique/post_04_ash_deleon_ashdeleon.webp"
 selectInfluencerContent: true
 ---
