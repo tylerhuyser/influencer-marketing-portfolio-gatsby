@@ -2,5 +2,5 @@
 influencerName: "Tyla Lauren"
 influencerHandle: "@tylauren"
 livePostLink: "https://www.instagram.com/p/Bi-DRoKj1M1/"
-postFileLink: "https://lh3.google.com/u/0/d/1fkhlAorbq15Rzh8Qjnm8kKJKhy0NMv2j"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768013/influencer-campaigns/Herbal_Essences/post_09_tyla_lauren_tylauren.webp"
 ---

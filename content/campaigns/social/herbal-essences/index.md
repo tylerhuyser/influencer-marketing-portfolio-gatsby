@@ -2,8 +2,8 @@
 client: "Herbal Essences"
 path: "/campaigns/herbal-essences/"
 category: "social"
-coverImage: "https://lh3.google.com/u/0/d/18Ho_gY1g1H9h1SEgW3J9sPQNWy-dJnC1"
-heroImage: "https://lh3.google.com/u/0/d/1RwRluQrD0J7zN4ByWPhu3ln8sO7hFIPq"
+coverImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768006/influencer-campaigns/Herbal_Essences/herbal-essences-cover-image.webp"
+heroImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768007/influencer-campaigns/Herbal_Essences/herbal-essences-hero-image.webp"
 sub: "https://www.youtube.com/embed/JShAyES0Jpc"
 subType: "video"
 stats:
@@ -15,15 +15,15 @@ tags:
   - beauty
   - haircare
 posts:
-  - "https://lh3.google.com/u/0/d/16YZvzOMW60HaM7s7d4latQXeKkK_zpBO"
-  - "https://lh3.google.com/u/0/d/1PxFz_gv8b1KROt-R6YMQ6rg77n7AwVsq"
-  - "https://lh3.google.com/u/0/d/1qWPEpWuGwQa5codjg_hzil9FIwwo2bJO"
-  - "https://lh3.google.com/u/0/d/1A_83vjECb3lVv69FKlJzrffo5MxeNT_i"
-  - "https://lh3.google.com/u/0/d/1qmD9SaR1vSZYI7SlR-9c2sibtHx2mh4a"
-  - "https://lh3.google.com/u/0/d/1FYnWYT-YmVEcW5K1BD6wl3IefXWag6kr"
-  - "https://lh3.google.com/u/0/d/1yMhSNLteAxD_VlJl0LFraE_FTrKRPrYl"
-  - "https://lh3.google.com/u/0/d/1_UEocGtbOi25WFiRk0Q9v1rEuN3R4FGJ"
-  - "https://lh3.google.com/u/0/d/1fkhlAorbq15Rzh8Qjnm8kKJKhy0NMv2j"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768007/influencer-campaigns/Herbal_Essences/post_01_shawn_johnson_east_shawnjohnson.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768008/influencer-campaigns/Herbal_Essences/post_02_amanda_stanton_amandastantonn.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768009/influencer-campaigns/Herbal_Essences/post_03_alyssa_amoroso_publissity.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768010/influencer-campaigns/Herbal_Essences/post_03_cynthia_bailey_cynthiabailey10.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768010/influencer-campaigns/Herbal_Essences/post_05_emily_byrski_empirestyleofmind.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768011/influencer-campaigns/Herbal_Essences/post_06_gabriela_isler_gabrielaisler.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768012/influencer-campaigns/Herbal_Essences/post_07_katie_willcox_katiehwillcox.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768013/influencer-campaigns/Herbal_Essences/post_08_rachel_rhee_justdimpleit.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768013/influencer-campaigns/Herbal_Essences/post_09_tyla_lauren_tylauren.webp"
 press:
   - "https://www.goodmorningamerica.com/style/story/royal-botanic-gardens-kew-creating-natural-beauty-products-55246426"
 showInProjects: true
