@@ -2,5 +2,5 @@
 influencerName: "Meaghan Joy"
 influencerHandle: "@meaghanjoytoday"
 livePostLink: "https://www.instagram.com/p/Bwt-TYZH-CU/"
-postFileLink: "https://lh3.google.com/u/0/d/1_kXqIdR4tSzRCT2uIBXs0cuSlo3Nj6Ld"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768020/influencer-campaigns/HomeGoods/post_04_meaghan_joy_meaghanjoytoday.webp"
 ---

@@ -2,5 +2,5 @@
 influencerName: "Kristy Wicks"
 influencerHandle: "@kristywicks"
 livePostLink: "https://www.instagram.com/kristywicks/p/Bwrza56nVdK/"
-postFileLink: "https://lh3.google.com/u/0/d/1_7iOYeIxxhwTltrPwnKYTyOdNsdqfDWV"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768018/influencer-campaigns/HomeGoods/post_02_kristy_wicks_kristywicks.webp"
 ---

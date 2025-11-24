@@ -2,5 +2,5 @@
 influencerName: "Katie Bower"
 influencerHandle: "@bowerpowerblog"
 livePostLink: "https://www.instagram.com/p/Bwr1s31BLpe/"
-postFileLink: "https://lh3.google.com/u/0/d/14mPSg4gtswGRzSTQi741Q3nmqSk26VhM"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768031/influencer-campaigns/HomeGoods/post_18_katie_bower_bowerpowerblog.webp"
 ---

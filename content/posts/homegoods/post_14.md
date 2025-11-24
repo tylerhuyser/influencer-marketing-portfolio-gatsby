@@ -2,5 +2,5 @@
 influencerName: "Cara Irwin"
 influencerHandle: "@goldalamode"
 livePostLink: "https://www.instagram.com/p/BwzTUWInnSf/"
-postFileLink: "https://lh3.google.com/u/0/d/15JIqdy5IzNL9yrPI8I4RGkSYNjVd5U9b"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768028/influencer-campaigns/HomeGoods/post_14_cara_irwin_goldalamode.webp"
 ---

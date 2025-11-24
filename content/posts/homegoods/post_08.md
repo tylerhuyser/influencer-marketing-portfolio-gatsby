@@ -2,5 +2,5 @@
 influencerName: "Sheila"
 influencerHandle: "@maisondecinq"
 livePostLink: "https://www.instagram.com/p/BwvL8Y2B3Eq/"
-postFileLink: "https://lh3.google.com/u/0/d/1Q_JJI7k8ozMNu0AOn63e2K95p76yoUup"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768024/influencer-campaigns/HomeGoods/post_08_sheila_maisondecinq.webp"
 ---

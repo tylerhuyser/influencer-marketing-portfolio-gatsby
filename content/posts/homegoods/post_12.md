@@ -2,5 +2,5 @@
 influencerName: "Brittany Fullwood"
 influencerHandle: "@brittfullwood"
 livePostLink: "https://www.instagram.com/p/Bwx6ziTnkrZ/"
-postFileLink: "https://lh3.google.com/u/0/d/1PUvYweCH3ouuA9tDq3DrCDtVd6NXpyJM"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768026/influencer-campaigns/HomeGoods/post_12_brittany_fullwood_brittfullwood.webp"
 ---

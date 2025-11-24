@@ -2,5 +2,5 @@
 influencerName: "Andrea Denes"
 influencerHandle: "@lifeoncedarlane"
 livePostLink: "https://www.instagram.com/p/BwrsrYzDr3f/"
-postFileLink: "https://lh3.google.com/u/0/d/1JGrBx46z5B8tagU4cFUf4xRZhsgCImpv"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1764022095/influencer-campaigns/HomeGoods/post_10_andrea_denes__lifeoncedarlane.webp_ojgr3g.webp"
 ---
