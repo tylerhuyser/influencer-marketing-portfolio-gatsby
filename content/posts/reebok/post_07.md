@@ -2,6 +2,6 @@
 influencerName: "Meagan Johnson"
 influencerHandle: "@sculptedbymeagn"
 livePostLink: "https://www.instagram.com/p/Bn65vgljjmF/"
-postFileLink: "https://lh3.google.com/u/0/d/1SPjBt3wQoR_oL47p2pAVNAo6GNt5egRF"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768173/influencer-campaigns/Reebok/post_07_meagan_johnson_sculptedbymeagan.webp"
 selectInfluencerContent: true
 ---
