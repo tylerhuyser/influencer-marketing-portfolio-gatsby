@@ -2,5 +2,5 @@
 influencerName: "Cara Fries"
 influencerHandle: "@marvelousinthemidwest"
 livePostLink: "https://www.instagram.com/p/BnBrxKxlNuF/"
-postFileLink: "https://lh3.google.com/u/0/d/1smXsJBUC9Qak2hrhpZ-FbWpqESSqnYCD"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768110/influencer-campaigns/Maurices/post_04_cara_fries_marvelousinthemidwest.webp"
 ---

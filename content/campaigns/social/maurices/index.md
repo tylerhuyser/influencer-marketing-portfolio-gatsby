@@ -1,10 +1,10 @@
 ---
-client: "maurices"
+client: "Maurices"
 path: "/campaigns/maurices/"
 category: "social"
-coverImage: "https://lh3.google.com/u/0/d/1s0phNe247ossG4lqAx1yfoYQwKm_MCAo"
-heroImage: "https://lh3.google.com/u/0/d/1xlTgGyo4zO_2o7paJ6_SX2MfiardqrSl"
-sub: "https://lh3.google.com/u/0/d/"
+coverImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768093/influencer-campaigns/Maurices/maurices-cover-image.webp"
+heroImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768094/influencer-campaigns/Maurices/maurices-hero-image.webp"
+sub: ""
 subType: "none"
 stats:
   - Two (2) Influencers (Micro Tier)
@@ -14,10 +14,10 @@ tags:
   - women's fashion
   - editorial
 posts:
-  - "https://lh3.google.com/u/0/d/19BC-3sB0IBtkwJjfjDPeLcW-vnizs-qc"
-  - "https://lh3.google.com/u/0/d/1Q2VQyATuskkTdLwsRKB3k_ZbcTevyl6N"
-  - "https://lh3.google.com/u/0/d/1vciwLcOL4eUihfPBUYvcALibfCghp1gq"
-  - "https://lh3.google.com/u/0/d/1smXsJBUC9Qak2hrhpZ-FbWpqESSqnYCD"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768102/influencer-campaigns/Maurices/post_01_sara_anderson_aprettypennygirl.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768103/influencer-campaigns/Maurices/post_02_sara_anderson_aprettypennygirl.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768107/influencer-campaigns/Maurices/post_03_cara_fries_marvelousinthemidwest.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768110/influencer-campaigns/Maurices/post_04_cara_fries_marvelousinthemidwest.webp"
 press:
   - "https://www.purewow.com/fashion/sara-anderson-and-cara-fries-favorite-fashion-pieces"
 showInProjects: true

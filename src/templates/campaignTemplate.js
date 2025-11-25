@@ -43,7 +43,7 @@ export default function CampaignTemplate({ pageContext, data }) {
             </div>
           </div>
           
-          {subType === "image" ?
+          {subType === "image" && sub.length > 0 ?
             
             <img className='header-image' id="sub-image" src={sub} alt="non-hero" />
             
