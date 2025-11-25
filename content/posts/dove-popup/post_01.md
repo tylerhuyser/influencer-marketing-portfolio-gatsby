@@ -2,5 +2,5 @@
 influencerName: "Caroline Vazzana"
 influencerHandle: "@cvazzana"
 livePostLink: "https://www.instagram.com/p/BybRhATHLwh/"
-postFileLink: "https://lh3.google.com/u/0/d/1ou-TDV-IonVO1w0BUhNLU0qsS2IzhhST"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767970/influencer-campaigns/Dove_Pop-Up/post_01_caroline_vazzana_cvazzana.webp"
 ---

@@ -2,7 +2,7 @@
 client: "LensCrafters Presents: Bobbi Brown"
 path: "/campaigns/lenscrafters/"
 category: "experiential"
-coverImage: "https://lh3.google.com/u/0/d/1KesTkgLykbgbmG3Pkp6PLuCkLEnrZQ2j"
+coverImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768084/influencer-campaigns/LensCrafters/lenscrafters-cover-image.webp"
 heroImage: "https://lh3.google.com/u/0/d/1CiaFQjn7yAXJWnjW1Arj5ZLFhigRphrv"
 sub: "https://lh3.google.com/u/0/d/17p27k5RRhCSkCs3ai61RpQfdHBfSMrQs"
 subType: "image"
