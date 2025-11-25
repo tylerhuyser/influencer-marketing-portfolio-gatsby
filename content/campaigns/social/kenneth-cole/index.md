@@ -2,9 +2,9 @@
 client: "Kenneth Cole"
 path: "/campaigns/kenneth-cole/"
 category: "social"
-coverImage: "https://lh3.google.com/u/0/d/14O0x8lQHjecE_DpL7mN9DONUhXHrq1vD"
-heroImage: "https://lh3.google.com/u/0/d/1d0lnEHloxZ4bl3Lgba98mXWhfqF7ulga"
-sub: "https://lh3.google.com/u/0/d/1wuBAdnf7biBuNMOjaI6owAPpCIK8s7vk"
+coverImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768051/influencer-campaigns/Kenneth_Cole/kenneth-cole-cover-image.webp"
+heroImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768052/influencer-campaigns/Kenneth_Cole/kenneth-cole-hero-image.webp"
+sub: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768052/influencer-campaigns/Kenneth_Cole/kenneth-cole-sub-image.webp"
 subType: "image"
 stats:
   - Fourteen (14) Influencers (Rising Tier)
@@ -16,17 +16,17 @@ tags:
   - footwear
   - editorial
 posts:
-  - "https://lh3.google.com/u/0/d/1AvARKvE7WkfjslsXx1HXKmI9ZhCBBJ5a"
-  - "https://lh3.google.com/u/0/d/1iAC6eWqx7DpPS8w6wVcKV8stNxfR7vPe"
-  - "https://lh3.google.com/u/0/d/1Pzlx8mKIBhWSInXsDT0G-buxvdXkRcMc"
-  - "https://lh3.google.com/u/0/d/1b4sY6KR8ktUd9xlhooUbA_J7tREKtitv"
-  - "https://lh3.google.com/u/0/d/114wAYLyGqC99KDz1f3infTIjVWNoZQ6B"
-  - "https://lh3.google.com/u/0/d/1uTtRgs-Eb1ZbcWcumSHf3OCzDRBTwoNC"
-  - "https://lh3.google.com/u/0/d/1R4FfQCAwX7lX1YbfWZmjxxE3RxSpQhqV"
-  - "https://lh3.google.com/u/0/d/1VarqiOF0R6-Z-CPo0jO7JsKxRPAFPUz5"
-  - "https://lh3.google.com/u/0/d/1w9bCvLOxjdDnY8NXqqocVZkQEAAKhiHb"
-  - "https://lh3.google.com/u/0/d/1nVJzZXsPxrwIHwHQwsX5tk-8oBCFzwus"
-  - "https://lh3.google.com/u/0/d/1-bxgYCTu21R28k0NpvZIRdwNh87c_xqU"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768053/influencer-campaigns/Kenneth_Cole/post_01_amy_theluxilook.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768054/influencer-campaigns/Kenneth_Cole/post_02_dathias_dathias.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768055/influencer-campaigns/Kenneth_Cole/post_03_gabrielle_zacche_gabriellazacche.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768056/influencer-campaigns/Kenneth_Cole/post_04_igee_okafor_igeeokafor.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768057/influencer-campaigns/Kenneth_Cole/post_05_ivana_korda_ivanakorda.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768058/influencer-campaigns/Kenneth_Cole/post_06_jules_jacobson_julesjacobson.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768061/influencer-campaigns/Kenneth_Cole/post_08_kevin_benejam_kevinbenejam.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768063/influencer-campaigns/Kenneth_Cole/post_09_luce_luxeluce00.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768064/influencer-campaigns/Kenneth_Cole/post_11_tiffany_jais_flauntandcenter.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768065/influencer-campaigns/Kenneth_Cole/post_12_viviane_audi_vivianeaudi.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768066/influencer-campaigns/Kenneth_Cole/post_13_chiara_casiraghi_chiaracasiraghi.webp"
 press:
   - "https://www.one37pm.com/style/kenneth-cole-kevin-benejam-style"
   - "https://www.one37pm.com/style/kenneth-cole-dathias-godfrey-style"

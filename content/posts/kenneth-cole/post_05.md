@@ -2,5 +2,5 @@
 influencerName: "Ivana Korda"
 influencerHandle: "@ivanakorda"
 livePostLink: "https://www.instagram.com/p/Bv2Hr71H9Ig/"
-postFileLink: "https://lh3.google.com/u/0/d/114wAYLyGqC99KDz1f3infTIjVWNoZQ6B"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768057/influencer-campaigns/Kenneth_Cole/post_05_ivana_korda_ivanakorda.webp"
 ---

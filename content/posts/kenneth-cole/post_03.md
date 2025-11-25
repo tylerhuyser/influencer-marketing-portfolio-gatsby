@@ -2,5 +2,5 @@
 influencerName: "Gabrielle Zacche"
 influencerHandle: "@gabriellazacche"
 livePostLink: "https://www.instagram.com/p/BvubyzhhyJG/"
-postFileLink: "https://lh3.google.com/u/0/d/1Pzlx8mKIBhWSInXsDT0G-buxvdXkRcMc"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768055/influencer-campaigns/Kenneth_Cole/post_03_gabrielle_zacche_gabriellazacche.webp"
 ---
