@@ -2,9 +2,9 @@
 client: "KILZ"
 path: "/campaigns/kilz/"
 category: "video"
-coverImage: "https://lh3.google.com/u/0/d/1McYvYCO92RydTl1-1u-CMgwRG8-UL7c1"
-heroImage: "https://lh3.google.com/u/0/d/19CqL5GyvOE1Wl7IOyLvEMqznnfpr7AJj"
-sub: "https://lh3.google.com/u/0/d/1dZHxQEzJIyrM7zcB-zyzZTAWsMu9eDgK"
+coverImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768067/influencer-campaigns/Kilz/KILZ-cover-image.webp"
+heroImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768067/influencer-campaigns/Kilz/KILZ-hero-image.webp"
+sub: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768068/influencer-campaigns/Kilz/KILZ-sub-image.webp"
 subType: "image"
 stats:
   - Two (2) Influencers (Rising Tier)
@@ -14,8 +14,8 @@ tags:
   - branded content
   - home
 posts:
-  - "https://lh3.google.com/u/0/d/1lu3g_jTHicZnX97O8YdNiQ8sFEWQmkP6"
-  - "https://lh3.google.com/u/0/d/1uKVY9YDl2kWpmhjsrgYG4YFxz7VdzlgF"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768069/influencer-campaigns/Kilz/post_01_charlotte_smith_atcharlotteshouse.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768069/influencer-campaigns/Kilz/post_02_kathleen_pagan_kathleenpagan.webp"
 press:
   -
 showInProjects: true

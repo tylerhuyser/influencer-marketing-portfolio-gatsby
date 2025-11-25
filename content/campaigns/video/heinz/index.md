@@ -2,9 +2,9 @@
 client: "Heinz"
 path: "/campaigns/heinz/"
 category: "video"
-coverImage: "https://lh3.google.com/u/0/d/1n0nvcN72u7fZni2TdImA17BpA-olknRS"
-heroImage: "https://lh3.google.com/u/0/d/1uymfd_PtlZg0MmLuIoOoU1l9OE4pZ79p"
-sub: "https://lh3.google.com/u/0/d/1jW2-lGb0wslBlJnMW8b44Za3AESsvkpn"
+coverImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767998/influencer-campaigns/Heinz/heinz-cover-image.webp"
+heroImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767999/influencer-campaigns/Heinz/heinz-hero-image.webp"
+sub: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768000/influencer-campaigns/Heinz/heinz-sub-image.webp"
 subType: "image"
 stats:
   - Three (3) Influencers (Rising Tier)
@@ -14,13 +14,13 @@ tags:
   - branded content
   - food
 posts:
-  - "https://lh3.google.com/u/0/d/1k9ZERK8oZlBZj9Bh7x_oJL8xFg1bysYy"
-  - "https://lh3.google.com/u/0/d/1PcoYAt9jytiX5WHaeaGvJAENFYq_0n29"
-  - "https://lh3.google.com/u/0/d/1ffewNe0LUjGRdevfhzcjXr5YQX6lDf0f"
-  - "https://lh3.google.com/u/0/d/1HyotE5ABdoj--06-VNBmb2Xg-ver9RkO"
-  - "https://lh3.google.com/u/0/d/1jBaTkOvu0vhR73_NZEqg68fVvsMyf5la"
-  - "https://lh3.google.com/u/0/d/1t_-HJE39_SyNARl5Kb6jJr3fnK3i4r_h"
-  - "https://lh3.google.com/u/0/d/1cBXt6WBKjSxaWv8NTPvfPHh-cMSH0aji"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768001/influencer-campaigns/Heinz/post_01_ali_rosen_ali_rosen.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768002/influencer-campaigns/Heinz/post_02_justin_chapple_justinchapple.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768003/influencer-campaigns/Heinz/post_03_justin_chapple_justinchapple.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768003/influencer-campaigns/Heinz/post_04_sammi_haber_veggiesandchocolate.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768004/influencer-campaigns/Heinz/post_05_sammi_haber_veggiesandchocolate.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768005/influencer-campaigns/Heinz/post_06_sammi_haber_veggiesandchocolate.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768005/influencer-campaigns/Heinz/post_07_ali_rosen_ali_rosen.webp"
 
 press:
   -

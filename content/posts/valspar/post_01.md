@@ -2,5 +2,5 @@
 influencerName: "Kristen Poissant"
 influencerHandle: "@kisten.poissant"
 livePostLink: "https://www.instagram.com/p/BtN51vCgtLM/"
-postFileLink: "https://lh3.google.com/u/0/d/18lb1gQVzLnoIq4FhFpWD-zxsLot1y-nU"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768192/influencer-campaigns/Valspar/post_01_kristen_poissant_kristenpoissant.webp"
 ---

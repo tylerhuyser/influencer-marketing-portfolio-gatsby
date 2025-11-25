@@ -2,8 +2,8 @@
 client: "Ulta Beauty"
 path: "/campaigns/ulta-beauty/"
 category: "video"
-coverImage: "https://lh3.google.com/u/0/d/1P1vul-0zCSF9y27KO1FrRb5sFptDpfVm"
-heroImage: "https://lh3.google.com/u/0/d/1UQZ8BePDcN-HlV9VbRDWpcZb3cc4RQHE"
+coverImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768191/influencer-campaigns/Ulta_Beauty/ulta-beauty-cover-image.webp"
+heroImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768191/influencer-campaigns/Ulta_Beauty/ulta-beautry-hero-image.webp"
 sub: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fblink%2Fvideos%2F1061371434036718%2F&show_text=0"
 subType: "video"
 stats:
@@ -15,16 +15,16 @@ tags:
   - beauty
   - makeup
 posts:
-  - "https://lh3.google.com/u/0/d/1ducU4DxATbat-G5NPb4xmQZPFu75giIw"
-  - "https://lh3.google.com/u/0/d/12Dr0cdQvg4tCRPAqrIUapd8n1x5WfmB7"
-  - "https://lh3.google.com/u/0/d/1Jjg2Kl3JG33clOhYqHem7eOY_44uDffI"
-  - "https://lh3.google.com/u/0/d/1K-vRlyq3qLpF5MVUmwC9sR1HzWeRttMY"
-  - "https://lh3.google.com/u/0/d/1r2L3PLlZBHQkz8M5q0Sg1Dj4VVEZbQbX"
-  - "https://lh3.google.com/u/0/d/1uzBvi5SC4_1HgnxvUCZ8LnD-bW2fyHls"
-  - "https://lh3.google.com/u/0/d/1Wy0cU75Nvuqh7UrGr9evqC5eve3gWXxD"
-  - "https://lh3.google.com/u/0/d/1kGI2Yj7yWt0ceYFvi659vYbLJb7kKxLr"
-  - "https://lh3.google.com/u/0/d/1McXaKeEMUQMx1ruhreft5IKWxKttdnjW"
-  - "https://lh3.google.com/u/0/d/11b4cvG_TvupbIpJlQI7WeEafv0fWibFP"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768184/influencer-campaigns/Ulta_Beauty/21_Days_of_Beauty/post_01_chinae_alexander_chinaealexander.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768185/influencer-campaigns/Ulta_Beauty/21_Days_of_Beauty/post_02_rosa_cheng-crespa_beautybyrosita.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768185/influencer-campaigns/Ulta_Beauty/Good_Hair_Day/post_03_cindy_gomez_cindyegomez.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768186/influencer-campaigns/Ulta_Beauty/Good_Hair_Day/post_04_kaelin_fox_kaelin_fox.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768186/influencer-campaigns/Ulta_Beauty/Good_Hair_Day/post_05_tineey_tsang_tineey.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768187/influencer-campaigns/Ulta_Beauty/Holiday/post_06_courtney_danielle_curlsandcouture.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768188/influencer-campaigns/Ulta_Beauty/Holiday/post_07_flo_pereira_flopereira.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768188/influencer-campaigns/Ulta_Beauty/Holiday/post_08_gracie_gordon_hungryblonde.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768189/influencer-campaigns/Ulta_Beauty/Holiday/post_09_peggy_ontheqtrain.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768190/influencer-campaigns/Ulta_Beauty/Holiday/post_10_stephanie_zheng_collectionofvials.webp"
 press:
   -
 showInProjects: true

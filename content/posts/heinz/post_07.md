@@ -2,5 +2,5 @@
 influencerName: "Ali Rosen"
 influencerHandle: "@ali_rosen"
 livePostLink: "https://www.instagram.com/p/BwVFlRnnKEl/"
-postFileLink: "https://lh3.google.com/u/0/d/1cBXt6WBKjSxaWv8NTPvfPHh-cMSH0aji"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768005/influencer-campaigns/Heinz/post_07_ali_rosen_ali_rosen.webp"
 ---

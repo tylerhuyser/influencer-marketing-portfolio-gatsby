@@ -2,9 +2,9 @@
 client: "Kiwi"
 path: "/campaigns/kiwi/"
 category: "video"
-coverImage: "https://lh3.google.com/u/0/d/1iIh8FBkLT5ELaWPo0IMOfaEnMMRMFlsw"
-heroImage: "https://lh3.google.com/u/0/d/1L2irPZ_bqU_LfndVr3aDdZyf6-zU23Ls"
-sub: "https://lh3.google.com/u/0/d/12WzWdUvpj5uFl8KuOlHPTEdmqOEgr3ML"
+coverImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768070/influencer-campaigns/Kiwi/kiwi-cover-image.webp"
+heroImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768074/influencer-campaigns/Kiwi/kiwi-hero-image.webp"
+sub: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768075/influencer-campaigns/Kiwi/kiwi-sub-image.webp"
 subType: "image"
 stats:
   - Three (3) Influencers (Rising Tier)
@@ -16,9 +16,9 @@ tags:
   - women's fashion
   - footwear
 posts:
-  - "https://lh3.google.com/u/0/d/19clrnXkLULlcfrht_PM2sNJ-R_I0fd-o"
-  - "https://lh3.google.com/u/0/d/1BxROFoqzb-5Ft1OnHI3rJWIdW6etlOBO"
-  - "https://lh3.google.com/u/0/d/1QyvYRGQXSGNB9hFHREEz5SqqttoG8Ahp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768076/influencer-campaigns/Kiwi/post_01_janelle_lloyd_waityouneedthis.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768076/influencer-campaigns/Kiwi/post_02_amanda_hogan_hausofhogan.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768077/influencer-campaigns/Kiwi/post_03_cami_powell_poshestyle.webp"
 press:
   - "https://www.purewow.com/fashion/how-to-take-care-of-leather-bags-and-boots"
   - "https://www.purewow.com/fashion/how-to-make-your-fashion-investment-pieces-last"

@@ -2,5 +2,5 @@
 influencerName: "Cara Irwin"
 influencerHandle: "@goldalamode"
 livePostLink: "https://www.instagram.com/p/BtD0vYbHEXK/"
-postFileLink: "https://lh3.google.com/u/0/d/1htNceVegT4fgjeBVpIs3mIafhA1iS5he"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768193/influencer-campaigns/Valspar/post_02_cara_irwin_goldalamode.webp"
 ---

@@ -2,5 +2,5 @@
 influencerName: "Kaelin Fox"
 influencerHandle: "@kaelin_fox"
 livePostLink: "https://www.instagram.com/p/BozqoSWFELi/"
-postFileLink: "https://lh3.google.com/u/0/d/1K-vRlyq3qLpF5MVUmwC9sR1HzWeRttMY"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768186/influencer-campaigns/Ulta_Beauty/Good_Hair_Day/post_04_kaelin_fox_kaelin_fox.webp"
 ---

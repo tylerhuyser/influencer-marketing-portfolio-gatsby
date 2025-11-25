@@ -2,5 +2,5 @@
 influencerName: "Cindy Gomez"
 influencerHandle: "@cindyegomez"
 livePostLink: "https://www.instagram.com/p/Botu_l1FNw2/"
-postFileLink: "https://lh3.google.com/u/0/d/1Jjg2Kl3JG33clOhYqHem7eOY_44uDffI"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768185/influencer-campaigns/Ulta_Beauty/Good_Hair_Day/post_03_cindy_gomez_cindyegomez.webp"
 ---

@@ -2,8 +2,8 @@
 client: "Roberto Coin"
 path: "/campaigns/roberto-coin/"
 category: "video"
-coverImage: "https://lh3.google.com/u/0/d/106OdGU9ii9OSERT1RwnxK8GAbTPMmLhE"
-heroImage: "https://lh3.google.com/u/0/d/1YnDrq80A4Q4Hv1SKCMgAhtRn0qDPAA3A"
+coverImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768180/influencer-campaigns/Roberto_Coin/roberto-coin-cover-image.webp"
+heroImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768181/influencer-campaigns/Roberto_Coin/roberto-coin-hero-image.webp"
 sub: "https://player.vimeo.com/video/346928112?h=ccb4ea41d4"
 subType: "video"
 stats:
@@ -15,7 +15,7 @@ tags:
   - women's fashion
   - luxury
 posts:
-  - "https://lh3.google.com/u/0/d/1ZG1OiBr5QEtK2RiJUxQHgtiitDNoIFGZ"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768179/influencer-campaigns/Roberto_Coin/post_01_maggie_tate_blushandblooms.webp"
 press:
   - "https://www.purewow.com/fashion/how-to-style-fall-looks-jewelry"
 showInProjects: true

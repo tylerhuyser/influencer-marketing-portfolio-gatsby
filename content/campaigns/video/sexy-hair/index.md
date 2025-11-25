@@ -2,8 +2,8 @@
 client: "Sexy Hair"
 path: "/campaigns/sexy-hair/"
 category: "video"
-coverImage: "https://lh3.google.com/u/0/d/1o8MBD6qN17SoT49y_ZhwwnE-p8vpGUbs"
-heroImage: "https://lh3.google.com/u/0/d/1rYaGlZxJsWzkF3DzMqq9nqMLA6-_ZnW9"
+coverImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768183/influencer-campaigns/Sexy_Hair/sexy-hair-cover-image.webp"
+heroImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768183/influencer-campaigns/Sexy_Hair/sexy-hair-hero-image.webp"
 sub: "https://player.vimeo.com/video/345541829?h=b8b91b9448"
 subType: "video"
 stats:
@@ -15,8 +15,8 @@ tags:
   - beauty
   - haircare
 posts:
-  - "https://lh3.google.com/u/0/d/18q37VID3EsqIO-xc95hPOt9lkG7zVZqc"
-  - "https://lh3.google.com/u/0/d/1HAROtXyisQ3adBbYL1U5DU-CQXA3mriF"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768182/influencer-campaigns/Sexy_Hair/post_01_courtney_and_kelly_courtandkelly.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768183/influencer-campaigns/Sexy_Hair/post_02_kaelin_fox_kaelin_fox.webp"
 press:
   -
 showInProjects: true

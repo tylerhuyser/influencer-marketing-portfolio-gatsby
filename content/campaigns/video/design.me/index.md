@@ -2,8 +2,8 @@
 client: "Design.Me"
 path: "/campaigns/design-me/"
 category: "video"
-coverImage: "https://lh3.google.com/u/0/d/1RHrpEi-Uf_pUaNvvEUDnZw9y5wJqgcP0"
-heroImage: "https://lh3.google.com/u/0/d/12IyHELFVorcoWISZqdPiggvOYrWALZvf"
+coverImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767948/influencer-campaigns/DesignMe/design-me-cover-image.webp"
+heroImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767948/influencer-campaigns/DesignMe/design-me-hero-image.webp"
 sub: "https://lh3.google.com/u/0/d/160aMBlzdRA0wacw98fBySZU1_DQiljCL"
 subType: "video"
 stats:
@@ -15,8 +15,8 @@ tags:
   - beauty
   - haircare
 posts:
-  - "https://lh3.google.com/u/0/d/169kLjvEuevtOGtLke57f-yzRVX9rLQNy"
-  - "https://lh3.google.com/u/0/d/1uM63h0ExYlI_dtmH5TsmAQ1DLs_UiceT"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767950/influencer-campaigns/DesignMe/post_01_lakshmi_devy_lakshmidevynyc.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767950/influencer-campaigns/DesignMe/post_02_bianca_valle_vbiancav.webp"
 press:
 showInProjects: true
 ---

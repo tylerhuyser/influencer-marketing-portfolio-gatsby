@@ -2,5 +2,5 @@
 influencerName: "Kathleen Pagan"
 influencerHandle: "@kathleenpagan"
 livePostLink: "https://www.instagram.com/p/Bz8nVN3FIlB/"
-postFileLink: "https://lh3.google.com/u/0/d/1uKVY9YDl2kWpmhjsrgYG4YFxz7VdzlgF"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768069/influencer-campaigns/Kilz/post_02_kathleen_pagan_kathleenpagan.webp"
 ---

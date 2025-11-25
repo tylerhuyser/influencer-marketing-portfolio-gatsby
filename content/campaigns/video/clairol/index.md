@@ -3,8 +3,8 @@ client: "Clairol"
 path: "/campaigns/clairol/"
 category: "video"
 coverImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767909/influencer-campaigns/Clairol/clairol-cover-image.webp"
-heroImage: "https://lh3.google.com/u/0/d/1Op-a2zV5TCq6zHenjJsizfglr22SvPZp"
-sub: "https://lh3.google.com/u/0/d/12_qiMQZ3nyV8YpzkBj5GvVh_gVIpC6EA"
+heroImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767910/influencer-campaigns/Clairol/clairol-hero-image.webp"
+sub: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767910/influencer-campaigns/Clairol/clairol-sub-image.webp"
 subType: "image"
 stats:
   - Three (3) Influencers
@@ -15,8 +15,8 @@ tags:
   - beauty
   - haircare
 posts:
-  - "https://lh3.google.com/u/0/d/1dsJp9fBjiiIeoaFUSdPJnjxVKBBhVIKj"
-  - "https://lh3.google.com/u/0/d/1PgPwV2yoSrOKzoVCYGqr7KMhTg2H_2dE"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767911/influencer-campaigns/Clairol/post_01_cassandra_lazenby_cassandras_closet.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767912/influencer-campaigns/Clairol/post_02_sai_de_silva_scoutthecity.webp"
 press:
   - "https://www.purewow.com/beauty/how-to-color-long-hair-at-home"
   - "https://www.purewow.com/beauty/how-to-color-curly-hair-at-home"

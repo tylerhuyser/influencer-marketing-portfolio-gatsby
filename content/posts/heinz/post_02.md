@@ -2,5 +2,5 @@
 influencerName: "Justin Chapple"
 influencerHandle: "@justinchapple"
 livePostLink: "https://www.instagram.com/p/BwVfyywBWJp/"
-postFileLink: "https://lh3.google.com/u/0/d/1PcoYAt9jytiX5WHaeaGvJAENFYq_0n29"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768002/influencer-campaigns/Heinz/post_02_justin_chapple_justinchapple.webp"
 ---
