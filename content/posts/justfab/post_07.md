@@ -2,5 +2,5 @@
 influencerName: "Kayle Riccobono"
 influencerHandle: "@rougewithlove"
 livePostLink: "https://www.instagram.com/p/BoSvAQpgtIp/?taken-by=rougewithlove"
-postFileLink: "https://lh3.google.com/u/0/d/1-BOjeWDEvYBmZtwpzCiwn3rB-bwtS4s2"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768042/influencer-campaigns/JustFab/post_07_kayle_riccobono_rougewithlove.webp"
 ---

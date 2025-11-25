@@ -2,5 +2,5 @@
 influencerName: "Sara Anderson"
 influencerHandle: "@aprettypennygirl"
 livePostLink: "https://www.instagram.com/p/Bot4RQCANHH/?taken-by=theprettypennygirl"
-postFileLink: "https://lh3.google.com/u/0/d/1KnEh9ptAyZn2OaFipGcxpA439Q5IFagl"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768048/influencer-campaigns/JustFab/post_12_sara_anderson_aprettypennygirl.webp"
 ---

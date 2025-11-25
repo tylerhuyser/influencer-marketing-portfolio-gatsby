@@ -2,5 +2,5 @@
 influencerName: "Savilla"
 influencerHandle: "@savillamountain"
 livePostLink: "https://www.instagram.com/p/BoSN98wA7NA/?taken-by=savillamountain"
-postFileLink: "https://lh3.google.com/u/0/d/1AGRckVtx56gqtgzOwImTwxe70QRiXznw"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768049/influencer-campaigns/JustFab/post_13_savilla_savillamountain.webp"
 ---

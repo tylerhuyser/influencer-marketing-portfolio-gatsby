@@ -2,5 +2,5 @@
 influencerName: "Kallie Branciforte"
 influencerHandle: "@kallie_branciforte"
 livePostLink: "https://www.instagram.com/p/BoRRKhrHP3K/?taken-by=kallie_branciforte"
-postFileLink: "https://lh3.google.com/u/0/d/1Ff3sIvIHYZ_Tjmmsst7r0yTchT0wXmmK"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768041/influencer-campaigns/JustFab/post_06_kallie_branciforte_kallie_branciforte.webp"
 ---

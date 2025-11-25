@@ -2,5 +2,5 @@
 influencerName: "Victoria Fox"
 influencerHandle: "@coffeenablonde"
 livePostLink: "https://www.instagram.com/p/BomF5fZgSoq/?taken-by=coffeenablonde"
-postFileLink: "https://lh3.google.com/u/0/d/1rGfRqqY2jWRFUZAIB2I7ZvcoiROXnGfA"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768050/influencer-campaigns/JustFab/post_15_victoria_fox_coffenablonde.webp"
 ---
