@@ -4,7 +4,7 @@ path: "/campaigns/calvin-klein/"
 category: "social"
 coverImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767842/influencer-campaigns/Calvin_Klein/calvin-klein-cover-image.webp"
 heroImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767843/influencer-campaigns/Calvin_Klein/calvin-klein-hero-image.webp"
-sub: https://res.cloudinary.com/tylerhuyser/image/upload/v1763767844/influencer-campaigns/Calvin_Klein/calvin-klein-sub-image.webp"
+sub: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767844/influencer-campaigns/Calvin_Klein/calvin-klein-sub-image.webp"
 subType: "image"
 stats:
   - Thirteen (13) x Influencers (3 x Celebrity, 10 x Rising)

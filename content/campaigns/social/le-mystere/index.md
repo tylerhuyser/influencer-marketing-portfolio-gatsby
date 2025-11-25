@@ -4,7 +4,7 @@ path: "/campaigns/le-mystere/"
 category: "social"
 coverImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768078/influencer-campaigns/Le_Mystere/le-mystere-cover-image.webp"
 heroImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768079/influencer-campaigns/Le_Mystere/le-mystere-hero-image.webp"
-sub: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768079/influencer-campaigns/Le_Mystere/le-mystere-hero-image.webp"
+sub: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768079/influencer-campaigns/Le_Mystere/le-mystere-sub-image.webp"
 subType: "image"
 stats:
   - Four (4) Influencers (1 x Rising Tier, 3 x Micro Tier)
