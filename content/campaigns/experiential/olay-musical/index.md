@@ -2,8 +2,8 @@
 client: "Olay the Musical: The Road to Glow"
 path: "/campaigns/olay-musical/"
 category: "experiential"
-coverImage: "https://lh3.google.com/u/0/d/1Bp105pdqlXNTBHuif_ucsYpauDNQUugO"
-heroImage: "https://lh3.google.com/u/0/d/1su3PdBiRAAw462OBurrtTnHt8VLMH8z4"
+coverImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768138/influencer-campaigns/Olay_Live_The_Road_to_Glow/olay-musical-road-to-glow-cover-image.webp"
+heroImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768139/influencer-campaigns/Olay_Live_The_Road_to_Glow/olay-musical-road-to-glow-hero-image.webp"
 sub: "https://www.youtube.com/embed/p85DBJ5Xa0o"
 subType: "video"
 stats:
@@ -16,15 +16,15 @@ tags:
   - beauty
   - skincare
 posts:
-  - "https://lh3.google.com/u/0/d/1ElWG2f8HCrfkRVulm7s0nK5MO8HCpX4A"
-  - "https://lh3.google.com/u/0/d/12Yy48Pdgi8JrUd3L2WfFSfaxCk8MC1p0"
-  - "https://lh3.google.com/u/0/d/1-_6DdJC40TL7WHIlFFdevDjMD9qXs45n"
-  - "https://lh3.google.com/u/0/d/1apvk7Qjdk32Qv3UJ5UGgk7F9CfOR_yj2"
-  - "https://lh3.google.com/u/0/d/1fHdUaFjN69ylK5SlyMxzFj9o6xxWbrMj"
-  - "https://lh3.google.com/u/0/d/1uZU9eEJePxdbccS1emKXY5oR_28xCSOB"
-  - "https://lh3.google.com/u/0/d/1hui3kvC7eWXCNkLhNmJu6ApN2oKbbOQQ"
-  - "https://lh3.google.com/u/0/d/1-RrlaByJ0XAiIDCo-eGqbucI-g8AGFVT"
-  - "https://lh3.google.com/u/0/d/1z8CPU9hTwEfn_l1gye4ZvSSYc2zDY2Hq"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768141/influencer-campaigns/Olay_Live_The_Road_to_Glow/post_01_elma_beganovich_elmabeganovich.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768142/influencer-campaigns/Olay_Live_The_Road_to_Glow/post_02_milly_rose_bannister_millyrosebannister.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768143/influencer-campaigns/Olay_Live_The_Road_to_Glow/post_03_keri_fay_kerifay.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768143/influencer-campaigns/Olay_Live_The_Road_to_Glow/post_04_eileen_rhein_lighttravelsfaster.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768144/influencer-campaigns/Olay_Live_The_Road_to_Glow/post_05_elma_beganovich_elmabeganovich.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768144/influencer-campaigns/Olay_Live_The_Road_to_Glow/post_06_katie_sands_honestlykate.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768145/influencer-campaigns/Olay_Live_The_Road_to_Glow/post_07_milly_rose_bannister_millyrosebannister.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768146/influencer-campaigns/Olay_Live_The_Road_to_Glow/post_08_keri_fay_kerifay.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768147/influencer-campaigns/Olay_Live_The_Road_to_Glow/post_09_elma_beganovich_elmabeganovich.webp"
 press:
   - "https://adage.com/article/cmo-strategy/olay-musical-heads-broadway-febreze-releases-album/316959"
   - "https://www.buzzfeed.com/olay/this-musical-perfectly-captures-the-joy-of-being-done-with"

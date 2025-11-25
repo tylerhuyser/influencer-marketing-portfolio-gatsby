@@ -2,5 +2,5 @@
 influencerName: "Milly Rose Bannister"
 influencerHandle: "@millyrosebannister"
 livePostLink: "https://www.instagram.com/p/BwFt3ZYDg_b/"
-postFileLink: "https://lh3.google.com/u/0/d/1hui3kvC7eWXCNkLhNmJu6ApN2oKbbOQQ"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768145/influencer-campaigns/Olay_Live_The_Road_to_Glow/post_07_milly_rose_bannister_millyrosebannister.webp"
 ---
