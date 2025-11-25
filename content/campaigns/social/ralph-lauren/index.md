@@ -2,9 +2,9 @@
 client: "Ralph Lauren"
 path: "/campaigns/ralph-lauren/"
 category: "social"
-coverImage: "https://lh3.google.com/u/0/d/17kGJEVvNgN6iQKXmz_cNrslUt786tNy_"
-heroImage: "https://lh3.google.com/u/0/d/11rtfEyHvVmbbGpgPzz_jnZ63-KoI9YGu"
-sub: "https://lh3.google.com/u/0/d/16oRICTT1z2HPq2-D_m8N38DRHTxDhnoM"
+coverImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768166/influencer-campaigns/Ralph_Lauren/ralph-lauren-cover-image.webp"
+heroImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768167/influencer-campaigns/Ralph_Lauren/ralph-lauren-hero-image.webp"
+sub: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768168/influencer-campaigns/Ralph_Lauren/ralph-lauren-sub-image.webp"
 subType: "image"
 stats:
   - Four (4) Influencers (Macro Tier)
@@ -14,14 +14,14 @@ tags:
   - women's fashion
   - luxury
 posts:
-  - "https://lh3.google.com/u/0/d/1c7kF4oTkz2sKKYSjc7sGluSXnKwAMpKh"
-  - "https://lh3.google.com/u/0/d/1-J-vIYRzF2GARQlW3vIQHWaqcDLDJiT_"
-  - "https://lh3.google.com/u/0/d/1HQX9SWQa0sFTMo5LoDI8mA9aPAL4Iu54"
-  - "https://lh3.google.com/u/0/d/17BJRe7kb02aMORpiPkbIJgqBT8d4cRW3"
-  - "https://lh3.google.com/u/0/d/1A63xOJOUYQGq1Xm_tlFa7wBSWVssPC2C"
-  - "https://lh3.google.com/u/0/d/19SCBmpC4GgYFKsT4OwBg9MvUgxo5vLdU"
-  - "https://lh3.google.com/u/0/d/1VTF_kRHLvlpdZDjLyVuFb2ktAWjk7-Dn"
-  - "https://lh3.google.com/u/0/d/1Uzhv7lacNOzcXQz5J4BaV9aezRPEuSw5"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768159/influencer-campaigns/Ralph_Lauren/post_01_ariana_lauren_arianalauren.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768160/influencer-campaigns/Ralph_Lauren/post_02_ariana_lauren_arianalauren.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768160/influencer-campaigns/Ralph_Lauren/post_03_lillian_babaian_lillianbabaian.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768161/influencer-campaigns/Ralph_Lauren/post_04_lillian_babaian_lillianbabaian.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768162/influencer-campaigns/Ralph_Lauren/post_05_mara_ferreira_maraferreira.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768163/influencer-campaigns/Ralph_Lauren/post_06_mara_ferreira_maraferreira.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768164/influencer-campaigns/Ralph_Lauren/post_07_venessa_kaufman_wetheclassy.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768165/influencer-campaigns/Ralph_Lauren/post_08_venessa_kaufman_wetheclassy.webp"
 press:
   - "https://www.purewow.com/fashion/classic-coat-every-woman-should-own"
 showInProjects: true

@@ -2,5 +2,5 @@
 influencerName: "Venessa Kaufman"
 influencerHandle: "@wetheclassy"
 livePostLink: "https://www.instagram.com/p/Bor6s0nAkMD/?taken-by=wetheclassy"
-postFileLink: "https://lh3.google.com/u/0/d/1Uzhv7lacNOzcXQz5J4BaV9aezRPEuSw5"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768165/influencer-campaigns/Ralph_Lauren/post_08_venessa_kaufman_wetheclassy.webp"
 ---
