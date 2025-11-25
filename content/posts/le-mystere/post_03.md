@@ -2,5 +2,5 @@
 influencerName: "Morgan Bethel-Sosinski"
 influencerHandle: "@hangitupla"
 livePostLink: "https://www.instagram.com/p/Bj5WOUnFBTU/"
-postFileLink: "https://lh3.google.com/u/0/d/1T28CN3NyrvTxrZtzx3MsGo7I9_LXYR2N"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768083/influencer-campaigns/Le_Mystere/post_03_morgan_bethel-sosinski_hangitupla.webp"
 ---

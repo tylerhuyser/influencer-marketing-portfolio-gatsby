@@ -2,9 +2,9 @@
 client: "Le Mystère"
 path: "/campaigns/le-mystere/"
 category: "social"
-coverImage: "https://lh3.google.com/u/0/d/1o_jZUvioQQEDokOoI2NDELaqwrovYKrh"
-heroImage: "https://lh3.google.com/u/0/d/1ox4u4VcjDpwavm50nMUAM9xz_4waNmcr"
-sub: "https://lh3.google.com/u/0/d/h1Rmr-6iP9CVvdqds46C1kLxK2xRFAXUZs"
+coverImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768078/influencer-campaigns/Le_Mystere/le-mystere-cover-image.webp"
+heroImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768079/influencer-campaigns/Le_Mystere/le-mystere-hero-image.webp"
+sub: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768079/influencer-campaigns/Le_Mystere/le-mystere-hero-image.webp"
 subType: "image"
 stats:
   - Four (4) Influencers (1 x Rising Tier, 3 x Micro Tier)
@@ -14,10 +14,10 @@ tags:
   - women's fashion
   - intimate wear
 posts:
-  - "https://lh3.google.com/u/0/d/1AQrAxxPS76hYjITTJl5MB6VMaO-eM1Bo"
-  - "https://lh3.google.com/u/0/d/1hiHN9-_o1aryAOpQZ9T7p6Yg4Z3--T6B"
-  - "https://lh3.google.com/u/0/d/1T28CN3NyrvTxrZtzx3MsGo7I9_LXYR2N"
-  - "https://lh3.google.com/u/0/d/12KVprP3pvswZGRb0ZMgRWB799K8hlBeL"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768080/influencer-campaigns/Le_Mystere/post_01_kiara_michelle_kmserr.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768082/influencer-campaigns/Le_Mystere/post_02_jessica_windle_jeansandateacup.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768083/influencer-campaigns/Le_Mystere/post_03_morgan_bethel-sosinski_hangitupla.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768084/influencer-campaigns/Le_Mystere/post_04_sara_anderson_aprettypennygirl.webp"
 press:
   -
 showInProjects: true

@@ -2,6 +2,6 @@
 influencerName: "Kiara Michelle"
 influencerHandle: "@kmserr"
 livePostLink: "https://www.instagram.com/p/BjsrD4MAMIP/"
-postFileLink: "https://lh3.google.com/u/0/d/1AQrAxxPS76hYjITTJl5MB6VMaO-eM1Bo"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768080/influencer-campaigns/Le_Mystere/post_01_kiara_michelle_kmserr.webp"
 selectInfluencerContent: true
 ---
