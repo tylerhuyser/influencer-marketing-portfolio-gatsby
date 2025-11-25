@@ -2,8 +2,8 @@
 client: "Olay"
 path: "/campaigns/olay/"
 category: "social"
-coverImage: "https://lh3.google.com/u/0/d/1IuPqRpRgRAVk_lehiF_5-h2Nrk8sEZqw"
-heroImage: "https://lh3.google.com/u/0/d/1YHeyDy4WO5XTLEg-D-jYdz0Ym3EvY2oB"
+coverImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768147/influencer-campaigns/Olay_the_Musical/olay-cover-image.webp"
+heroImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768148/influencer-campaigns/Olay_the_Musical/olay-hero-image.webp"
 sub: "https://www.youtube.com/embed/Jl-6oJT-YCk"
 subType: "video"
 stats:
@@ -15,13 +15,13 @@ tags:
   - beauty
   - skincare
 posts:
-  - "https://lh3.google.com/u/0/d/1LuwnAQQOonS3g8IGMfaA3QDVjKy05Dv1"
-  - "https://lh3.google.com/u/0/d/1CqTod_wpWGlG1ai45l2LG3xj0FjvLL7W"
-  - "https://lh3.google.com/u/0/d/1Q-HOABUu_EDvSB7IslHo8AIUlQGwlHtQ"
-  - "https://lh3.google.com/u/0/d/1Ng4J0BUzhGRch2AEk6X8d9UdWKg7Xsqk"
-  - "https://lh3.google.com/u/0/d/1kcgt4E38E4_690R01mWZ5bq7oQ3hUtr5"
-  - "https://lh3.google.com/u/0/d/1n5RPIRsEEEIgjsUVef-Wyuhxq_1QzzuO"
-  - "https://lh3.google.com/u/0/d/1GM0hYuyB2CPhOx7G4_fcsQ5OnavI9he_"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768149/influencer-campaigns/Olay_the_Musical/post_01_charlie_williams_iamcharliewilliams.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768150/influencer-campaigns/Olay_the_Musical/post_02_chris_rice_chrisriceny.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768150/influencer-campaigns/Olay_the_Musical/post_03_kaitlyn_frank_kaitlyn_frank16.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768151/influencer-campaigns/Olay_the_Musical/post_04_adam_kaplan_adamskaplan.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768151/influencer-campaigns/Olay_the_Musical/post_05_zack_williams_zfwilliams23.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768152/influencer-campaigns/Olay_the_Musical/post_06_jacob_guzman_j_dawg87.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768153/influencer-campaigns/Olay_the_Musical/post_07_david_guzman_d_guzz.webp"
 press:
   -
 showInProjects: true

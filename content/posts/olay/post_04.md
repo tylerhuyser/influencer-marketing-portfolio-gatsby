@@ -2,5 +2,5 @@
 influencerName: "Adam Kaplan"
 influencerHandle: "@adamskaplan"
 livePostLink: "https://www.instagram.com/p/BmtaFAuAqE0/"
-postFileLink: "https://lh3.google.com/u/0/d/1Ng4J0BUzhGRch2AEk6X8d9UdWKg7Xsqk"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768151/influencer-campaigns/Olay_the_Musical/post_04_adam_kaplan_adamskaplan.webp"
 ---

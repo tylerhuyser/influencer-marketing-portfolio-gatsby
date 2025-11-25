@@ -2,5 +2,5 @@
 influencerName: "Charlie Williams"
 influencerHandle: "@iamcharliewilliams"
 livePostLink: "https://www.instagram.com/p/BnjlcyUgqwL/"
-postFileLink: "https://lh3.google.com/u/0/d/1LuwnAQQOonS3g8IGMfaA3QDVjKy05Dv1"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768149/influencer-campaigns/Olay_the_Musical/post_01_charlie_williams_iamcharliewilliams.webp"
 ---
