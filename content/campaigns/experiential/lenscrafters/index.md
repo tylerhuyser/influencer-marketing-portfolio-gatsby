@@ -3,8 +3,8 @@ client: "LensCrafters Presents: Bobbi Brown"
 path: "/campaigns/lenscrafters/"
 category: "experiential"
 coverImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768084/influencer-campaigns/LensCrafters/lenscrafters-cover-image.webp"
-heroImage: "https://lh3.google.com/u/0/d/1CiaFQjn7yAXJWnjW1Arj5ZLFhigRphrv"
-sub: "https://lh3.google.com/u/0/d/17p27k5RRhCSkCs3ai61RpQfdHBfSMrQs"
+heroImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768086/influencer-campaigns/LensCrafters/lenscrafters-hero-image.webp"
+sub: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768087/influencer-campaigns/LensCrafters/lenscrafters-sub-image.webp"
 subType: "image"
 stats:
   - Four (4) Influencers (Rising Tier)
@@ -14,9 +14,9 @@ tags:
   - experiential campaign
   - women's fashion
 posts:
-  - "https://lh3.google.com/u/0/d/18z3YNHyprKcoLKQFhFGlzr-1jUvqekR7"
-  - "https://lh3.google.com/u/0/d/155n76DkEmj4UjQUzW61NlyFR8fSiltve"
-  - "https://lh3.google.com/u/0/d/1C_FCQbRqw8Ob2jhVYP7eyql1FZMa4R-a"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768089/influencer-campaigns/LensCrafters/post_01_ashley_vera_ashleyvera_.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768090/influencer-campaigns/LensCrafters/post_02_belle_bakst_littlefashionstylist.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768091/influencer-campaigns/LensCrafters/post_03_tineey_tsang_tineey.webp"
 press:
   - "https://www.purewow.com/event/lenscrafters-presents-bobbi-brown"
 showInProjects: true
