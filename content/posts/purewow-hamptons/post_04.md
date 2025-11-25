@@ -2,5 +2,5 @@
 influencerName: ""
 influencerHandle: ""
 livePostLink: "N/A"
-postFileLink: "https://lh3.google.com/u/0/d/12MRuExuoNfzdNMxgOFJMgOjpEs5FQvFS"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767990/influencer-campaigns/Hamptons_2018/post_04.webp"
 ---

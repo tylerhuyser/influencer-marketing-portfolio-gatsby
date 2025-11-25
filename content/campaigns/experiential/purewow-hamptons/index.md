@@ -2,8 +2,8 @@
 client: "PureWow Hamptons Event 2018"
 path: "/campaigns/purewow-hamptons/"
 category: "experiential"
-coverImage: "https://lh3.google.com/u/0/d/1HDe9O7TL5kAQJNh9eaWTPyq3iphIR-9D"
-heroImage: "https://lh3.google.com/u/0/d/1sTJw-hZgSALPgDZ7JKbZnp_uKcalC1X-"
+coverImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767994/influencer-campaigns/Hamptons_2018/purewow-hamptons-cover-image.webp"
+heroImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767995/influencer-campaigns/Hamptons_2018/purewow-hamptons-hero-image.webp"
 sub: "https://www.youtube.com/embed/U9su0ViO-nU"
 subType: "video"
 stats:
@@ -13,14 +13,14 @@ tags:
   - experiential campaign
   - purewow
 posts:
-  - "https://lh3.google.com/u/0/d/1OagCIYlqVpuZzpWyYpkt9TXkTau2lSey"
-  - "https://lh3.google.com/u/0/d/1Wb_W8Gp1uBONZ2aCpxGUiSbnhpe3RxW9"
-  - "https://lh3.google.com/u/0/d/1wwm2fBnWebC4Zy1okNY7vEh9y7-5BU9I"
-  - "https://lh3.google.com/u/0/d/12MRuExuoNfzdNMxgOFJMgOjpEs5FQvFS"
-  - "https://lh3.google.com/u/0/d/1yUawagDA7mRFHZyn2ybzPKz-Fz8MA6KG"
-  - "https://lh3.google.com/u/0/d/1tH-6-KPLSgjV9FrbqdbWEPZEfToNY0i9"
-  - "https://lh3.google.com/u/0/d/12beqi-FDV15uwEMP35g9LDR8XIGe-Wz2"
-  - "https://lh3.google.com/u/0/d/1KuiS_1HpzWtv0nc6Ek6Az68uxc0nCFfb"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767987/influencer-campaigns/Hamptons_2018/post_01.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767988/influencer-campaigns/Hamptons_2018/post_02.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767989/influencer-campaigns/Hamptons_2018/post_03.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767990/influencer-campaigns/Hamptons_2018/post_04.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767990/influencer-campaigns/Hamptons_2018/post_05.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767991/influencer-campaigns/Hamptons_2018/post_06.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767992/influencer-campaigns/Hamptons_2018/post_07.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767993/influencer-campaigns/Hamptons_2018/post_08.webp"
 press:
   -
 showInProjects: true

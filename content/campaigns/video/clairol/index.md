@@ -2,7 +2,7 @@
 client: "Clairol"
 path: "/campaigns/clairol/"
 category: "video"
-coverImage: "https://lh3.google.com/u/0/d/1b28dRnAJ0Q8zXAwPaNs-vHBaheCYScKO"
+coverImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767909/influencer-campaigns/Clairol/clairol-cover-image.webp"
 heroImage: "https://lh3.google.com/u/0/d/1Op-a2zV5TCq6zHenjJsizfglr22SvPZp"
 sub: "https://lh3.google.com/u/0/d/12_qiMQZ3nyV8YpzkBj5GvVh_gVIpC6EA"
 subType: "image"
