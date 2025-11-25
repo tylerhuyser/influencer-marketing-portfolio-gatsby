@@ -1,5 +1,5 @@
 ---
-client: "Glade"
+client: "Glade (Video)"
 path: "/campaigns/glade/"
 category: "video"
 coverImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767978/influencer-campaigns/Glade/glade-cover-image.webp"

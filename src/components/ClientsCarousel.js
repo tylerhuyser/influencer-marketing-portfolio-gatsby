@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { useStaticQuery, graphql } from 'gatsby';
+import LazyImage from './shared/LazyImage';
 
 import "../styles/ClientsCarousel.css"
 
@@ -106,7 +107,13 @@ export default function ClientsCarousel() {
                   '--right-original-position': `calc(${xPosition + 100}% - (100% * ${clients.length} - (10px * ${clients.length}) )`,
                   '--left-original-position': `calc(${xPosition - 100}% - (100% * ${clients.length}) - (10px * ${clients.length}) )`,
                 }} >
-                  <img className='client-logo' id={`${client}-logo`} alt={`${client}-logo`} src={logo} />
+                  <LazyImage
+                    src={logo}
+                    placeholder={logo.replace('/upload/', '/upload/w_20/e_blur:200/')}
+                    alt={`${client}-logo`}
+                    className='client-logo'
+                    id={`${client}-logo`}
+                  />
                 </div>
               )
             })}
@@ -123,7 +130,13 @@ export default function ClientsCarousel() {
                   '--right-original-position': `calc(${xPosition + 100}% - (100% * ${clients.length}) - (10px * ${clients.length}) )`,
                   '--left-original-position': `calc(${xPosition - 100}% - (100% * ${clients.length}) - (10px * ${clients.length}) )`,
                 }} >
-                  <img className='client-logo' id={`${client}-logo`} alt={`${client}-logo`} src={logo} />
+                  <LazyImage
+                    src={logo}
+                    placeholder={logo.replace('/upload/', '/upload/w_20/e_blur:200/')}
+                    alt={`${client}-logo`}
+                    className='client-logo'
+                    id={`${client}-logo`}
+                  />
                 </div>
               )
           })}
@@ -140,7 +153,13 @@ export default function ClientsCarousel() {
                   '--right-original-position': `calc(${xPosition + 100}% - (100% * ${clients.length}) - (10px * ${clients.length})  )`,
                   '--left-original-position': `calc(${xPosition - 100}% - (100% * ${clients.length}) - (10px * ${clients.length}) )`,
                 }} >
-                  <img className='client-logo' id={`${client}-logo`} alt={`${client}-logo`} src={logo} />
+                  <LazyImage
+                    src={logo}
+                    placeholder={logo.replace('/upload/', '/upload/w_20/e_blur:200/')}
+                    alt={`${client}-logo`}
+                    className='client-logo'
+                    id={`${client}-logo`}
+                  />
                 </div>
               )
             })}

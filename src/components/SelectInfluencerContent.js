@@ -1,5 +1,6 @@
 import React from 'react'
 import { useStaticQuery, graphql, Link } from 'gatsby';
+import LazyImage from './shared/LazyImage';
  
 import "../styles/SelectInfluencerContent.css"
 
@@ -42,7 +43,13 @@ export default function SelectInfluencerContent() {
 
             {/* <GatsbyImage image={postFileLink} alt={`${influencerName}-${postFileLink}`} src={postFileLink} /> */}
 
-            <img className='influencer-post' id={`${influencerName}-post`} key={influencerName} alt={`${influencerName}-${postFileLink}`} src={postFileLink} />
+            <LazyImage
+              src={postFileLink}
+              placeholder={postFileLink.replace('/upload/', '/upload/w_20/e_blur:200/')}
+              alt={`${influencerName}-${postFileLink}`}
+              className='influencer-post'
+              id={`${influencerName}-post`} key={influencerName}
+            />
             
           </Link>
 

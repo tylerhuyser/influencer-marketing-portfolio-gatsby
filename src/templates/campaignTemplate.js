@@ -1,5 +1,6 @@
 import React from "react"
 import { graphql } from "gatsby"
+import LazyImage from "../components/shared/LazyImage"
 
 import Layout from "../components/shared/Layout"
 import SimilarCampaigns from "../components/SimilarCampaigns"
@@ -25,7 +26,13 @@ export default function CampaignTemplate({ pageContext, data }) {
         <div className="campaign-detail-container">
                     
           <h1 className="campaign-detail-title" id={`${client} title`}>{client}</h1>             
-          <img className='header-image' id="hero-image" src={heroImage} alt="header-hero" />
+          <LazyImage
+            src={heroImage}
+            placeholder={heroImage.replace('/upload/', '/upload/w_20/e_blur:200/')}
+            alt="header-hero"
+            className='header-image'
+            id="hero-image"
+          />
               
           <div className="campaign-detail-body-container">      
             <div className="campaign-detail-section-container" id="overview-section">
@@ -45,7 +52,13 @@ export default function CampaignTemplate({ pageContext, data }) {
           
           {subType === "image" && sub.length > 0 ?
             
-            <img className='header-image' id="sub-image" src={sub} alt="non-hero" />
+            <LazyImage
+              src={sub}
+              placeholder={sub.replace('/upload/', '/upload/w_20/e_blur:200/')}
+              alt="non-hero"
+              className='header-image'
+              id="sub-image"
+            />
             
             :
           
@@ -77,14 +90,26 @@ export default function CampaignTemplate({ pageContext, data }) {
                   {post.frontmatter.livePostLink === "N/A" ? 
                     
                     <div className="influencer-content-link">
-                      <img className="influencer-content-image" key={i} src={post.frontmatter.postFileLink} alt="influencer-content" />
+                      <LazyImage
+                        src={post.frontmatter.postFileLink}
+                        placeholder={post.frontmatter.postFileLink.replace('/upload/', '/upload/w_20/e_blur:200/')}
+                        alt="influencer-content"
+                        className="influencer-content-image"
+                        key={i}
+                      />
                       <p className='influencer-name'>{post.frontmatter.influencerName} {post.frontmatter.influencerHandle}</p>                  
                     </div>
                 
                   :
                     
                     <a href={post.frontmatter.livePostLink} className="influencer-content-link">
-                      <img className="influencer-content-image" key={i} src={post.frontmatter.postFileLink} alt="influencer-content" />
+                      <LazyImage
+                        src={post.frontmatter.postFileLink}
+                        placeholder={post.frontmatter.postFileLink.replace('/upload/', '/upload/w_20/e_blur:200/')}
+                        alt="influencer-content"
+                        className="influencer-content-image"
+                        key={i}
+                      />
                       <p className='influencer-name'>{post.frontmatter.influencerName} ({post.frontmatter.influencerHandle})</p>                  
                     </a>
               
@@ -105,7 +130,13 @@ export default function CampaignTemplate({ pageContext, data }) {
                 // console.log(article)
                 return (
                   <a href={ article.frontmatter.removeLink ? `${article.frontmatter.pressLink.split('.com/')[0]}.com` : article.frontmatter.pressLink} className="press-link" target='_blank'>
-                    <img className="publisher-image" key={i} src={article.frontmatter.publisherImage} alt="publisher-logo" />
+                    <LazyImage
+                      src={article.frontmatter.publisherImage}
+                      placeholder={article.frontmatter.publisherImage.replace('/upload/', '/upload/w_20/e_blur:200/')}
+                      alt="publisher-logo"
+                      className="publisher-image"
+                      key={i}
+                    />
                     <p className='publisher-name'>{article.frontmatter.publisherName} // ({article.frontmatter.blockQuote})</p>
                   </a>
                 )

@@ -1,5 +1,6 @@
 import React from 'react'
 import { Link } from 'gatsby';
+import LazyImage from './shared/LazyImage';
 
 export default function SimilarCampaigns (props) {
 
@@ -20,7 +21,13 @@ export default function SimilarCampaigns (props) {
 
               <Link className="similar-campaign-card" id={client} to={`${path}`} key={i} >
 
-                <img className='similar-campaign-image' id={`${client}-campaign-card-image`} src={coverImage} alt={`${client}-cover`} />
+                <LazyImage
+                  src={coverImage}
+                  placeholder={coverImage.replace('/upload/', '/upload/w_20/e_blur:200/')}
+                  alt={`${client}-cover`}
+                  className='similar-campaign-image'
+                  id={`${client}-campaign-card-image`}
+                />
                 
                 <p className="similar-campaign-title" id={`${client} title`}>{client}</p>
                   

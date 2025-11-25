@@ -1,14 +1,21 @@
 import React from "react";
+import LazyImage from "./shared/LazyImage";
 
 import "../styles/About.css"
 
 export default function About() {
+
+  const ABOUTIMAGESRC = 'https://res.cloudinary.com/tylerhuyser/image/upload/v1763767997/influencer-campaigns/Headshot_-_2020_-_Occam.webp'
   
   return (
     <div className="about-container" id="about-section">
 
       <div className="headshot-container">
-        <img className="about-headshot" alt="about-headshot" src='https://res.cloudinary.com/tylerhuyser/image/upload/v1763767997/influencer-campaigns/Headshot_-_2020_-_Occam.webp' />
+        <LazyImage
+          src={ABOUTIMAGESRC}
+          placeHolder={ABOUTIMAGESRC.replace('/upload/', '/upload/w_20/e_blur:200/')}
+          alt="about-headshot"
+          className="about-headshot" />
       </div>
 
       <p className="about-stat" id="campaigns"><span className="about-stat-quantity">50+</span><br />Campaigns</p>

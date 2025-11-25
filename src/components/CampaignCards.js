@@ -1,5 +1,6 @@
 import React from 'react'
 import { useStaticQuery, graphql, Link } from 'gatsby';
+import LazyImage from './shared/LazyImage';
 
 import "../styles/CampaignCards.css"
 
@@ -44,7 +45,13 @@ export default function CampaignCard (props) {
 
               <Link className="campaign-card-container" id={client} to={`${path}`} key={key} >
 
-                <img className='campaign-card-image' id="cover-image" src={coverImage} alt={`${client}-cover`} />
+                <LazyImage
+                  src={coverImage}
+                  placeholder={coverImage.replace('/upload/', '/upload/w_20/e_blur:200/')}
+                  alt={`${client}-cover`}
+                  className='campaign-card-image'
+                  id="cover-image"
+                />
                 
                 <p className="campaign-card-title" id={`${client} title`}>{client}</p>
                   
