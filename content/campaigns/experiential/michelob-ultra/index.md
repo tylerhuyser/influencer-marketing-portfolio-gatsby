@@ -2,9 +2,9 @@
 client: "Michelob Ultra: Vixen Workout"
 path: "/campaigns/michelob-ultra/"
 category: "experiential"
-coverImage: "https://lh3.google.com/u/0/d/1x-hxnoyrytpzkqVI6WrvKn-ZWCMmPhWp"
-heroImage: "https://lh3.google.com/u/0/d/1nkUM2tjbcoFKD3_czntVtLvve99n9WDb"
-sub: "https://lh3.google.com/u/0/d/1tEBWc9tCULo9188E6ElEd5m0DQ27SuTo"
+coverImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768111/influencer-campaigns/Michelob_Ultra/michelob-ultra-cover-image.webp"
+heroImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768112/influencer-campaigns/Michelob_Ultra/michelob-ultra-hero-image.webp"
+sub: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768112/influencer-campaigns/Michelob_Ultra/michelob-ultra-sub-image.webp"
 subType: "image"
 stats:
   - Four (4) Influencers (4 x Micro Influencers)
@@ -15,10 +15,10 @@ tags:
   - fitness
   - alcohol
 posts:
-  - "https://lh3.google.com/u/0/d/1V8IsDuzyYauLb72QnQ4TL_LBOXXascYD"
-  - "https://lh3.google.com/u/0/d/1j4UGpwUYLhLQqyEaX6yrfINf15Eta7u9"
-  - "https://lh3.google.com/u/0/d/1CQ3lEKWTR7RLCAt7jeh4p7HJ3tAXJdVw"
-  - "https://lh3.google.com/u/0/d/1sFVAgYiFWrRg94zjGtji8ggkkyjSqK1d"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768113/influencer-campaigns/Michelob_Ultra/post_01_claudia_moreno_claudiamorenog.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768114/influencer-campaigns/Michelob_Ultra/post_02_hannah_griffin_hmgriff11.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768114/influencer-campaigns/Michelob_Ultra/post_03_isabela_ramos_cano_isaramoscano.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768115/influencer-campaigns/Michelob_Ultra/post_04_nathalia_ferr_nathaliaferr.webp"
 press:
   -
 showInProjects: true

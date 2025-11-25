@@ -2,5 +2,5 @@
 influencerName: "Claudia Moreno"
 influencerHandle: "@claudiamorenog"
 livePostLink: "https://www.instagram.com/p/BrQAaIlgPYj/"
-postFileLink: "https://lh3.google.com/u/0/d/1V8IsDuzyYauLb72QnQ4TL_LBOXXascYD"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768113/influencer-campaigns/Michelob_Ultra/post_01_claudia_moreno_claudiamorenog.webp"
 ---

@@ -2,5 +2,5 @@
 influencerName: "Nathalia Ferr"
 influencerHandle: "@nathalia.ferr"
 livePostLink: "https://www.instagram.com/p/BrOGUQvgzoQ/"
-postFileLink: "https://lh3.google.com/u/0/d/1sFVAgYiFWrRg94zjGtji8ggkkyjSqK1d"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768115/influencer-campaigns/Michelob_Ultra/post_04_nathalia_ferr_nathaliaferr.webp"
 ---
