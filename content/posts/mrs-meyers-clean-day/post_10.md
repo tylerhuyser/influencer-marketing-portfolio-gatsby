@@ -2,5 +2,5 @@
 influencerName: "Rachel Archer"
 influencerHandle: "@archers_all_stars"
 livePostLink: "https://www.instagram.com/p/Bo1XegfD6BR/"
-postFileLink: "https://lh3.google.com/u/0/d/13O9JOndq6ZIouxzo0a_JzuCDeGrzNKB0"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768127/influencer-campaigns/Mrs_Meyers/post_10_rachel_archer_archers_all_stars.webp"
 ---

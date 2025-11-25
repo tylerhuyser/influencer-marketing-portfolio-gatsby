@@ -2,5 +2,5 @@
 influencerName: "Danielle Shaffer"
 influencerHandle: "@citygirlgonemom"
 livePostLink: "https://www.instagram.com/p/Bnj1AufFHXm/"
-postFileLink: "https://lh3.google.com/u/0/d/1bI_KFVaHyJhkd_ak80Km1CQofTzfssDH"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768119/influencer-campaigns/Mrs_Meyers/post_01_danielle_shaffer_citygirlgonemom.webp"
 ---

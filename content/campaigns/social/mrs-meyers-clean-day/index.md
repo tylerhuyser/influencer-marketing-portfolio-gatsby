@@ -2,9 +2,9 @@
 client: "Mrs. Meyer's Clean Day"
 path: "/campaigns/mrs-meyers-clean-day/"
 category: "social"
-coverImage: "https://lh3.google.com/u/0/d/1Z_bWNHe3pBufmSi7w0R6ZGVZpRrWqVrZ"
-heroImage: "https://lh3.google.com/u/0/d/1etkjcLxqmWBFX7OtxApa7pLDOKZUop28"
-sub: "https://lh3.google.com/u/0/d/10RQztN0Fd7gzmBrv30kvU6h1tYJg5jUd"
+coverImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768117/influencer-campaigns/Mrs_Meyers/mrs-meyers-clean-day-cover-image.webp"
+heroImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768118/influencer-campaigns/Mrs_Meyers/mrs-meyers-clean-day-sub-image.webp"
+sub: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768118/influencer-campaigns/Mrs_Meyers/mrsmeyers-clean-day-hero-image.webp"
 subType: "image"
 stats:
   - Four (4) Influencers (3 x Rising, 1 x Macro)
@@ -14,18 +14,18 @@ tags:
   - consumer packaged goods
   - home care
 posts:
-  - "https://lh3.google.com/u/0/d/1bI_KFVaHyJhkd_ak80Km1CQofTzfssDH"
-  - "https://lh3.google.com/u/0/d/1wqp9Fh5RdElhtS6A_P-PftLyAvc-Rwv2"
-  - "https://lh3.google.com/u/0/d/1FkyFRp36uPBDmXhrqZn0a_sGBGDebZbA"
-  - "https://lh3.google.com/u/0/d/1ShQK-seQoeGzCgrxw6CfUrxFsmEP_ADk"
-  - "https://lh3.google.com/u/0/d/1vNR-d0hpG1ZKhwIsZH8tNfbDNo6JB6IL"
-  - "https://lh3.google.com/u/0/d/1uAhRDtwu51nMpF6nT2zaWVjzVyLca-LN"
-  - "https://lh3.google.com/u/0/d/1NMJH57QA__Xf2kNq9fYQxAWIf1RbuJmz"
-  - "https://lh3.google.com/u/0/d/1nXxBg6WBcHIOY_bQAbAEO5KSz05bmWN6"
-  - "https://lh3.google.com/u/0/d/1-apftPuZC3kY_SgS4ChS2GJXhi5zU8Iz"
-  - "https://lh3.google.com/u/0/d/13O9JOndq6ZIouxzo0a_JzuCDeGrzNKB0"
-  - "https://lh3.google.com/u/0/d/17ykC__pL40m24CWsp5X4TwTvVpJgFTH2"
-  - "https://lh3.google.com/u/0/d/1ec4IswW4DRCNsHne7VC9sjTE6V5KyYmq"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768119/influencer-campaigns/Mrs_Meyers/post_01_danielle_shaffer_citygirlgonemom.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768120/influencer-campaigns/Mrs_Meyers/post_02_danielle_shaffer_citygirlgonemom.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768121/influencer-campaigns/Mrs_Meyers/post_03_danielle_shaffer_citygirlgonemom.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768122/influencer-campaigns/Mrs_Meyers/post_04_danielle_shaffer_citygirlgonemom.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768123/influencer-campaigns/Mrs_Meyers/post_05_nicole_digiacobbe_thedigigirls.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768124/influencer-campaigns/Mrs_Meyers/post_06_nicole_digiacobbe_thedigigirls.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768125/influencer-campaigns/Mrs_Meyers/post_07_nicole_digiacobbe_thedigigirls.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768125/influencer-campaigns/Mrs_Meyers/post_08_nicole_digiacobbe_thedigigirls.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768127/influencer-campaigns/Mrs_Meyers/post_09_rachel_archer_archers_all_stars.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768127/influencer-campaigns/Mrs_Meyers/post_10_rachel_archer_archers_all_stars.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768128/influencer-campaigns/Mrs_Meyers/post_11_rachel_archer_archers_all_stars.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768129/influencer-campaigns/Mrs_Meyers/post_12_rachel_archer_archers_all_stars.webp"
 press:
   -
 showInProjects: true
@@ -36,3 +36,4 @@ After announcing the release of their Compassion Flower line of products, Mrs. M
 The Compassion Flower is a proprietary hybrid of Viola and Pansy, symbolizing empathy and thoughtfulness, with the purpose of growing kindness. In purchasing a Compassion Flower product, a portion of proceeds goes towards donating Growing Compassion Gardening Kits to schools nationwide, providing tools and lesson plans for teaching kids kindness.
 
 As such, we assembled an influencer program featuring two primary resources for learning compassion: mothers and teachers. Each influencer was given a Compassion Flower kit and instructed to create content centered on lessons of compassion, featuring their family or students.
+"
