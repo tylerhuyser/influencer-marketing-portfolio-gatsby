@@ -1,4 +1,4 @@
 ---
 client: "Kenneth Cole"
-logo: "https://lh3.google.com/u/0/d/1B33KK3BXjwcUW-nFMvSzuO94a8jcx8lh"
+logo: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767921/influencer-campaigns/Client_Logos/Kenneth_Cole_Logo_1000x1000.webp"
 ---

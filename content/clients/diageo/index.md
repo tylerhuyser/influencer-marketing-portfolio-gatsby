@@ -1,4 +1,4 @@
 ---
 client: "Diageo"
-logo: "https://lh3.google.com/u/0/d/145W07gSBkSOqFmJmgTXq8F6jz2xjJUDT"
+logo: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767917/influencer-campaigns/Client_Logos/Diageo_Logo_1000x1000.webp"
 ---

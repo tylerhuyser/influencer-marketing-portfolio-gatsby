@@ -1,4 +1,4 @@
 ---
 client: "Procter & Gamble"
-logo: "https://lh3.google.com/u/0/d/1Xyxz8SdI6O0tKv51ILAse7yCHR4Qf2tT"
+logo: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767922/influencer-campaigns/Client_Logos/PG_Logo_1000x1000.webp"
 ---

@@ -1,4 +1,4 @@
 ---
 client: "Budweiser"
-logo: "https://lh3.google.com/u/0/d/1FrwE7GtUQKU0U3PiQcpnmsHbQQjjTDNQ"
+logo: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767913/influencer-campaigns/Client_Logos/Budweiser_Logo_1000x1000.webp"
 ---

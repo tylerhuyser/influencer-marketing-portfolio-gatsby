@@ -1,4 +1,4 @@
 ---
 client: "Dove Chocolate"
-logo: "https://lh3.google.com/u/0/d/1ndfhHxICXHLTa93t3CK99ormcFe7mb5_"
+logo: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767918/influencer-campaigns/Client_Logos/Dove_Chocolates_Logo_1000x1000.webp"
 ---

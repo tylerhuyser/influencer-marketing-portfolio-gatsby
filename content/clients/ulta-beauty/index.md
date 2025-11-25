@@ -1,4 +1,4 @@
 ---
 client: "Ulta Beauty"
-logo: "https://lh3.google.com/u/0/d/1B_KRKvoTyNsEWMg9tan5HsPNP83QpEX9"
+logo: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767923/influencer-campaigns/Client_Logos/Ulta_Beauty_Logo_1000x1000.webp"
 ---

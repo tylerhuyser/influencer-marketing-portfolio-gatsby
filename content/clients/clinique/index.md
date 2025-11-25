@@ -1,4 +1,4 @@
 ---
 client: "Clinique"
-logo: "https://lh3.google.com/u/0/d/1i4QHngR7lJt4uWQnqjKvQc2L6BfxfYmO"
+logo: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767916/influencer-campaigns/Client_Logos/Clinique_Logo_1000x1000.webp"
 ---

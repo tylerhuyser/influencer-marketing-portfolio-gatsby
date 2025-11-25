@@ -1,4 +1,4 @@
 ---
 client: "Calvin Klein"
-logo: "https://lh3.google.com/u/0/d/1TtU4nfKiuRPvFuvC7weDV9QP0_h2fwMA"
+logo: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767914/influencer-campaigns/Client_Logos/Calvin_Klein_Logo_1000x1000.webp"
 ---

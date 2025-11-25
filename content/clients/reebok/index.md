@@ -1,4 +1,4 @@
 ---
 client: "Reebok"
-logo: "https://lh3.google.com/u/0/d/1GPbxN8vyZPLP1H35dRPg-hlUv-BM_9vt"
+logo: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767923/influencer-campaigns/Client_Logos/Reebok_Logo_1000x1000.webp"
 ---
