@@ -8,7 +8,7 @@ export default function About() {
     <div className="about-container" id="about-section">
 
       <div className="headshot-container">
-        <img className="about-headshot" alt="about-headshot" src='https://lh3.google.com/u/0/d/1ZHH1tsOlWbTDICNWINhoo0Hj29Mu-x-z' />
+        <img className="about-headshot" alt="about-headshot" src='https://res.cloudinary.com/tylerhuyser/image/upload/v1763767997/influencer-campaigns/Headshot_-_2020_-_Occam.webp' />
       </div>
 
       <p className="about-stat" id="campaigns"><span className="about-stat-quantity">50+</span><br />Campaigns</p>
