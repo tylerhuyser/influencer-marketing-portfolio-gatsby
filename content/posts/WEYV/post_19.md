@@ -2,5 +2,5 @@
 influencerName: "Gabriela Vera"
 influencerHandle: "@gstylediaries"
 livePostLink: "https://www.instagram.com/p/BnkKuSCHbjC/?taken-by=gverastyle"
-postFileLink: "https://lh3.google.com/u/0/d/1QXGM9NvVaHXI5C8yQ1EV2gOUN5rvSIyV"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768219/influencer-campaigns/WEYV/post_19_gabriela_vera_gverastylediaries.webp"
 ---

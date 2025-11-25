@@ -2,5 +2,5 @@
 influencerName: "Andrea Coonrod"
 influencerHandle: "@andrea.coonrod"
 livePostLink: "https://www.instagram.com/p/BnmkoZpjSwy/?taken-by=andrea.coonrod"
-postFileLink: "https://lh3.google.com/u/0/d/1uI9DAgB_GixlE5ATPU739_AsAACHojLP"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768197/influencer-campaigns/WEYV/post_01_andrea_coonrod_andreacoonrod.webp"
 ---
