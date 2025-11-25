@@ -2,9 +2,9 @@
 client: "Neutrogena"
 path: "/campaigns/neutrogena/"
 category: "social"
-coverImage: "https://lh3.google.com/u/0/d/1s3AoQsgDz_5_YskpILnPkmvL7zIDNrRT"
-heroImage: "https://lh3.google.com/u/0/d/1LB1BF4NWoNtigaPK2holihOaw7j6LG4-"
-sub: "https://lh3.google.com/u/0/d/19CA97_SOcatm-1P6CNdf7K7vIaRzj2tU"
+coverImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768130/influencer-campaigns/Neutrogena/neutrogena-cover-image.webp"
+heroImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768130/influencer-campaigns/Neutrogena/neutrogena-hero-image.webp"
+sub: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768131/influencer-campaigns/Neutrogena/neutrogena-sub-image.webp"
 subType: "image"
 stats:
   - Eight (8) Influencers
@@ -15,13 +15,13 @@ tags:
   - beauty
   - skincare
 posts:
-  - "https://lh3.google.com/u/0/d/1EWZNAKRlT9VFW6LeTqcAEZJjIfVAPPPa"
-  - "https://lh3.google.com/u/0/d/1XW3TGEwpCRJiF_AUqz9DcQWRAMy33mK6"
-  - "https://lh3.google.com/u/0/d/1YPB7tG1gUd7GcMvKPRmAWdfdu1q5R7DU"
-  - "https://lh3.google.com/u/0/d/1nkxTCWk5e88eDKl_gnkPRLdizeP4bZ38"
-  - "https://lh3.google.com/u/0/d/1ty8dIAIcxtZ7ZWQvK4rZYihCdnb-pqT_"
-  - "https://lh3.google.com/u/0/d/1fNc3XISVI3lqVRfvuECCiCSeu-KHWIcb"
-  - "https://lh3.google.com/u/0/d/1Xz2gW8npAlJxoEDtdGub5U5Asbi9q9dn"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768132/influencer-campaigns/Neutrogena/post_01_britt_simerson_brittsimerson.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768132/influencer-campaigns/Neutrogena/post_02_courtney_danielle_curlsandcouture.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768133/influencer-campaigns/Neutrogena/post_03_emily_vartanian_emilyvartanian.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768134/influencer-campaigns/Neutrogena/post_04_maryam_ghafarinia_glamandposh.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768134/influencer-campaigns/Neutrogena/post_05_sangyay_itssangtime.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768135/influencer-campaigns/Neutrogena/post_06_tolani_tolaniav.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768136/influencer-campaigns/Neutrogena/post_07_vicky_logan_victoriouslogan.webp"
 press:
   -
 showInProjects: true

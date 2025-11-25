@@ -2,5 +2,5 @@
 influencerName: "Emily Vartanian"
 influencerHandle: "@emilyvartanian"
 livePostLink: "https://www.instagram.com/p/Br7-TbvljlN/"
-postFileLink: "https://lh3.google.com/u/0/d/1YPB7tG1gUd7GcMvKPRmAWdfdu1q5R7DU"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768133/influencer-campaigns/Neutrogena/post_03_emily_vartanian_emilyvartanian.webp"
 ---
