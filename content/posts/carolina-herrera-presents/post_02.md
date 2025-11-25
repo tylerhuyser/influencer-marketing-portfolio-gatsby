@@ -2,5 +2,5 @@
 influencerName: "Linh Niller"
 influencerHandle: "@linhniller"
 livePostLink: "https://www.instagram.com/p/BwIJPOQh9lk/"
-postFileLink: "https://lh3.google.com/u/0/d/1CnCNqSOL2sOovHC-fIOtKztXBMvqLWLp"
+postFileLink: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767902/influencer-campaigns/Carolina_Herrera_Presents__Good_to_be_Bad/post_02_linh_niller_linhniller.webp"
 ---

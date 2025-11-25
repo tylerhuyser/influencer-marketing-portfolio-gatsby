@@ -2,9 +2,9 @@
 client: "Carolina Herrera Presents: Good to be Bad"
 path: "/campaigns/carolina-herrera-presents/"
 category: "experiential"
-coverImage: "https://lh3.google.com/u/0/d/1DMCoEWrSaZT9ntYqhrHO8TmoFpQfxaYi"
-heroImage: "https://lh3.google.com/u/0/d/1ywJcvnW0OV6sC7t9J6yk9dXE5HRhFXWk"
-sub: "https://lh3.google.com/u/0/d/1jU4NgIQX-qkMDUhlaDFztBt7kreSAEh_"
+coverImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767899/influencer-campaigns/Carolina_Herrera_Presents__Good_to_be_Bad/carolina-herrera-event-cover-image.webp"
+heroImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767900/influencer-campaigns/Carolina_Herrera_Presents__Good_to_be_Bad/carolina-herrera-event-hero-image.webp"
+sub: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767900/influencer-campaigns/Carolina_Herrera_Presents__Good_to_be_Bad/carolina-herrera-event-sub-image.webp"
 subType: "image"
 stats:
   - Five (5) Influencers (Rising Tier)
@@ -15,11 +15,11 @@ tags:
   - fragrance
   - beauty
 posts:
-  - "https://lh3.google.com/u/0/d/1r3d_TAk0lDW1HU1xiXDUWeEUHh64j6RG"
-  - "https://lh3.google.com/u/0/d/1CnCNqSOL2sOovHC-fIOtKztXBMvqLWLp"
-  - "https://lh3.google.com/u/0/d/1K6bUibsrlWGwzheDwq_Op0Fqv0ZmdVaP"
-  - "https://lh3.google.com/u/0/d/1Pq-QqebSbcTPLHTzKdyXA17Nfh5d8GaK"
-  - "https://lh3.google.com/u/0/d/1r8zaVNZNKvHTVvLjhUMPReDiH_OZAtqW"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767901/influencer-campaigns/Carolina_Herrera_Presents__Good_to_be_Bad/post_01_elena_michelle_bukowski_anewyorkloveaffair.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767902/influencer-campaigns/Carolina_Herrera_Presents__Good_to_be_Bad/post_02_linh_niller_linhniller.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767902/influencer-campaigns/Carolina_Herrera_Presents__Good_to_be_Bad/post_03_lily_styleinbeta.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767903/influencer-campaigns/Carolina_Herrera_Presents__Good_to_be_Bad/post_04_gail_gonzalez_simplygailg.webp"
+  - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767905/influencer-campaigns/Carolina_Herrera_Presents__Good_to_be_Bad/post_05a_flo_pereira_flopereira.webp"
 press:
   - "https://www.purewow.com/event/carolina-herrera-good-to-be-bad-2019"
 showInProjects: true
