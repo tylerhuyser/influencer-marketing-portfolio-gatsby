@@ -19,7 +19,7 @@ export default function SimilarCampaigns (props) {
 
             return (
 
-              <Link className="similar-campaign-card" id={client} to={`${path}`} key={i} >
+              <Link className="similar-campaign-card" id={client} to={`${path}`} key={key} >
 
                 <LazyImage
                   src={coverImage}

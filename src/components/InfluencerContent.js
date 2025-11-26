@@ -14,7 +14,10 @@ export default function InfluencerContent(props) {
           
           {post.frontmatter.livePostLink === "N/A" ? 
             
-            <div className="influencer-content-link">
+            <div
+              className="influencer-content-link"
+              key={`${post.frontmatter.influencerHandle}${i}`}
+            >
               <LazyImage
                 src={post.frontmatter.postFileLink}
                 placeholder={post.frontmatter.postFileLink.replace('/upload/', '/upload/w_20/e_blur:200/')}
@@ -27,7 +30,13 @@ export default function InfluencerContent(props) {
         
           :
             
-            <a href={post.frontmatter.livePostLink} className="influencer-content-link">
+            <a
+              href={post.frontmatter.livePostLink}
+              className="influencer-content-link"
+              key={`${post.frontmatter.influencerHandle}${i}`}
+              target='_blank'
+              rel="noopener noreferrer"
+            >
               <LazyImage
                 src={post.frontmatter.postFileLink}
                 placeholder={post.frontmatter.postFileLink.replace('/upload/', '/upload/w_20/e_blur:200/')}

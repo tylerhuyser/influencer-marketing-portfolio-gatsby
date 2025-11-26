@@ -8,11 +8,11 @@ export default function PressArticles(props) {
   return (
     <div className="press-articles-container">
       {press.map((article, i) => {
-        // console.log(article)
         return (
           <a
             href={article.frontmatter.removeLink ? `${article.frontmatter.pressLink.split('.com/')[0]}.com` : article.frontmatter.pressLink}
             className="press-link"
+            key={`${article.frontmatter.pressLink}${i}`}
             target='_blank'
             rel="noopener noreferrer"
           >
