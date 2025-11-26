@@ -28,10 +28,10 @@ posts:
   - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768065/influencer-campaigns/Kenneth_Cole/post_12_viviane_audi_vivianeaudi.webp"
   - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768066/influencer-campaigns/Kenneth_Cole/post_13_chiara_casiraghi_chiaracasiraghi.webp"
 press:
-  - "https://www.one37pm.com/style/kenneth-cole-kevin-benejam-style"
-  - "https://www.one37pm.com/style/kenneth-cole-dathias-godfrey-style"
-  - "https://www.one37pm.com/style/kenneth-cole-igee-okafor"
-  - "https://www.one37pm.com/style/kenneth-cole-luce-ugoji-style"
+  - "https://web.archive.org/web/20250324163206/https://www.one37pm.com/style/kenneth-cole-kevin-benejam-style"
+  - "https://web.archive.org/web/20250326013600/https://www.one37pm.com/style/kenneth-cole-dathias-godfrey-style"
+  - "https://web.archive.org/web/20250321101731/https://www.one37pm.com/style/kenneth-cole-igee-okafor"
+  - "https://web.archive.org/web/20250430011339/https://www.one37pm.com/style/kenneth-cole-luce-ugoji-style"
 showInProjects: true
 ---
 
