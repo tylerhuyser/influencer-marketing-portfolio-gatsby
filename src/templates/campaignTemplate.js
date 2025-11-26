@@ -3,6 +3,7 @@ import { graphql } from "gatsby"
 import LazyImage from "../components/shared/LazyImage"
 
 import Layout from "../components/shared/Layout"
+import PressArticles from "../components/PressArticles"
 import SimilarCampaigns from "../components/SimilarCampaigns"
 
 import "../styles/CampaignTemplate.css"
@@ -125,23 +126,7 @@ export default function CampaignTemplate({ pageContext, data }) {
 
             <div className="campaign-detail-section-container" id="press-section">
               <p className='campaign-detail-section-header' id="press-header">Press</p>
-              <div className="press-articles-container">
-              {press.map((article, i) => {
-                // console.log(article)
-                return (
-                  <a href={ article.frontmatter.removeLink ? `${article.frontmatter.pressLink.split('.com/')[0]}.com` : article.frontmatter.pressLink} className="press-link" target='_blank'>
-                    <LazyImage
-                      src={article.frontmatter.publisherImage}
-                      placeholder={article.frontmatter.publisherImage.replace('/upload/', '/upload/w_20/e_blur:200/')}
-                      alt="publisher-logo"
-                      className="publisher-image"
-                      key={i}
-                    />
-                    <p className='publisher-name'>{article.frontmatter.publisherName} // ({article.frontmatter.blockQuote})</p>
-                  </a>
-                )
-              })}
-              </div>
+              <PressArticles press={press} />
             </div>
           
             :
