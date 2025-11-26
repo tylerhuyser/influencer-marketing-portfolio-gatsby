@@ -3,6 +3,7 @@ import { graphql } from "gatsby"
 import LazyImage from "../components/shared/LazyImage"
 
 import Layout from "../components/shared/Layout"
+import InfluencerContent from "../components/InfluencerContent"
 import PressArticles from "../components/PressArticles"
 import SimilarCampaigns from "../components/SimilarCampaigns"
 
@@ -12,9 +13,10 @@ export default function CampaignTemplate({ pageContext, data }) {
 
   const { markdownRemark, similarCampaigns } = data
   const { frontmatter, html } = markdownRemark
-  const { client, heroImage, sub, subType, stats, tags, press, posts } = frontmatter;
+  const { client, heroImage, sub, subType, stats, press, posts } = frontmatter;
+  // const { tags } = frontmatter
 
-  console.log(frontmatter)
+  // console.log(frontmatter)
 
   // console.log(similarCampaigns)
 
@@ -82,44 +84,7 @@ export default function CampaignTemplate({ pageContext, data }) {
             
           <div className="campaign-detail-section-container" id="influencer-content-section">
             <p className='campaign-detail-section-header' id="influencer-content-header">Select Influencer Content</p>
-            <div className="influencer-content-container">
-
-              {posts && posts.map((post, i) => (
-
-                <>
-                  
-                  {post.frontmatter.livePostLink === "N/A" ? 
-                    
-                    <div className="influencer-content-link">
-                      <LazyImage
-                        src={post.frontmatter.postFileLink}
-                        placeholder={post.frontmatter.postFileLink.replace('/upload/', '/upload/w_20/e_blur:200/')}
-                        alt="influencer-content"
-                        className="influencer-content-image"
-                        key={i}
-                      />
-                      <p className='influencer-name'>{post.frontmatter.influencerName} {post.frontmatter.influencerHandle}</p>                  
-                    </div>
-                
-                  :
-                    
-                    <a href={post.frontmatter.livePostLink} className="influencer-content-link">
-                      <LazyImage
-                        src={post.frontmatter.postFileLink}
-                        placeholder={post.frontmatter.postFileLink.replace('/upload/', '/upload/w_20/e_blur:200/')}
-                        alt="influencer-content"
-                        className="influencer-content-image"
-                        key={i}
-                      />
-                      <p className='influencer-name'>{post.frontmatter.influencerName} ({post.frontmatter.influencerHandle})</p>                  
-                    </a>
-              
-                  }
-
-                </>
-              ))}
-
-            </div> 
+            <InfluencerContent posts={posts} />
           </div>
 
           { press && press.length > 0 && press[0] !== null ?

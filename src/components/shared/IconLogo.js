@@ -6,7 +6,7 @@ export default function IconLogo(props) {
   
   const { windowSize, component } = props
 
-  console.log(windowSize)
+  // console.log(windowSize)
 
   return (
   <>
