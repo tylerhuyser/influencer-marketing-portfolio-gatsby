@@ -4,8 +4,9 @@ path: "/campaigns/ulta-beauty/"
 category: "video"
 coverImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768191/influencer-campaigns/Ulta_Beauty/ulta-beauty-cover-image.webp"
 heroImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768191/influencer-campaigns/Ulta_Beauty/ulta-beautry-hero-image.webp"
-sub: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fblink%2Fvideos%2F1061371434036718%2F&show_text=0"
+sub: "https://res.cloudinary.com/tylerhuyser/video/upload/v1764196166/influencer-campaigns/Videos/sub_video_ulta-beauty_tz8key.mp4"
 subType: "video"
+subVideo: "vertical"
 stats:
   - Twelve (12) Influencers
   - Twelve (12) Pieces of Content

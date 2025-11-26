@@ -3,6 +3,8 @@ import { graphql } from "gatsby"
 import LazyImage from "../components/shared/LazyImage"
 
 import Layout from "../components/shared/Layout"
+import CampaignDetail from "../components/CampaignDetail"
+import CampaignSubSection from "../components/CampaignSubSection"
 import InfluencerContent from "../components/InfluencerContent"
 import PressArticles from "../components/PressArticles"
 import SimilarCampaigns from "../components/SimilarCampaigns"
@@ -13,12 +15,10 @@ export default function CampaignTemplate({ pageContext, data }) {
 
   const { markdownRemark, similarCampaigns } = data
   const { frontmatter, html } = markdownRemark
-  const { client, heroImage, sub, subType, stats, press, posts } = frontmatter;
+  const { client, heroImage, sub, subType, subVideo, stats, press, posts } = frontmatter;
   // const { tags } = frontmatter
 
   // console.log(frontmatter)
-
-  // console.log(similarCampaigns)
 
   const campaignSelection = similarCampaigns.edges.slice(0, 4);
 
@@ -37,50 +37,9 @@ export default function CampaignTemplate({ pageContext, data }) {
             id="hero-image"
           />
               
-          <div className="campaign-detail-body-container">      
-            <div className="campaign-detail-section-container" id="overview-section">
-              <p className='campaign-detail-section-header' id="overview-header">Brief Overview</p>
-              <div className="campaign-description" dangerouslySetInnerHTML={{ __html: html }} />
-            </div>
-              
-            <div className="campaign-detail-section-container" id="stats-section">
-              <p className='campaign-detail-section-header' id="stats-header">Key Stats</p>
-              <ul className="campaign-stats-list">
-                {stats.map((stat, i) => (
-                  <li className="campaign-stat" key={i}>{stat}</li>
-                ))}
-              </ul>
-            </div>
-          </div>
+          <CampaignDetail html={html} stats={stats} />
           
-          {subType === "image" && sub.length > 0 ?
-            
-            <LazyImage
-              src={sub}
-              placeholder={sub.replace('/upload/', '/upload/w_20/e_blur:200/')}
-              alt="non-hero"
-              className='header-image'
-              id="sub-image"
-            />
-            
-            :
-          
-            <>
-
-            { subType === "video" ?
-              
-              <iframe className="header-image" title="header-image" id="sub-video" src={sub} />
-              
-              :
-
-              <>
-              </>
-          
-            }
-          
-            </>
-            
-          }
+          <CampaignSubSection subType={subType} sub={sub} subVideo={subVideo} />
             
           <div className="campaign-detail-section-container" id="influencer-content-section">
             <p className='campaign-detail-section-header' id="influencer-content-header">Select Influencer Content</p>
@@ -124,6 +83,7 @@ query ($pathName: String!, $tags: [String!]) {
         heroImage 
         sub
         subType
+        subVideo
         stats
         tags
         posts {

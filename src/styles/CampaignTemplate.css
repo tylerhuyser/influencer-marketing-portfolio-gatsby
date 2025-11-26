@@ -87,9 +87,34 @@
   text-align: left;
 }
 
-#sub-video {
-  height: 760px;
+.campaign-video-wrapper {
+  padding-top: 2rem;
+
+  overflow: hidden;
 }
+
+.horizontal-video {
+  height: auto;
+  width: 70vw;
+  aspect-ratio: 16 / 9;
+}
+
+.vertical-video {
+  width: auto;
+  height: 50vh;
+  aspect-ratio: 4 / 5;
+}
+
+.campaign-video {
+
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
+/* #sub-video {
+  height: 760px;
+} */
 
 .influencer-content-container, .press-articles-container, .similar-campaigns-container {
   width: 100%;

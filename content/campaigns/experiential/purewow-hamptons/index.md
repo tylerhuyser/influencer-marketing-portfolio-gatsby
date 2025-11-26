@@ -4,8 +4,9 @@ path: "/campaigns/purewow-hamptons/"
 category: "experiential"
 coverImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767994/influencer-campaigns/Hamptons_2018/purewow-hamptons-cover-image.webp"
 heroImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767995/influencer-campaigns/Hamptons_2018/purewow-hamptons-hero-image.webp"
-sub: "https://www.youtube.com/embed/U9su0ViO-nU"
+sub: "https://res.cloudinary.com/tylerhuyser/video/upload/v1764197487/influencer-campaigns/Videos/sub_video_purewow_hamptons_compressed_q6gofl.mp4"
 subType: "video"
+subVideo: "horizontal"
 stats:
   - Over fifty (50+) Influencers in attendance
   - Twenty (20) brands represented

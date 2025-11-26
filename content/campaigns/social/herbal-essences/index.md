@@ -4,8 +4,9 @@ path: "/campaigns/herbal-essences/"
 category: "social"
 coverImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768006/influencer-campaigns/Herbal_Essences/herbal-essences-cover-image.webp"
 heroImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768007/influencer-campaigns/Herbal_Essences/herbal-essences-hero-image.webp"
-sub: "https://www.youtube.com/embed/JShAyES0Jpc"
+sub: "https://res.cloudinary.com/tylerhuyser/video/upload/v1764196257/influencer-campaigns/Videos/sub_video_herbal_essences_wkkzej.mp4"
 subType: "video"
+subVideo: "horizontal"
 stats:
   - Ten (10) Influencers (across the Celebrity, Macro, and Rising Tiers)
   - Twenty (20) Pieces of Content (1 x post + 1 x story w/ Swipe Up)

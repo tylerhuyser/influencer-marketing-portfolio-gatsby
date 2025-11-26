@@ -4,8 +4,9 @@ path: "/campaigns/sexy-hair/"
 category: "video"
 coverImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768183/influencer-campaigns/Sexy_Hair/sexy-hair-cover-image.webp"
 heroImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768183/influencer-campaigns/Sexy_Hair/sexy-hair-hero-image.webp"
-sub: "https://player.vimeo.com/video/345541829?h=b8b91b9448"
+sub: "https://res.cloudinary.com/tylerhuyser/video/upload/v1764196230/influencer-campaigns/Videos/sub_video_sexy_hair_ta2anp.mp4"
 subType: "video"
+subVideo: "vertical"
 stats:
   - Two (2) x Influencers
   - Two (2) x Pieces of Content

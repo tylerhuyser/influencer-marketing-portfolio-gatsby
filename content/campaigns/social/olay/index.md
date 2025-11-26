@@ -4,8 +4,9 @@ path: "/campaigns/olay/"
 category: "social"
 coverImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768147/influencer-campaigns/Olay_the_Musical/olay-cover-image.webp"
 heroImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768148/influencer-campaigns/Olay_the_Musical/olay-hero-image.webp"
-sub: "https://www.youtube.com/embed/Jl-6oJT-YCk"
+sub: "https://res.cloudinary.com/tylerhuyser/video/upload/v1764196265/influencer-campaigns/Videos/sub_video_olay_campaign_mssu9e.mp4"
 subType: "video"
+subVideo: "horizontal"
 stats:
   - Ten (10) Influencers (Micro + Rising Tiers)
   - Twenty (20) pieces of content (Video + Story w/ Swipe Up)

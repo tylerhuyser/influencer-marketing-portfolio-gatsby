@@ -4,8 +4,9 @@ path: "/campaigns/design-me/"
 category: "video"
 coverImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767948/influencer-campaigns/DesignMe/design-me-cover-image.webp"
 heroImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767948/influencer-campaigns/DesignMe/design-me-hero-image.webp"
-sub: "https://lh3.google.com/u/0/d/160aMBlzdRA0wacw98fBySZU1_DQiljCL"
+sub: "https://res.cloudinary.com/tylerhuyser/video/upload/v1764196172/influencer-campaigns/Videos/sub_video_design_me_vf0xb1.mp4"
 subType: "video"
+subVideo: "vertical"
 stats:
   - Two (2) Influencers
   - Two (2) Branded Videos

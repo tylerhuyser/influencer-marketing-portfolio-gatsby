@@ -6,6 +6,7 @@ coverImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768138/inf
 heroImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768139/influencer-campaigns/Olay_Live_The_Road_to_Glow/olay-musical-road-to-glow-hero-image.webp"
 sub: "https://www.youtube.com/embed/p85DBJ5Xa0o"
 subType: "video"
+subVideo: "horizontal"
 stats:
   - Thirty-Four (34) influencers
   - Over One Hundred (100+) pieces of content (Post + Stories combined)

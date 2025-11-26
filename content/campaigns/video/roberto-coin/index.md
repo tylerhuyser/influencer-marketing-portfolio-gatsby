@@ -4,8 +4,9 @@ path: "/campaigns/roberto-coin/"
 category: "video"
 coverImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768180/influencer-campaigns/Roberto_Coin/roberto-coin-cover-image.webp"
 heroImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768181/influencer-campaigns/Roberto_Coin/roberto-coin-hero-image.webp"
-sub: "https://player.vimeo.com/video/346928112?h=ccb4ea41d4"
+sub: "https://res.cloudinary.com/tylerhuyser/video/upload/v1764196163/influencer-campaigns/Videos/sub_video_roberto_coin_txhxrz.mp4"
 subType: "video"
+subVideo: "vertical"
 stats:
   - One (1) Influencer
   - One (1) Piece of Content (Video)

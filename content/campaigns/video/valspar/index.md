@@ -4,8 +4,9 @@ path: "/campaigns/valspar/"
 category: "video"
 coverImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768194/influencer-campaigns/Valspar/valspar-cover-image.webp"
 heroImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768194/influencer-campaigns/Valspar/valspar-hero-image.webp"
-sub: "https://player.vimeo.com/video/307375910?h=7df52e1b22&title=0&byline=0&portrait=0"
+sub: "https://res.cloudinary.com/tylerhuyser/video/upload/v1764196212/influencer-campaigns/Videos/sub_video_valspar_tuxrwj.mp4"
 subType: "video"
+subVideo: "vertical"
 stats:
   - Three (3) Influencers
   - Six (6) piece of content
