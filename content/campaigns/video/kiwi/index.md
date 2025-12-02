@@ -26,6 +26,6 @@ press:
 showInProjects: true
 ---
 
-While Kiwi is famous for their line of premium shoe care products, they wanted to steer consumer awareness towards their latest innovation: Kiwi Protect-All Waterproof Spray.
+While Kiwi is famous for their line of premium shoe care products, they wanted to steer consumer awareness towards their latest innovation: [Kiwi Protect-All Waterproof Spray](https://amzn.to/48tFUX9).
 
 Crafting a mini-content series featuring the product, we cast fashionista influencers to outline the various ways in which Kiwi's Protect-All Waterproof Spray is an essential element within their closet.

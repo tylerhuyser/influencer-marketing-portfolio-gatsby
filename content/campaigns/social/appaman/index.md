@@ -23,6 +23,6 @@ showInProjects: true
 
 There's greater feeling than seeing your kid feeling his best. So this spring, bolster his confidence with a sharp suit he’ll actually want to wear to all of your family events.
 
-Appaman sought to raise consumer awareness of their line of boy's suits. Enlisting the help of PureWow, out team assembled a program featuring three mommy influencers. The ask? To style their sons in all-Appaman attire.
+[Appaman](https://amzn.to/3Ma5GbD) sought to raise consumer awareness of their line of boy's suits. Enlisting the help of PureWow, out team assembled a program featuring three mommy influencers. The ask? To style their sons in all-Appaman attire.
 
 The results were undeniably adorable, and clearly registered with their followings, netting nearly 115,000 impressions from a total of 185,000 combined followers (a 62% engagement rate).

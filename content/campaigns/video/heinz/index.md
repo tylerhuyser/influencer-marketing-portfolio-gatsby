@@ -27,7 +27,7 @@ press:
 showInProjects: true
 ---
 
-While mayonnaise might be one of the most recognizable condiments in the world, Heinz sought to increase consumer awareness of some outside-the-box uses for the condiment.
+While mayonnaise might be one of the most recognizable condiments in the world, [Heinz](https://amzn.to/4rxk1iv) sought to increase consumer awareness of some outside-the-box uses for the condiment.
 
 Producing a Top Chef-inspired mini-series, we enlisted the help of three chef influencers to develop a total of five (5) original recipes for the show.
 

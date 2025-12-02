@@ -43,10 +43,6 @@
   object-fit: contain;
 }
 
-#hero-image {
-  width: 50%;
-}
-
 .campaign-detail-body-container {
 
   display: flex;

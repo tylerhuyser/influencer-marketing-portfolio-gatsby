@@ -23,7 +23,7 @@ press:
 showInProjects: true
 ---
 
-Following the release of their Texture series of professional haircare products, Sexy Hair sought to increase consumer awareness of the products' ability to create the perfect beach-y look.
+Following the release of their [Texture series](https://amzn.to/48wq51Q) of professional haircare products, Sexy Hair sought to increase consumer awareness of the products' ability to create the perfect beach-y look.
 
 Partnering with Blink Beauty, our team created a mini-tutorial series, starring lifestyle & beauty influencers in order to showcase the magic that Sexy Hair can create.
 

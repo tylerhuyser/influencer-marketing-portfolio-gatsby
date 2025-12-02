@@ -25,7 +25,7 @@ press:
 showInProjects: true
 ---
 
-Luxury fashion & beauty house, Carolina Herrera sought to celebrate the launch of the new & reformulated Good Girl Légère fragrance. Working with PureWow, the brand planned a kick-off event where potential customers could experience the energy of the fragrance.
+Luxury fashion & beauty house, [Carolina Herrera](https://amzn.to/3KsZk6C) sought to celebrate the launch of the new & reformulated [Good Girl Légère](https://www.amazon.com/Carolina-Herrera-Legere-Women-Parfum/dp/B07F67ZCZH?th=1&linkCode=ll1&tag=influence057b-20&linkId=4826e2bb9b15a1449064ff59842d430b&language=en_US&ref_=as_li_ss_tl) fragrance. Working with PureWow, the brand planned a kick-off event where potential customers could experience the energy of the fragrance.
 
 Our team's task was to expand the footprint of the event by inviting influencers to share the Good Girl experience through Instagram.
 

@@ -25,6 +25,6 @@ press:
 showInProjects: true
 ---
 
-Dove sought to remove the stigma surrounding seeking pleasure. After all, why not treat yo' self? Partnering with PureWow, Dove threw a multi-sensorial event that celebrated what life is all about: indulgence.
+[Dove](https://amzn.to/3MeTZ3l) sought to remove the stigma surrounding seeking pleasure. After all, why not treat yo' self? Partnering with PureWow, Dove threw a multi-sensorial event that celebrated what life is all about: indulgence.
 
 To compliment the event, our team invited a select group of influencers to share the Dove #PleasureSeeker experience with their followers, generating over 250,000 organic impressions as added value.

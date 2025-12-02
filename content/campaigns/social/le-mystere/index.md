@@ -23,6 +23,6 @@ press:
 showInProjects: true
 ---
 
-While Le Mystere is known for the sexiness of their iconic lingerie, they wanted to increase awareness of their product's comfort and flexibility.
+While [Le Mystere](https://amzn.to/48xgrw6) is known for the sexiness of their iconic lingerie, they wanted to increase awareness of their product's comfort and flexibility.
 
 Assembling a small cohort of fashion bloggers, we crafted an influencer campaign that emphasized the ways Le Mystere fits within a daily lifestyle.

@@ -23,7 +23,7 @@ press:
 showInProjects: true
 ---
 
-Valspar sought the creation of a content series in order to celebrate their 2019 "Colors of the Year" palette.
+[Valspar](https://amzn.to/3Y2nfwH) sought the creation of a content series in order to celebrate their 2019 "Colors of the Year" palette.
 
 Inviting home decor influencers as guest designers, we created tutorials illustrating the multitude of ways customers can reinvigorate their homes using Valspar's paint products.
 

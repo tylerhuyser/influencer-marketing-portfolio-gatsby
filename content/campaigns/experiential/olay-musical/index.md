@@ -34,7 +34,7 @@ press:
 showInProjects: true
 ---
 
-Following the viral success of musical-commercial "I Can't Wait to Wash My Face", Olay set their eyes on new musical heights: Broadway (yes, Broadway!)
+Following the viral success of musical-commercial "I Can't Wait to Wash My Face", [Olay](https://amzn.to/4pOhoY0) set their eyes on new musical heights: Broadway (yes, Broadway!)
 
 Producing a forty-five minute show, entitled "The Road to Glow," Olay made its Broadway debut on April 9th--for one night only!
 

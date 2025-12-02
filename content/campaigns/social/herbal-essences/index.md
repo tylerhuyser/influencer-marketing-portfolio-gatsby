@@ -30,6 +30,6 @@ press:
 showInProjects: true
 ---
 
-In the days leading up to the Royal Wedding, the world was seemingly ablaze with Markle-mania. Looking to capitalize on the uproar, Herbal Essences sought to raise awareness towards their royal connection with Kew Gardens.
+In the days leading up to the Royal Wedding, the world was seemingly ablaze with Markle-mania. Looking to capitalize on the uproar, [Herbal Essences](https://amzn.to/4or6EgV) sought to raise awareness towards their royal connection with Kew Gardens.
 
 Leveraging the help of PureWow's one-to-one influencer network, The Coterie, we were able to execute the campaign within twenty-four hours--just in time for the Royal Couple to say "I do".

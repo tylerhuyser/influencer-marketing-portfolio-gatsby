@@ -148,6 +148,20 @@ module.exports = {
         display: `minimal-ui`,
         icon: `src/images/icon.png`,
       },
+    },
+    {
+      resolve: `gatsby-transformer-remark`,
+      options: {
+        plugins: [
+          {
+            resolve: `gatsby-remark-external-links`,
+            options: {
+              target: `_blank`,
+              rel: `nofollow sponsored noopener noreferrer`,
+            },
+          },
+        ],
+      },
     }
   ],
   mapping: {

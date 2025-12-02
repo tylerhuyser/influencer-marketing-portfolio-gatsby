@@ -23,6 +23,6 @@ press:
 showInProjects: true
 ---
 
-Clairol sought to increase consumer awareness of their reformulated product. Finally, there's a boxed dye that's good for all kinds of hair.
+[Clairol](https://amzn.to/4peaRpl) sought to increase consumer awareness of their reformulated product. Finally, there's a boxed dye that's good for all kinds of hair.
 
 Partnering with PureWow, our team assembled a diverse set of influencers, coming from various racial backgrounds, in order to illustrate the magic that Clairol can bring to anybody.

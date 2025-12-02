@@ -30,4 +30,4 @@ showInProjects: true
 
 Following the viral success of "I Can't Wait to Wash My Face", Olay sought to increase the ad's exposure by airing it during the 2019 MTV VMAs.
 
-In order to further build hype around the musical, we leveraged some of Broadway's finest performers to recreate the commercial's campy creativity. Furthermore, these influencers were asked to "challenge" their colleagues to create their own "I Can't Wash My Face" challenge.
+In order to further build hype around the musical, we leveraged some of Broadway's finest performers to recreate the commercial's campy creativit and promote the company's line of [daily facial cleansing products](https://amzn.to/3MeRdLp). Furthermore, these influencers were asked to "challenge" their colleagues to create their own "I Can't Wash My Face" challenge.

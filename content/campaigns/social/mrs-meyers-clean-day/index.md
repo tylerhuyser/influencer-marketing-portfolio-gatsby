@@ -3,8 +3,8 @@ client: "Mrs. Meyer's Clean Day"
 path: "/campaigns/mrs-meyers-clean-day/"
 category: "social"
 coverImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768117/influencer-campaigns/Mrs_Meyers/mrs-meyers-clean-day-cover-image.webp"
-heroImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768118/influencer-campaigns/Mrs_Meyers/mrs-meyers-clean-day-sub-image.webp"
-sub: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768118/influencer-campaigns/Mrs_Meyers/mrsmeyers-clean-day-hero-image.webp"
+heroImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768118/influencer-campaigns/Mrs_Meyers/mrsmeyers-clean-day-hero-image.webp"
+sub: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768118/influencer-campaigns/Mrs_Meyers/mrs-meyers-clean-day-sub-image.webp"
 subType: "image"
 stats:
   - Four (4) Influencers (3 x Rising, 1 x Macro)
@@ -31,9 +31,8 @@ press:
 showInProjects: true
 ---
 
-After announcing the release of their Compassion Flower line of products, Mrs. Meyer's Clean Day sought to drive consumer awareness towards the greater corporate social responsibility (CSR) efforts attached to the product.
+After announcing the release of their [Compassion Flower](https://amzn.to/3Kjb9w9) line of products, [Mrs. Meyer's Clean Day](https://amzn.to/44KZZHj) sought to drive consumer awareness towards the greater corporate social responsibility (CSR) efforts attached to the product.
 
 The Compassion Flower is a proprietary hybrid of Viola and Pansy, symbolizing empathy and thoughtfulness, with the purpose of growing kindness. In purchasing a Compassion Flower product, a portion of proceeds goes towards donating Growing Compassion Gardening Kits to schools nationwide, providing tools and lesson plans for teaching kids kindness.
 
 As such, we assembled an influencer program featuring two primary resources for learning compassion: mothers and teachers. Each influencer was given a Compassion Flower kit and instructed to create content centered on lessons of compassion, featuring their family or students.
-"

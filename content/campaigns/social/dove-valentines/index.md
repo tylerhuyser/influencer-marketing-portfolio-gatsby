@@ -3,7 +3,7 @@ client: "Dove Valentine's Day"
 path: "/campaigns/dove-valentines/"
 category: "social"
 coverImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767975/influencer-campaigns/Dove_Valentine_s_Day/dove-valentines-cover-image.webp"
-heroImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767975/influencer-campaigns/Dove_Valentine_s_Day/dove-valentines-cover-image.webp"
+heroImage: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767975/influencer-campaigns/Dove_Valentine_s_Day/dove-valentines-hero-image.webp"
 sub: "https://res.cloudinary.com/tylerhuyser/image/upload/v1763767976/influencer-campaigns/Dove_Valentine_s_Day/dove-valentines-sub-image.webp"
 subType: "none"
 stats:
@@ -22,6 +22,6 @@ press:
 showInProjects: true
 ---
 
-While Valentine's Day is a celebration of love for some, for others it is holiday better left forgotten. This year, Dove wanted to flip the script and celebrate singlehood.
+While Valentine's Day is a celebration of love for some, for others it is holiday better left forgotten. This year, [Dove](https://amzn.to/3MeTZ3l) wanted to flip the script and celebrate singlehood.
 
 Assembling a diverse group of influencers, we created a campaign that encouraged single customers to treat themselves this Valentine's day with a nice dinner, a bouquet of flowers, and a bag of Dove chocolates.

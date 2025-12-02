@@ -38,7 +38,7 @@ press:
 showInProjects: true
 ---
 
-Clinique sought to promote their newest holiday sets just in time for Black Friday and the holidays.
+Clinique sought to promote their [newest holiday sets](https://amzn.to/4pP0kBc) just in time for Black Friday and the holidays.
 
 Clinique partnered with PureWow to assemble an influencer program that featured a mix of celebrity and macro-tier influencers in the beauty category.
 

@@ -25,7 +25,7 @@ press:
 showInProjects: true
 ---
 
-Leading air freshener brand, Glade, wanted to build brand affinity while promoting their iconic Plug-Ins Scented Oil (PISO) and candle products. The Glade team worked with the PureWow team in order to create a content series and influencer program that would help achieve this goal.
+Leading air freshener brand, Glade, wanted to build brand affinity while promoting their iconic [Plug-Ins Scented Oil (PISO)](https://amzn.to/48fZ6Jh) and [candle](https://amzn.to/3XyDlhx) products. The Glade team worked with the PureWow team in order to create a content series and influencer program that would help achieve this goal.
 
 The four-part content series was entitled "Inside My \_\_\_\_ Home". Each video featured a celebrity-level influencer, such as Hilaria Baldwin or Catherine Giudici Lowe, who would offer viewers a tour of their home. Each tour culminated in a reveal of the Glade PISO and a description of how the air freshening product created the perfect mood to complete their home.
 

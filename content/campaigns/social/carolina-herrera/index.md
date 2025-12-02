@@ -40,7 +40,7 @@ press:
 showInProjects: true
 ---
 
-With the release of Good Girl Légère EDP, Carolina Herrera sought to raise awareness of the reformulated product's evolution from the original (and iconic) Good Girl fragrance.
+With the release of [Good Girl Légère EDP](https://www.amazon.com/Carolina-Herrera-Legere-Women-Parfum/dp/B07F67ZCZH?th=1&linkCode=ll1&tag=influence057b-20&linkId=4826e2bb9b15a1449064ff59842d430b&language=en_US&ref_=as_li_ss_tl), Carolina Herrera sought to raise awareness of the reformulated product's evolution from the original (and iconic) Good Girl fragrance.
 
 Partnering with PureWow, our team created an influencer program that leveraged a diverse array of lifestyle influencers in order to give the product a comprehensive introduction to the market.
 

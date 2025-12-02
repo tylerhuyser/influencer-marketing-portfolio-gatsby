@@ -27,7 +27,7 @@ press:
 showInProjects: true
 ---
 
-Amazon Studios wanted to increase consumer awareness of its latest release, the drama, "Life Itself".
+Amazon Studios wanted to increase consumer awareness of its latest release, the drama, ["Life Itself"](https://amzn.to/4rwqjPi).
 
 Partnering with PureWow for the collaboration, our team sought to assemble a cohort of influencers who would relate to the film's central theme: the uncertainty of life and the power of love.
 

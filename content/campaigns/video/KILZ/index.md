@@ -21,7 +21,7 @@ press:
 showInProjects: true
 ---
 
-KILZ sought to better educate customers on how to get the most out of their various home improvement products. Partnering with PureWow, our team crafted a mini-content series to help achieve this goal.
+[KILZ](https://amzn.to/4iz7LKd) sought to better educate customers on how to get the most out of their various home improvement products. Partnering with PureWow, our team crafted a mini-content series to help achieve this goal.
 
 The video series was composed of short "how-to" videos, showcasing unconventional uses for their paint & wood finishing products.
 

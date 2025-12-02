@@ -22,7 +22,7 @@ press:
 showInProjects: true
 ---
 
-Being a relatively young brand, Design.Me sought to increase awareness of their haircare products.
+Being a relatively young brand, Design.Me sought to increase awareness of their [haircare products](https://amzn.to/4pbCzTJ).
 
 Partnering with Blink Beauty, we devised a content mini-series cataloging hair tutorials using Design.Me products.
 

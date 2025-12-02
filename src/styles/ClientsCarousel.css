@@ -113,12 +113,12 @@
   }
 
   #left-arrow {
-    left: 50px;
+    left: 48px;
     background: linear-gradient(to right, rgba(256, 256, 256, 1), rgba(256, 256, 256, 1), rgba(256, 256, 256, 1), rgba(256, 256, 256, 0));
   }
 
   #right-arrow {
-    right: 50px;
+    right: 48px;
     background: linear-gradient(to left, rgba(256, 256, 256, 1), rgba(256, 256, 256, 1), rgba(256, 256, 256, 1), rgba(256, 256, 256, 0));
   }
 

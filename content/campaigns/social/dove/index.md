@@ -23,7 +23,7 @@ press:
 showInProjects: true
 ---
 
-Chocolatier, Dove, sought to increase consumer awareness of the multitude of use for their iconic heart-shaped chocolates (beyond the needed moment of indulgence, of course).
+Chocolatier, [Dove](https://amzn.to/3MeTZ3l), sought to increase consumer awareness of the multitude of use for their iconic heart-shaped chocolates (beyond the needed moment of indulgence, of course).
 
 As such, Dove partnered with PureWow to build an influencer program that would showcase Dove chocolates being used in other ways. Our team assembled a small group of baking-savvy influencers to develop original recipes & videos featuring Dove chocolates.
 

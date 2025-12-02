@@ -35,6 +35,6 @@ press:
 showInProjects: true
 ---
 
-Ahead of the Summer, Kenneth Cole sought to promote their footwear to customers of both genders. For women, Kenneth Cole sought to highlight their classic collections whereas for men, Kenneth Cole sought to highlight their futuristic Podtech technology.
+Ahead of the Summer, [Kenneth Cole](https://amzn.to/48fQfXZ) sought to promote their footwear to customers of both genders. For women, Kenneth Cole sought to highlight their classic collections whereas for men, Kenneth Cole sought to highlight their futuristic Podtech technology.
 
 Assembling a diverse array of fashion influencers, we tasked them with showcasing how Kenneth Cole footwear could transform a look.
