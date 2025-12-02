@@ -1,21 +1,27 @@
 .campaigns-by-category-container {
+  padding: 1rem 1.5rem;
+
   display: flex;
   flex-direction: column;
   align-items: flex-start;
   justify-content: center;
 
-  width: 100%;
 }
 
 .campaigns-by-category-title {
   width: 100%;
-  /* height: 100px; */
-  margin-bottom: 50px;
+  margin-bottom: 3rem;
 
   font-family: "Benton Sans Bold", "Benton Sans Bold", sans-serif;
   color: #555555;
-  font-size: 30px;
+  font-size: 2rem;
   font-weight: bold;
   line-height: 1.4 !important;
   text-align: center;
+}
+
+@media only screen and (min-width: 768px) {
+  .campaigns-by-category-container {
+    padding: 1.5rem 3rem;
+  }
 }

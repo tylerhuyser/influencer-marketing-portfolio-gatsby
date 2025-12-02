@@ -26,49 +26,56 @@ export default function CampaignTemplate({ pageContext, data }) {
 
     <Layout title={`${client} | Influencer Campaign`} description={html.replace(/<[^>]*>?/gm, '')} >
 
-        <div className="campaign-detail-container">
-                    
-          <h1 className="campaign-detail-title" id={`${client} title`}>{client}</h1>             
-          <LazyImage
-            src={heroImage}
-            placeholder={heroImage.replace('/upload/', '/upload/w_20/e_blur:200/')}
-            alt="header-hero"
-            className='header-image'
-            id="hero-image"
-          />
-              
-          <CampaignDetail html={html} stats={stats} />
-          
-          <CampaignSubSection subType={subType} sub={sub} subVideo={subVideo} />
+      <div className="affiliate-disclosure-container">
+        <p className="affiliate-disclosure-copy">
+          *This post may contain affiliate links, which means we may receive a commission—at no additional cost to you—if you make a purchase through one of these links.
+        </p>
+      </div>
+
+      <div className="campaign-detail-container">
+                  
+      <h1 className="campaign-detail-title" id={`${client} title`}>{client}</h1>
+
+        <LazyImage
+          src={heroImage}
+          placeholder={heroImage.replace('/upload/', '/upload/w_20/e_blur:200/')}
+          alt="header-hero"
+          className='header-image'
+          id="hero-image"
+        />
             
-          <div className="campaign-detail-section-container" id="influencer-content-section">
-            <p className='campaign-detail-section-header' id="influencer-content-header">Select Influencer Content</p>
-            <InfluencerContent posts={posts} />
-          </div>
-
-          { press && press.length > 0 && press[0] !== null ?
-
-            <div className="campaign-detail-section-container" id="press-section">
-              <p className='campaign-detail-section-header' id="press-header">Press</p>
-              <PressArticles press={press} />
-            </div>
-          
-            :
-
-            <></>
-        }
+        <CampaignDetail html={html} stats={stats} />
         
-          <div className="campaign-detail-section-container" id="similar-campaigns-section">
+        <CampaignSubSection subType={subType} sub={sub} subVideo={subVideo} />
           
-            <p className='campaign-detail-section-header' id="press-header">Similar Campaigns</p>
-          
-            <SimilarCampaigns similarCampaigns={campaignSelection} />
-          
-          </div>
-            
+        <div className="campaign-detail-section-container" id="influencer-content-section">
+          <p className='campaign-detail-section-header' id="influencer-content-header">Select Influencer Content</p>
+          <InfluencerContent posts={posts} />
         </div>
-              
-      </Layout>       
+
+        { press && press.length > 0 && press[0] !== null ?
+
+          <div className="campaign-detail-section-container" id="press-section">
+            <p className='campaign-detail-section-header' id="press-header">Press</p>
+            <PressArticles press={press} />
+          </div>
+        
+          :
+
+          <></>
+      }
+      
+        <div className="campaign-detail-section-container" id="similar-campaigns-section">
+        
+          <p className='campaign-detail-section-header' id="press-header">Similar Campaigns</p>
+        
+          <SimilarCampaigns similarCampaigns={campaignSelection} />
+        
+        </div>
+          
+      </div>
+            
+    </Layout>       
         
   )
 }

@@ -27,8 +27,8 @@ press:
 showInProjects: true
 ---
 
-Following the release of their new City Shield skincare line of products, Neutrogena sought raise consumer awareness of the products' wide array of benefits.
+Following the release of their new [City Shield](https://www.amazon.com/s?k=Neutrogena+City+Shield&i=beauty&crid=1EYNIYSBGO9U6&sprefix=neutrogena+city+shield%2Cbeauty%2C94&linkCode=ll2&tag=influence057b-20&linkId=a691e4bf652fedb1eeeaafb1ec96f0b9&language=en_US&ref_=as_li_ss_tl) line of skincare products, Neutrogena sought raise consumer awareness of the products' wide array of benefits.
 
-Partnering with Blink Beauty, we selected a diverse array on influencers, from various regions of the United States, to explain how Neutrogena City Shield helps combat the pollutants in their area.
+Partnering with Blink Beauty, we selected a diverse array on influencers, from various regions of the United States, to explain how [Neutrogena City Shield](https://www.amazon.com/Neutrogena-Hyaluronic-Antioxidants-Alcohol-free-Non-comedogenic/dp/B07GRBQXTV?&linkCode=ll1&tag=influence057b-20&linkId=e36cbdddb94a0f191b7750d4c304156b&language=en_US&ref_=as_li_ss_tl) helps combat the pollutants in their area.
 
 Beyond syndication on the influencer's handles, content was featured in a user-generated-content (UGC) round-up on Blink Beauty's web & social properties.

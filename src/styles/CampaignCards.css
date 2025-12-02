@@ -8,20 +8,22 @@
 
   display: grid;
   grid-template-columns: 1fr;
-  gap: 25px;
+  gap: 3rem;
   justify-items: center;
   align-items: start;
 }
 
 .campaign-card-container {
   width: 100%;
-  padding-bottom: 50px;
+  max-width: 550px;
+  /* padding-bottom: 3rem; */
 
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
   align-items: center;
 
+  text-align: center;
   text-decoration: none;
   text-decoration-line: none;
 }
@@ -33,18 +35,17 @@
 
   font-family: "Benton Sans Bold", "Benton Sans Bold", sans-serif;
   color: #555555;
-  font-size: 30px;
+  font-size: 1.5rem;
   font-weight: bold;
   line-height: 1.4 !important;
-  text-align: center;
 }
 
 .campaign-card-image {
-  width: 96%;
+  width: 100%;
   height: auto;
   padding-bottom: 50px;
 
-  object-fit: contain;
+  object-fit: cover;
 
   -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
   -moz-box-sizing: border-box; /* Firefox, other Gecko */
@@ -54,31 +55,19 @@
 @media only screen and (min-width: 481px) {
 
   .campaign-cards-container {
-    grid-template-columns: repeat(2, 45%);
+    grid-template-columns: repeat(2, 1fr);
     justify-content: space-around;
   }
-
-  .campaign-card-container {
-    width: min(45vw, 550px);
-  }
-
-  .campaign-card-title {
-    font-size: 30px;
-  }
-}
-
-@media only screen and (min-width: 768px) {
-
 }
 
 @media only screen and (min-width: 1024px) {
 
   .campaign-cards-container {
-    grid-template-columns: repeat(3, 33%);
+    grid-template-columns: repeat(3, 1fr);
     justify-content: space-between;
   }
 
   .campaign-card-container {
-    width: min(30vw, 350px);
+    max-width:350px;
   }
 }

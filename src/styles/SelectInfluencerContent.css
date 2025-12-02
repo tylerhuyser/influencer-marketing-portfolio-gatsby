@@ -1,27 +1,15 @@
 .select-influencer-content-container {
   width: 100%;
-  margin-bottom: 50px;
-
-  /* display: flex;
-  flex-direction: row;
-  justify-content: center;
-  align-items: flex-start;
-  flex-wrap: wrap;
-  gap: 25px; */
+  margin-bottom: 3rem;
 
   display: grid;
   grid-template-columns: 1fr;
   justify-items: center;
   align-items: start;
-  gap: 25px;
-
-  overflow: hidden;
+  gap: 1.5rem;
 }
 
 .influencer-post-container {
-  width: calc(100vw - 100px);
-  height: calc(100vw - 100px);
-
   display: flex;
   justify-content: center;
   align-items: center;
@@ -33,20 +21,16 @@
 
 .influencer-post {
   width: 100%;
-  height: 100%;
+  height: auto;
+  aspect-ratio: 1 / 1;
   object-fit: cover;
 
 }
 
 @media only screen and (min-width: 481px) {
   .select-influencer-content-container {
-    grid-template-columns: repeat(3, 150px);
+    grid-template-columns: repeat(3, 1fr);
     justify-content: center;
-  }
-
-  .influencer-post-container {
-    width: 150px;
-    height: 150px;
   }
 
   .influencer-post-container:nth-child(n + 6) {
@@ -55,26 +39,18 @@
 }
 
 @media only screen and (min-width: 768px) {
-  .select-influencer-content-container {
-    grid-template-columns: repeat(3, 200px);
-  }
-
-  .influencer-post-container {
-    width: 200px;
-    height: 200px;
-  }
 }
 
 @media only screen and (min-width: 1024px) {
   .select-influencer-content-container {
-    grid-template-columns: repeat(4, 200px);
+    grid-template-columns: repeat(4, 1fr);
     justify-content: center;
   }
 }
 
 @media only screen and (min-width: 1200px) {
   .select-influencer-content-container {
-    grid-template-columns: repeat(5, 200px);
+    grid-template-columns: repeat(5, 1fr);
     justify-content: space-between;
   }
 }
