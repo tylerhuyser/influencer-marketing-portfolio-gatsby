@@ -1,9 +1,14 @@
-import React, { useRef } from 'react';
+import React, { useState, useRef } from 'react';
 import emailjs from '@emailjs/browser';
 
 import "../styles/ContactForm.css"
 
-export default function ContactForm () {
+export default function ContactForm() {
+
+  const [name, setName] = useState("");
+  const [email, setEmail] = useState("");
+  const [message, setMessage] = useState("");
+  
   const form = useRef();
 
   const sendEmail = (e) => {
@@ -26,11 +31,40 @@ export default function ContactForm () {
   
       <form className='contact-form' ref={form} onSubmit={sendEmail}>
 
-        <input className='contact-form-input' id="name-input" type="text" name="user_name" placeholder='Name' />
-        <input className='contact-form-input' id="email-input" type="email" name="user_email" placeholder='Email' />
-        <textarea className='contact-form-input' id="message-input" name="message" placeholder='Tell me about your project...' />
+        <input
+          className='contact-form-input'
+          id="name-input"
+          type="text"
+          name="user_name"
+          placeholder='Name'
+          value={name}
+          onChange={(e) => setName(e.target.value)}
+        />
 
-        <input className='contact-form-submit-button' type="submit" value="Send" />
+        <input
+          className='contact-form-input'
+          id="email-input"
+          type="email"
+          name="user_email"
+          placeholder='Email'
+          value={email}
+          onChange={(e) => setEmail(e.target.value)}
+        />
+
+        <textarea
+          className='contact-form-input'
+          id="message-input"
+          name="message"
+          placeholder='Tell me about your project...'
+          value={message}
+          onChange={(e) => setMessage(e.target.value)}
+        />
+
+        <input
+          className='contact-form-submit-button'
+          type="submit"
+          value="Send"
+        />
 
       </form>
       

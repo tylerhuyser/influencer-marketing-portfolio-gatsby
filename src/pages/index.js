@@ -34,28 +34,24 @@ const App = ({getServerData}) => {
     <div className="app-container">
       
       <Layout>
-
-          {isMounted ?
               
-            <div className="home-container">
-                
-              <About />
-                
-              <ClientsCarousel />
-              
-              {CaseStudyCardsJSX}
-                
-              <SelectInfluencerContent />
-                
-              <ContactForm />
-              
-              </div>
+        <div className="home-container">
             
-          :
-
-            <Loader finishLoading={() => setIsMounted(true)} id="app-loader" />
-
-        }
+          <About />
+            
+          <ClientsCarousel />
+          
+          {CaseStudyCardsJSX}
+            
+          <SelectInfluencerContent />
+            
+          <ContactForm />
+          
+        </div>
+        
+        {!isMounted && (
+          <Loader finishLoading={() => setIsMounted(true)} id="app-loader" />
+        )}
         
       </Layout>
 

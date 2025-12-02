@@ -17,7 +17,7 @@ export default function CampaignTemplate({ pageContext, data }) {
   const { frontmatter, html } = markdownRemark
   const { client, heroImage, sub, subType, subVideo, stats, press, posts } = frontmatter;
   // const { tags } = frontmatter
-  console.log(press)
+  // console.log(press)
   // console.log(frontmatter)
 
   const campaignSelection = similarCampaigns.edges.slice(0, 4);

@@ -13,7 +13,7 @@ export default function About() {
       <div className="headshot-container">
         <LazyImage
           src={ABOUTIMAGESRC}
-          placeHolder={ABOUTIMAGESRC.replace('/upload/', '/upload/w_20/e_blur:200/')}
+          placeholder={ABOUTIMAGESRC.replace('/upload/', '/upload/w_20/e_blur:200/')}
           alt="about-headshot"
           className="about-headshot" />
       </div>

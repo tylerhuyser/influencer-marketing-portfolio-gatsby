@@ -27,7 +27,7 @@ posts:
   - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768146/influencer-campaigns/Olay_Live_The_Road_to_Glow/post_08_keri_fay_kerifay.webp"
   - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763768147/influencer-campaigns/Olay_Live_The_Road_to_Glow/post_09_elma_beganovich_elmabeganovich.webp"
 press:
-  - "https://adage.com/article/cmo-strategy/olay-musical-heads-broadway-febreze-releases-album/316959"
+  - "https://adage.com/article/cmo-strategy/olay-musical-heads-broadway-febreze-releases-album/316959/"
   - "https://www.buzzfeed.com/olay/this-musical-perfectly-captures-the-joy-of-being-done-with"
   - "https://www.adweek.com/brand-marketing/olay-turned-a-viral-spot-into-an-off-broadway-musical-of-blatant-product-placement/"
   - "https://www.msn.com/en-us/music/news/purewow-x-olay-present-the-holiday-musical-have-you-heard-about%E2%80%A6/vi-BBQuJPj"
