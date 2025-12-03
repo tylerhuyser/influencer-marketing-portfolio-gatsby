@@ -27,7 +27,7 @@ posts:
   - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763843024/influencer-campaigns/Calvin_Klein/post_02b_vladyslav_poddubnyi__vlady_lifestyle.webp"
   - "https://res.cloudinary.com/tylerhuyser/image/upload/v1763842806/influencer-campaigns/Calvin_Klein/post_04b_mariano_ontanon__marianoont_rwitih.webp"
 press:
-  - "https://web.archive.org/web/https://www.one37pm.com/style/calvin-klein-miguel-andujar-suiting-ideas"
+  - "https://web.archive.org/web/20250418203013/https://www.one37pm.com/style/calvin-klein-miguel-andujar-suiting-ideas"
   - "https://web.archive.org/web/20241007171922/https://www.one37pm.com/style/calvin-klein-dennis-smith-jr-suits"
 showInProjects: true
 ---
