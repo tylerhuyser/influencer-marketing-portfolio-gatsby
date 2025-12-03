@@ -13,9 +13,6 @@ module.exports = {
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@tylerhuyser',
   },
-  flags: {
-    DEV_SSR: true
-  },
   plugins: ["gatsby-plugin-netlify", "gatsby-plugin-image", "gatsby-plugin-mdx", "gatsby-transformer-remark", "gatsby-plugin-sharp", "gatsby-transformer-sharp", `gatsby-plugin-react-helmet`,
   {
     resolve: 'gatsby-plugin-robots-txt',

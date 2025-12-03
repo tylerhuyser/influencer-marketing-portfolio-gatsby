@@ -24,7 +24,7 @@ export default function CampaignTemplate({ pageContext, data }) {
 
   return (
 
-    <Layout title={`${client} | Influencer Campaign`} description={html.replace(/<[^>]*>?/gm, '')} >
+    <Layout title={`${client} | Influencer Campaign`} description={html.replace(/<[^>]*>?/gm, '').slice(0, 155)} >
 
       <div className="affiliate-disclosure-container">
         <p className="affiliate-disclosure-copy">

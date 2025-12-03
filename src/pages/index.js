@@ -12,18 +12,7 @@ import ContactForm from "../components/ContactForm";
 import "../styles/App.css"
 import "../styles/Home.css"
 
-// export async function getServerData() {
-//   try {
-//     // Replace this with a call to your Gatsby backend if needed
-//     const res = await fetch(`https://your-gatsby-backend.com/latest-data`);
-//     const data = await res.json();
-//     return { props: { data } };
-//   } catch (error) {
-//     return { props: {}, error: error.message };
-//   }
-// }
-
-const App = ({getServerData}) => {
+const App = () => {
 
   const [isMounted, setIsMounted] = useState(false)
 
