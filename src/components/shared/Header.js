@@ -70,14 +70,14 @@ export default function Header(props) {
             (windowSize.width > 768 && scrollDirection === 'up' && !scrolledToTop && !menuVisibility) ?
             { transform: 'translateY(0px)',
               boxShadow: 'none',
-              height: "calc(100px - 20px)"
+              height: "calc(100px)"
             }
             :   
             (windowSize.width > 768 && scrollDirection === 'down' && !scrolledToTop && !menuVisibility) ?
             {
               transform: 'translateY(-100px)',
               boxShadow: 'none',
-              height: "calc(100px - 20px)"
+              height: "calc(100px)"
               }
               :
               { transform: 'none' }

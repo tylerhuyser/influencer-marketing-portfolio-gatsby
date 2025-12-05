@@ -58,7 +58,7 @@
   z-index: 5;
 
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  font-size: 1rem;
+  font-size: 1.25rem;
   color: white;
   text-align: center;
   text-decoration: none;
@@ -155,12 +155,12 @@
 
   .header-container {
     width: calc(100vw - 1.5rem);
-    height: calc(100px - 1rem);
-    padding: 0.5rem 1.5rem;
+    height: calc(100px);
+    padding: 0 0 0 1.5rem;
     padding-right: 0px;
 
     grid-template-columns: auto 1fr;
-    grid-template-rows: 80px;
+    grid-template-rows: 100px;
   }
 
   .header-logo-container {
@@ -200,7 +200,7 @@
     z-index: 5;
     
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 1rem;
+    font-size: 1.25rem;
     color: white;
     /* margin: 0px 25px; */
   
